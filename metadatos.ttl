@@ -1,0 +1,36 @@
+PREFIX dcat: <http://www.w3.org/ns/dcat#> 
+PREFIX dct: <http://purl.org/dc/terms/>
+PREFIX sd: <http://www.w3.org/ns/sparql-service-description#> 
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#> 
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX foaf: <http://xmlns.com/foaf/0.1/> 
+PREFIX prov: <http://www.w3.org/ns/prov#>
+PREFIX cc: <http://creativecommons.org/ns#>
+
+<https://prostatecancer.es/dataset/ProstateCancer> rdf:type dcat:Dataset ;
+                                    rdfs:label "Genes predicted in prostate cancer" ;
+                                    foaf:primaryTopic "Genes" ;
+                                    prov:wasDerivedFrom  <https://prostatecancer.es/genes_predicted> ;
+                                    dct:License <http://creativecommons.org/licenses/MIT/> ;
+                                    dcat:distribution <https://prostatecancer.es/rdf/prostatecancer> ;
+                                    dcat:distribution <https://prostatecancer.es/sparql/prostatecancer> ;
+                                    sd:namedGraph <https://prostatecancer.es/graph/genes_predicted> .
+
+<https://prostatecancer.es/rdf/prostatecancer> a dcat:Distribution ;
+  dcat:downloadURL <https://github.com/alumno08/ESD/blob/main/prostatecancer.rdf> ;
+  dct:license <http://creativecommons.org/licenses/by/3.0/es/> ;
+  dct:format <http://publications.europa.eu/resource/authority/file-type/RDF> .
+
+<https://prostatecancer.es/sparql/prostatecancer> a dcat:Distribution ;
+  dcat:accessURL <http://dayhoff.inf.um.es:3033/blazegraph/namespace/prostatecancer/sparql> ;
+  dct:license <http://creativecommons.org/licenses/by/3.0/es/> .
+
+<https://prostatecancer.es/graph/genes_predicted> rdfs:label "Graph of genes predicted in prostate cancer"@es ;
+                            rdf:type sd:NamedGraph .
+
+<http://creativecommons.org/licenses/MIT/>
+  a cc:License ;
+  cc:permits cc:Distribution, cc:Reproduction, cc:DerivativeWorks ;
+  cc:licenseClass <http://creativecommons.org/license/software> ;
+  cc:requires cc:Notice ;
+  cc:legalcode <http://opensource.org/licenses/mit-license.php> .

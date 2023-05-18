@@ -1,0 +1,316 @@
+---
+title: "SPARQL"
+author: "Soledad Arias Martínez"
+date: '2023'
+output:
+  pdf_document: default
+  html_document: default
+  word_document: default
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+endpoint <- "http://dayhoff.inf.um.es:3033/blazegraph/sparql"
+library(SPARQL)
+```
+
+## Query 1
+
+### **1. Which genes have been predicted by machine learning related to prostate cancer?. Also, give me information about its Ensembl identifier, its description, the chromosome and the position where the gene is located.**
+
+```{r}
+query_1 <-" PREFIX OGG:<http://purl.obolibrary.org/obo/OGG_>
+PREFIX UNIPROT: <https://www.uniprot.org/uniprotkb/>
+PREFIX ENSEMBL: <https://grch37.ensembl.org/Homo_sapiens/Gene/Summary?g=>
+PREFIX SIO: <https://semanticscience.org/resource/SIO_>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX Ncit: <http://purl.obolibrary.org/obo/NCIT_>
+
+SELECT ?Gene ?Ensembl_ID ?Description ?Chromosome ?Position
+WHERE { FILTER regex(?Ensembl_ID, 'ENSG.*')
+  	   ?OGG SIO:000115 ?ID.
+       ?ID rdfs:label ?Ensembl_ID .
+       ?OGG rdfs:label ?Gene.
+       ?OGG SIO:000136 ?Description.
+       ?OGG SIO:000128 ?ch.
+       ?ch rdfs:label ?Chromosome.
+       ?OGG Ncit:C123886 ?Position
+ }
+
+ORDER BY ?Chromosome
+
+ "
+
+qd1<- SPARQL(endpoint,query_1)
+View((qd1$results))
+```
+
+## Query 2
+
+### **2A. Which three genes present the greatest number of articles related to prostate cancer?**
+
+```{r}
+query_2A <-" PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX ns0: <http://purl.obolibrary.org/obo/>
+PREFIX ns1: <https://semanticscience.org/resource/>
+PREFIX NCIT: <https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=>
+PREFIX REACTOME: <https://reactome.org/content/detail/>
+
+SELECT ?Gene (COUNT(?article) as ?Cuenta)
+WHERE { ?q NCIT:C47902 ?article.
+      ?q rdfs:label ?Gene}
+GROUP BY ?Gene
+ORDER BY DESC(?Cuenta)
+LIMIT 3 "
+
+qd2A<- SPARQL(endpoint,query_2A)
+View((qd2A$results))
+```
+
+### 
+
+### **2B. Regarding the three genes with the highest number of publications, tell me the name of the last ten articles and their year of publication**
+
+```{r}
+query_2B <-" PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX ns0: <http://purl.obolibrary.org/obo/>
+PREFIX ns1: <https://semanticscience.org/resource/>
+PREFIX NCIT: <https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=>
+PREFIX MI: <http://purl.obolibrary.org/obo/MI_>
+PREFIX OGG: <http://purl.obolibrary.org/obo/OGG_>
+
+SELECT ?Gen ?Article ?Year
+WHERE {  VALUES ?query_genes {'AMACR' 'TIMP3' 'MYLK'} 
+  		 ?gene rdfs:label ?Gen .  
+         FILTER(STR(?Gen) = ?query_genes) 
+ 		?gene NCIT:C47902 ?art_id.       
+ 	    ?art_id MI:0886 ?Year.
+        ?art_id rdfs:label ?Article.
+        ?gene rdfs:label ?Gen}
+ORDER BY DESC(?Year)
+LIMIT 10
+ "
+
+qd2B<- SPARQL(endpoint,query_2B)
+View((qd2B$results))
+```
+
+## Query 3
+
+### **3A. Which genes present mutations in patients with prostate cancer?. Also, tell me the chromosome in which it is found and the mutation that has occurred.**
+
+```{r}
+query_3A <-" PREFIX OGG:<http://purl.obolibrary.org/obo/OGG_>
+PREFIX UNIPROT: <https://www.uniprot.org/uniprotkb/>
+PREFIX ENSEMBL: <https://grch37.ensembl.org/Homo_sapiens/Gene/Summary?g=>
+PREFIX SIO: <https://semanticscience.org/resource/SIO_>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX Ncit: <http://purl.obolibrary.org/obo/NCIT_>
+PREFIX SO: <http://purl.obolibrary.org/obo/SO_>
+
+SELECT ?Gene ?Chromosome ?Mutation
+WHERE {?OGG SO:1000002 ?Mutation.
+  	   ?OGG rdfs:label ?Gene.
+       ?OGG SIO:000128 ?ch.
+       ?ch rdfs:label ?Chromosome.
+       
+ }
+
+ORDER BY ?Chromosome
+
+ "
+
+qd3A<- SPARQL(endpoint,query_3A)
+View((qd3A$results))
+```
+
+### **3B. What is the gene with the highest number of observed mutations? What chromosome is the gene on?**
+
+```{r}
+query_3B <-" PREFIX OGG:<http://purl.obolibrary.org/obo/OGG_>
+PREFIX UNIPROT: <https://www.uniprot.org/uniprotkb/>
+PREFIX ENSEMBL: <https://grch37.ensembl.org/Homo_sapiens/Gene/Summary?g=>
+PREFIX SIO: <https://semanticscience.org/resource/SIO_>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX Ncit: <http://purl.obolibrary.org/obo/NCIT_>
+PREFIX SO: <http://purl.obolibrary.org/obo/SO_>
+
+SELECT ?Gene (COUNT(?Mutation) as ?Number_of_Mutations) ?Chromosome
+WHERE {?OGG SO:1000002 ?Mutation.
+  	   ?OGG rdfs:label ?Gene.
+       ?OGG SIO:000128 ?ch.
+       ?ch rdfs:label ?Chromosome.
+       
+ }
+
+GROUP BY ?Gene ?Chromosome
+ORDER BY DESC(?Number_of_Mutations)
+
+ "
+
+qd3B<- SPARQL(endpoint,query_3B)
+View((qd3B$results))
+```
+
+## Query 4
+
+### **4A. Which three molecular functions are the most repeated of the seventeen genes?**
+
+```{r}
+query_4A <-" PREFIX OGG:<http://purl.obolibrary.org/obo/OGG_>
+PREFIX UNIPROT: <https://www.uniprot.org/uniprotkb/>
+PREFIX ENSEMBL: <https://grch37.ensembl.org/Homo_sapiens/Gene/Summary?g=>
+PREFIX SIO: <https://semanticscience.org/resource/SIO_>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX Ncit: <http://purl.obolibrary.org/obo/NCIT_>
+PREFIX SO: <http://purl.obolibrary.org/obo/SO_>
+PREFIX Go: <http://purl.obolibrary.org/obo/GO_>
+
+SELECT ?Molecular_Function (COUNT (?Molecular_Function) as ?Count)
+WHERE {
+  	   ?OGG rdfs:label ?Gene.
+       ?OGG SIO:000128 ?ch.
+  	   ?OGG Ncit:C17828 ?process.
+       ?process rdfs:label ?Biological_Process.
+  	   ?OGG Go:0003674 ?function.
+       ?function rdfs:label ?Molecular_Function.
+  	   ?OGG Go:0005575 ?comp.
+       ?comp rdfs:label ?Cellular_component.}
+GROUP BY ?Molecular_Function
+ORDER BY DESC(?Count)
+LIMIT 3
+
+ "
+
+qd4A<- SPARQL(endpoint,query_4A)
+View((qd4A$results))
+```
+
+### **4B. Which three cellular component are the most repeated of the seventeen genes?**
+
+```{r}
+query_4B <-" PREFIX OGG:<http://purl.obolibrary.org/obo/OGG_>
+PREFIX UNIPROT: <https://www.uniprot.org/uniprotkb/>
+PREFIX ENSEMBL: <https://grch37.ensembl.org/Homo_sapiens/Gene/Summary?g=>
+PREFIX SIO: <https://semanticscience.org/resource/SIO_>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX Ncit: <http://purl.obolibrary.org/obo/NCIT_>
+PREFIX SO: <http://purl.obolibrary.org/obo/SO_>
+PREFIX Go: <http://purl.obolibrary.org/obo/GO_>
+
+SELECT ?Cellular_component (COUNT (?Cellular_component) as ?Count)
+WHERE {
+  	   ?OGG rdfs:label ?Gene.
+       ?OGG SIO:000128 ?ch.
+  	   ?OGG Ncit:C17828 ?process.
+       ?process rdfs:label ?Biological_Process.
+  	   ?OGG Go:0003674 ?function.
+       ?function rdfs:label ?Molecular_Function.
+  	   ?OGG Go:0005575 ?comp.
+       ?comp rdfs:label ?Cellular_component.
+}
+
+GROUP BY ?Cellular_component
+ORDER BY DESC(?Count)
+LIMIT 3
+
+ "
+
+qd4B<- SPARQL(endpoint,query_4B)
+View((qd4B$results))
+```
+
+### **4C. Which three biological process are the most repeated of the seventeen genes?**
+
+```{r}
+query_4C <-" PREFIX OGG:<http://purl.obolibrary.org/obo/OGG_>
+PREFIX UNIPROT: <https://www.uniprot.org/uniprotkb/>
+PREFIX ENSEMBL: <https://grch37.ensembl.org/Homo_sapiens/Gene/Summary?g=>
+PREFIX SIO: <https://semanticscience.org/resource/SIO_>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX Ncit: <http://purl.obolibrary.org/obo/NCIT_>
+PREFIX SO: <http://purl.obolibrary.org/obo/SO_>
+PREFIX Go: <http://purl.obolibrary.org/obo/GO_>
+
+SELECT ?Biological_Process (COUNT (?Biological_Process) as ?Count)
+WHERE {
+  	   ?OGG rdfs:label ?Gene.
+       ?OGG SIO:000128 ?ch.
+  	   ?OGG Ncit:C17828 ?process.
+       ?process rdfs:label ?Biological_Process.
+  	   ?OGG Go:0003674 ?function.
+       ?function rdfs:label ?Molecular_Function.
+  	   ?OGG Go:0005575 ?comp.
+       ?comp rdfs:label ?Cellular_component.}
+GROUP BY ?Biological_Process
+ORDER BY DESC(?Count)
+LIMIT 3
+
+ "
+
+qd4C<- SPARQL(endpoint,query_4C)
+View((qd4C$results))
+```
+
+### 
+
+### **4D. Is there a gene that contains any of the three most repeated molecular functions, biological process and cellular component?**
+
+```{r}
+query_4D <-" PREFIX SIO: <https://semanticscience.org/resource/SIO_>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX Ncit: <http://purl.obolibrary.org/obo/NCIT_>
+PREFIX SO: <http://purl.obolibrary.org/obo/SO_>
+PREFIX Go: <http://purl.obolibrary.org/obo/GO_>
+
+SELECT ?Gene ?Molecular_Function ?Biological_Process ?Cellular_component
+WHERE { VALUES ?component {'cytosol' 'plama membrane' 'nucleolus'}
+        VALUES ?biology {'signal transduction' 'post-embryonic development' 'cell morphogenesis'}
+       	VALUES ?molecular {'inositol 1,4,5-trisphosphate receptor activity involved in regulation of postsynaptic cytosolic calcium levels' 'channel activator activity' 'ion channel regulator activity involved in G protein-coupled receptor signaling pathway'}
+  	   ?OGG rdfs:label ?Gene.
+       ?OGG SIO:000128 ?ch.
+  	   ?OGG Ncit:C17828 ?process.
+       ?process rdfs:label ?Biological_Process.
+  	   ?OGG Go:0003674 ?function.
+       ?function rdfs:label ?Molecular_Function.
+  	   ?OGG Go:0005575 ?comp.
+       ?comp rdfs:label ?Cellular_component.
+	   FILTER(STR(?Cellular_component) = ?component) 
+       FILTER(STR(?Biological_Process) = ?biology) 
+       FILTER(STR(?Molecular_Function) = ?molecular)}
+
+ "
+
+qd4D<- SPARQL(endpoint,query_4D)
+View((qd4D$results))
+```
+
+## Query 5
+
+### **5. Of the resulting gene in the previous question, in which reaction or reactions is it a component and a member?**
+
+```{r}
+query_5 <-" PREFIX SIO: <https://semanticscience.org/resource/SIO_>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX Ncit: <http://purl.obolibrary.org/obo/NCIT_>
+PREFIX RO: <http://purl.obolibrary.org/obo/RO_>
+PREFIX TXPO: <http://purl.obolibrary.org/obo/TXPO_>
+
+SELECT ?Gene ?Component ?Member
+WHERE { VALUES ?gen {'ITPR1'}
+       ?OGG rdfs:label ?Gene.
+       ?OGG SIO:000128 ?ch.
+  	   ?OGG TXPO:0000039 ?react1.
+	   ?OGG RO:0002350 ?m.
+       ?react1 rdfs:label ?Component.
+  	   ?m rdfs:label ?Member.
+       
+	   FILTER(STR(?Gene) = ?gen) }
+
+ "
+
+qd5<- SPARQL(endpoint,query_5)
+View((qd5$results))
+```

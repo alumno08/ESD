@@ -1,0 +1,1089 @@
+<http://purl.obolibrary.org/obo/OGG_3000005355> <http://purl.obolibrary.org/obo/GO_0005575> <http://www.ebi.ac.uk/QuickGO/term/GO:0005783> .
+<http://www.ebi.ac.uk/QuickGO/term/GO:0032060> <http://www.w3.org/2000/01/rdf-schema#label> "bleb assembly"@en .
+<http://purl.obolibrary.org/obo/OGG_3000007994> <http://www.w3.org/2000/01/rdf-schema#label> "KAT6A"@en .
+<http://purl.obolibrary.org/obo/OGG_3000005933> <http://purl.obolibrary.org/obo/NCIT_C17828> <http://www.ebi.ac.uk/QuickGO/term/GO:0006325> .
+<http://purl.obolibrary.org/obo/OGG_3000007078> <http://purl.obolibrary.org/obo/GO_0003674> <http://www.ebi.ac.uk/QuickGO/term/GO:0046872> .
+<http://pubmed.ncbi.nlm.nih.gov/15842047> <http://www.w3.org/2000/01/rdf-schema#label> "Using an AMACR (P504S)/34betaE12/p63 cocktail for the detection of small focal prostate carcinoma in needle biopsy specimens"@en .
+<https://reactome.org/content/detail/R-HSA-445703> <http://www.w3.org/2000/01/rdf-schema#label> "Inactive Myosin Actin Contractile Complex"@en .
+<http://www.ebi.ac.uk/QuickGO/term/GO:0003677> <http://www.w3.org/2000/01/rdf-schema#label> "DNA binding"@en .
+<http://purl.obolibrary.org/obo/OGG_3000007994> <https://semanticscience.org/resource/SIO_000115> <https://www.uniprot.org/uniprotkb/Q92794> .
+<http://purl.obolibrary.org/obo/OGG_3000000800> <http://purl.obolibrary.org/obo/GO_0003674> <http://www.ebi.ac.uk/QuickGO/term/GO:0017022> .
+<https://reactome.org/content/detail/R-HSA-3318429> <http://www.w3.org/2000/01/rdf-schema#label> "KAT6A,B"@en .
+<http://purl.obolibrary.org/obo/OGG_3000023111> <http://purl.obolibrary.org/obo/NCIT_C17828> <http://www.ebi.ac.uk/QuickGO/term/GO:0030514\u00A0> .
+<http://purl.obolibrary.org/obo/OGG_3000003223> <http://purl.obolibrary.org/obo/GO_0005575> <http://www.ebi.ac.uk/QuickGO/term/GO:0005654> .
+<https://www.uniprot.org/uniprotkb/Q9UHK6> <http://www.w3.org/2000/01/rdf-schema#label> "Q9UHK6"@en .
+<http://purl.obolibrary.org/obo/OGG_3000007994> <https://semanticscience.org/resource/SIO_000136> "Lysine acetyltransferase 6A"@en .
+<http://www.ebi.ac.uk/QuickGO/term/GO:0019901> <http://www.w3.org/2000/01/rdf-schema#label> "protein kinase binding"@en .
+<http://www.ebi.ac.uk/QuickGO/term/GO:0008111> <http://www.w3.org/2000/01/rdf-schema#label> "alpha-methylacyl-CoA racemase activity"@en .
+<http://purl.obolibrary.org/obo/OGG_3000005933> <http://purl.obolibrary.org/obo/SO_1000002> "chr20:g.37040187C>T"@en .
+<http://purl.obolibrary.org/obo/OGG_3000004638> <https://semanticscience.org/resource/SIO_000115> <https://grch37.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000065534> .
+<http://pubmed.ncbi.nlm.nih.gov/17369131> <http://purl.obolibrary.org/obo/MI_0886> "2007"@en .
+<http://purl.obolibrary.org/obo/OGG_3000003708> <http://purl.obolibrary.org/obo/GO_0005575> <http://www.ebi.ac.uk/QuickGO/term/GO:0048471> .
+<https://www.uniprot.org/uniprotkb/P35625> <http://www.w3.org/2000/01/rdf-schema#label> "P35625"@en .
+<http://pubmed.ncbi.nlm.nih.gov/15832080> <http://purl.obolibrary.org/obo/MI_0886> "2005"@en .
+<http://purl.obolibrary.org/obo/OGG_3000023600> <https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C47902> <http://pubmed.ncbi.nlm.nih.gov/12917210> .
+<http://purl.obolibrary.org/obo/OGG_3000003223> <https://semanticscience.org/resource/SIO_000128> <https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C13207> .
+<http://pubmed.ncbi.nlm.nih.gov/11926890> <http://purl.obolibrary.org/obo/MI_0886> "2002"@en .
+<http://purl.obolibrary.org/obo/OGG_3000003708> <http://purl.obolibrary.org/obo/NCIT_C17828> <http://www.ebi.ac.uk/QuickGO/term/GO:0010506> .
+<http://pubmed.ncbi.nlm.nih.gov/16224209> <http://www.w3.org/2000/01/rdf-schema#label> "Age-associated changes in alpha-methyl CoA racemase (AMACR) expression in nonneoplastic prostatic tissues"@en .
+<http://purl.obolibrary.org/obo/OGG_3000023600> <https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C47902> <http://pubmed.ncbi.nlm.nih.gov/18257370> .
+<http://pubmed.ncbi.nlm.nih.gov/36059670> <http://www.w3.org/2000/01/rdf-schema#label> "Degradation strategy of cyclin D1 in cancer cells and the potential clinical application"@en .
+<http://purl.obolibrary.org/obo/OGG_3000004638> <http://purl.obolibrary.org/obo/TXPO_0000039> <https://reactome.org/content/detail/R-HSA-445764> .
+<http://purl.obolibrary.org/obo/OGG_3000006840> <https://semanticscience.org/resource/SIO_000115> <https://grch37.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000197321> .
+<https://prostatecancer.es/data/> <https://semanticscience.org/resource/SIO_000987> <http://purl.obolibrary.org/obo/OGG_3000000800> .
+<http://www.ebi.ac.uk/QuickGO/term/GO:1990841\u00A0> <http://www.w3.org/2000/01/rdf-schema#label> "promoter-specific chromatin binding"@en .
+<http://purl.obolibrary.org/obo/OGG_3000007078> <http://purl.obolibrary.org/obo/NCIT_C17828> <http://www.ebi.ac.uk/QuickGO/term/GO:0010951> .
+<http://purl.obolibrary.org/obo/OGG_3000003708> <http://purl.obolibrary.org/obo/NCIT_C17828> <http://www.ebi.ac.uk/QuickGO/term/GO:0032469> .
+<https://reactome.org/content/detail/R-HSA-1363310> <http://www.w3.org/2000/01/rdf-schema#label> "RBL1:Cyclin E/A:CDK2"@en .
+<http://purl.obolibrary.org/obo/OGG_3000003708> <http://purl.obolibrary.org/obo/GO_0003674> <http://www.ebi.ac.uk/QuickGO/term/GO:0099103> .
+<http://www.ebi.ac.uk/QuickGO/term/GO:0030099\u00A0> <http://www.w3.org/2000/01/rdf-schema#label> "myeloid cell differentiation"@en .
+<http://pubmed.ncbi.nlm.nih.gov/16681682> <http://purl.obolibrary.org/obo/MI_0886> "2006"@en .
+<http://purl.obolibrary.org/obo/OGG_3000003708> <http://purl.obolibrary.org/obo/GO_0005575> <http://www.ebi.ac.uk/QuickGO/term/GO:0031088> .
+<http://purl.obolibrary.org/obo/OGG_3000004638> <http://purl.obolibrary.org/obo/GO_0003674> <http://www.ebi.ac.uk/QuickGO/term/GO:0005516> .
+<https://reactome.org/content/detail/R-HSA-481030> <http://purl.obolibrary.org/obo/FMA_223408> <http://www.ebi.ac.uk/QuickGO/term/GO:0005576> .
+<http://purl.obolibrary.org/obo/OGG_3000000800> <http://purl.obolibrary.org/obo/GO_0005575> <http://www.ebi.ac.uk/QuickGO/term/GO:0005829> .
+<http://purl.obolibrary.org/obo/OGG_3000003223> <https://semanticscience.org/resource/SIO_000115> <https://grch37.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000197757> .
+<http://purl.obolibrary.org/obo/OGG_3000023600> <https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C47902> <http://pubmed.ncbi.nlm.nih.gov/15755877> .
+<http://purl.obolibrary.org/obo/OGG_3000006840> <http://purl.obolibrary.org/obo/GO_0003674> <http://www.ebi.ac.uk/QuickGO/term/GO:0005546> .
+<http://pubmed.ncbi.nlm.nih.gov/19371911> <http://purl.obolibrary.org/obo/MI_0886> "2009"@en .
+<http://pubmed.ncbi.nlm.nih.gov/17074684> <http://www.w3.org/2000/01/rdf-schema#label> "Alpha-methylacyl coenzyme A racemase immunoreactivity in partial atrophy of the prostate"@en .
+<http://pubmed.ncbi.nlm.nih.gov/16563090> <http://www.w3.org/2000/01/rdf-schema#label> "Phytanic acid, AMACR and prostate cancer risk"@en .
+<http://pubmed.ncbi.nlm.nih.gov/28639202> <http://purl.obolibrary.org/obo/MI_0886> "2017"@en .
+<http://purl.obolibrary.org/obo/OGG_3000005376> <http://purl.obolibrary.org/obo/NCIT_C17828> <http://www.ebi.ac.uk/QuickGO/term/GO:0010977> .
+<http://pubmed.ncbi.nlm.nih.gov/18257370> <http://purl.obolibrary.org/obo/MI_0886> "2007"@en .
+<http://purl.obolibrary.org/obo/OGG_3000003708> <http://purl.obolibrary.org/obo/GO_0003674> <http://www.ebi.ac.uk/QuickGO/term/GO:0070679> .
+<http://pubmed.ncbi.nlm.nih.gov/35701309> <http://purl.obolibrary.org/obo/MI_0886> "2022"@en .
+<https://www.uniprot.org/uniprotkb/P28749> <http://www.w3.org/2000/01/rdf-schema#label> "P28749"@en .
+<http://www.ebi.ac.uk/QuickGO/term/GO:0007268> <http://www.w3.org/2000/01/rdf-schema#label> "chemical synaptic transmission"@en .
+<http://purl.obolibrary.org/obo/OGG_3000005592> <http://purl.obolibrary.org/obo/TXPO_0000039> <https://reactome.org/content/detail/R-HSA-4551458> .
+<http://purl.obolibrary.org/obo/OGG_3000007994> <http://purl.obolibrary.org/obo/GO_0003674> <http://www.ebi.ac.uk/QuickGO/term/GO:0043995> .
+<http://www.ebi.ac.uk/QuickGO/term/GO:1901796> <http://www.w3.org/2000/01/rdf-schema#label> "regulation of signal transduction by p53 class mediator"@en .
+<http://purl.obolibrary.org/obo/OGG_3000003708> <http://purl.obolibrary.org/obo/GO_0005575> <http://www.ebi.ac.uk/QuickGO/term/GO:0098685> .
+<http://purl.obolibrary.org/obo/OGG_3000001809> <http://purl.obolibrary.org/obo/GO_0005575> <http://www.ebi.ac.uk/QuickGO/term/GO:0031941> .
+<http://www.ebi.ac.uk/QuickGO/term/GO:0005782> <http://www.w3.org/2000/01/rdf-schema#label> "peroxisomal matrix"@en .
+<http://purl.obolibrary.org/obo/OGG_3000004638> <http://purl.obolibrary.org/obo/GO_0003674> <http://www.ebi.ac.uk/QuickGO/term/GO:0046872> .
+<http://www.ebi.ac.uk/QuickGO/term/GO:0036449> <http://www.w3.org/2000/01/rdf-schema#label> "microtubule minus-end"@en .
+<http://pubmed.ncbi.nlm.nih.gov/14532978> <http://www.w3.org/2000/01/rdf-schema#label> "Expression of ADAMs (a disintegrin and metalloproteases) and TIMP-3 (tissue inhibitor of metalloproteinase-3) in human prostatic adenocarcinomas"@en .
+<http://www.ebi.ac.uk/QuickGO/term/GO:0031647> <http://www.w3.org/2000/01/rdf-schema#label> "regulation of protein stability"@en .
+<http://www.ebi.ac.uk/QuickGO/term/GO:0005654> <http://www.w3.org/2000/01/rdf-schema#label> "nucleoplasm"@en .
+<http://www.ebi.ac.uk/QuickGO/term/GO:0036408> <http://www.w3.org/2000/01/rdf-schema#label> "histone H3K14 acetyltransferase activity"@en .
+<http://www.ebi.ac.uk/QuickGO/term/GO:1990837> <http://www.w3.org/2000/01/rdf-schema#label> "sequence-specific double-stranded DNA binding"@en .
+<http://pubmed.ncbi.nlm.nih.gov/17875519> <http://www.w3.org/2000/01/rdf-schema#label> "alpha-Methylacyl coenzyme A racemase, Ki-67, and topoisomerase IIalpha in cystoprostatectomies with incidental prostate cancer"@en .
+<https://www.uniprot.org/uniprotkb/Q01453> <http://www.w3.org/2000/01/rdf-schema#label> "Q01453"@en .
+<https://reactome.org/content/detail/R-HSA-5617855> <http://purl.obolibrary.org/obo/FMA_223408> <http://www.ebi.ac.uk/QuickGO/term/GO:0005829> .
+<http://pubmed.ncbi.nlm.nih.gov/15505533> <http://www.w3.org/2000/01/rdf-schema#label> "Diagnostic utility of alpha-methylacyl CoA racemase (P504S) on prostate needle biopsy"@en .
+<http://purl.obolibrary.org/obo/OGG_3000010910> <http://purl.obolibrary.org/obo/GO_0005575> <http://www.ebi.ac.uk/QuickGO/term/GO:0005829> .
+<http://www.ebi.ac.uk/QuickGO/term/GO:0090398> <http://www.w3.org/2000/01/rdf-schema#label> "cellular senescence"@en .
+<https://grch37.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000113657> <http://www.w3.org/2000/01/rdf-schema#label> "ENSG00000113657"@en .
+<http://www.ebi.ac.uk/QuickGO/term/GO:0051881> <http://www.w3.org/2000/01/rdf-schema#label> "regulation of mitochondrial membrane potential"@en .
+<http://www.ebi.ac.uk/QuickGO/term/GO:0045944> <http://www.w3.org/2000/01/rdf-schema#label> "positive regulation of transcription by RNA polymerase II"@en .
+<http://pubmed.ncbi.nlm.nih.gov/17680641> <http://www.w3.org/2000/01/rdf-schema#label> "Polymorphic variants in alpha-methylacyl-CoA racemase and prostate cancer"@en .
+<http://www.ebi.ac.uk/QuickGO/term/GO:0035374> <http://www.w3.org/2000/01/rdf-schema#label> "chondroitin sulfate binding"@en .
+<http://purl.obolibrary.org/obo/OGG_3000007994> <http://purl.obolibrary.org/obo/NCIT_C17828> <http://www.ebi.ac.uk/QuickGO/term/GO:0006334> .
+<http://purl.obolibrary.org/obo/OGG_3000004638> <http://purl.obolibrary.org/obo/SO_1000002> "chr3:g.123738960T>C"@en .
+<http://purl.obolibrary.org/obo/OGG_3000003708> <http://purl.obolibrary.org/obo/GO_0005575> <http://www.ebi.ac.uk/QuickGO/term/GO:0031095\u00A0> .
+<http://purl.obolibrary.org/obo/OGG_3000000800> <http://purl.obolibrary.org/obo/GO_0005575> <http://www.ebi.ac.uk/QuickGO/term/GO:0015629> .
+<http://www.ebi.ac.uk/QuickGO/term/GO:0031625> <http://www.w3.org/2000/01/rdf-schema#label> "ubiquitin protein ligase binding"@en .
+<http://purl.obolibrary.org/obo/OGG_3000023111> <http://purl.obolibrary.org/obo/GO_0005575> <http://www.ebi.ac.uk/QuickGO/term/GO:0030496> .
+<https://reactome.org/content/detail/R-HSA-2127252> <http://purl.obolibrary.org/obo/FMA_223408> <http://www.ebi.ac.uk/QuickGO/term/GO:0005654> .
+<http://www.ebi.ac.uk/QuickGO/term/GO:0006357> <http://www.w3.org/2000/01/rdf-schema#label> "regulation of transcription by RNA polymerase II"@en .
+<http://purl.obolibrary.org/obo/OGG_3000005933> <http://purl.obolibrary.org/obo/NCIT_C17828> <http://www.ebi.ac.uk/QuickGO/term/GO:0010629> .
+<http://purl.obolibrary.org/obo/OGG_3000057659> <https://semanticscience.org/resource/SIO_000136> "Zinc finger and BTB domain containing 4"@en .
+<http://www.ebi.ac.uk/QuickGO/term/GO:0032154> <http://www.w3.org/2000/01/rdf-schema#label> "cleavage furrow"@en .
+<http://www.ebi.ac.uk/QuickGO/term/GO:0030426> <http://www.w3.org/2000/01/rdf-schema#label> "growth cone"@en .
+<http://purl.obolibrary.org/obo/OGG_3000023600> <https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C47902> <http://pubmed.ncbi.nlm.nih.gov/12766580> .
+<http://purl.obolibrary.org/obo/OGG_3000007078> <https://semanticscience.org/resource/SIO_000128> <https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C13218> .
+<https://reactome.org/content/detail/R-HSA-1226088> <http://purl.obolibrary.org/obo/FMA_223408> <http://www.ebi.ac.uk/QuickGO/term/GO:0005654> .
+<http://www.ebi.ac.uk/QuickGO/term/GO:0070776> <http://www.w3.org/2000/01/rdf-schema#label> "MOZ/MORF histone acetyltransferase complex"@en .
+<http://purl.obolibrary.org/obo/OGG_3000005376> <http://purl.obolibrary.org/obo/RO_0002353> <https://reactome.org/content/detail/R-HSA-9615626> .
+<http://www.ebi.ac.uk/QuickGO/term/GO:0031089> <http://www.w3.org/2000/01/rdf-schema#label> "platelet dense granule lumen"@en .
+<http://purl.obolibrary.org/obo/OGG_3000023600> <https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C47902> <http://pubmed.ncbi.nlm.nih.gov/11956072> .
+<http://purl.obolibrary.org/obo/OGG_3000001809> <http://purl.obolibrary.org/obo/NCIT_C17828> <http://www.ebi.ac.uk/QuickGO/term/GO:0010976> .
+<http://purl.obolibrary.org/obo/OGG_3000057659> <http://purl.obolibrary.org/obo/GO_0005575> <http://www.ebi.ac.uk/QuickGO/term/GO:0005829> .
+<http://purl.obolibrary.org/obo/OGG_3000023600> <https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C47902> <http://pubmed.ncbi.nlm.nih.gov/17597019> .
+<http://purl.obolibrary.org/obo/OGG_3000004638> <http://purl.obolibrary.org/obo/GO_0005575> <http://www.ebi.ac.uk/QuickGO/term/GO:0005737> .
+<http://pubmed.ncbi.nlm.nih.gov/36217151> <http://www.w3.org/2000/01/rdf-schema#label> "Unraveling the structures, functions and mechanisms of epithelial membrane protein family in human cancers"@en .
+<http://www.ebi.ac.uk/QuickGO/term/GO:0051015> <http://www.w3.org/2000/01/rdf-schema#label> "actin filament binding"@en .
+<http://purl.obolibrary.org/obo/OGG_3000007994> <http://purl.obolibrary.org/obo/GO_0003674> <http://www.ebi.ac.uk/QuickGO/term/GO:0003712> .
+<http://www.ebi.ac.uk/QuickGO/term/GO:0004687> <http://www.w3.org/2000/01/rdf-schema#label> "myosin light chain kinase activity"@en .
+<http://purl.obolibrary.org/obo/OGG_3000003708> <http://purl.obolibrary.org/obo/GO_0005575> <http://www.ebi.ac.uk/QuickGO/term/GO:0030659> .
+<http://www.ebi.ac.uk/QuickGO/term/GO:0015085> <http://www.w3.org/2000/01/rdf-schema#label> "calcium ion transmembrane transporter activity"@en .
+<http://purl.obolibrary.org/obo/OGG_3000005592> <http://purl.obolibrary.org/obo/NCIT_C17828> <http://www.ebi.ac.uk/QuickGO/term/GO:0007165> .
+<http://pubmed.ncbi.nlm.nih.gov/36059670> <http://purl.obolibrary.org/obo/MI_0886> "2022"@en .
+<http://purl.obolibrary.org/obo/OGG_3000004638> <https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C47902> <http://pubmed.ncbi.nlm.nih.gov/35799671> .
+<http://purl.obolibrary.org/obo/OGG_3000023600> <https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C47902> <http://pubmed.ncbi.nlm.nih.gov/19371911> .
+<https://reactome.org/content/detail/R-HSA-1363310> <http://purl.obolibrary.org/obo/FMA_223408> <http://www.ebi.ac.uk/QuickGO/term/GO:0005654> .
+<http://www.ebi.ac.uk/QuickGO/term/GO:0042995> <http://www.w3.org/2000/01/rdf-schema#label> "cell projection"@en .
+<http://www.ebi.ac.uk/QuickGO/term/GO:0010629> <http://www.w3.org/2000/01/rdf-schema#label> "negative regulation of gene expression"@en .
+<https://reactome.org/content/detail/R-HSA-445808> <http://www.w3.org/2000/01/rdf-schema#label> "Caldesmon:Calcium Complex"@en .
+<http://purl.obolibrary.org/obo/OGG_3000003221> <http://purl.obolibrary.org/obo/GO_0003674> <http://www.ebi.ac.uk/QuickGO/term/GO:0000978> .
+<https://www.uniprot.org/uniprotkb/O95425> <http://www.w3.org/2000/01/rdf-schema#label> "O95425"@en .
+<http://purl.obolibrary.org/obo/OGG_3000007078> <http://purl.obolibrary.org/obo/NCIT_C17828> <http://www.ebi.ac.uk/QuickGO/term/GO:0051045> .
+<http://purl.obolibrary.org/obo/OGG_3000003708> <http://purl.obolibrary.org/obo/NCIT_C17828> <http://www.ebi.ac.uk/QuickGO/term/GO:0009791> .
+<http://purl.obolibrary.org/obo/OGG_3000005376> <https://semanticscience.org/resource/SIO_000136> "Peripheral myelin protein 22"@en .
+<http://pubmed.ncbi.nlm.nih.gov/15842047> <http://purl.obolibrary.org/obo/MI_0886> "2005"@en .
+<https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C13285> <http://www.w3.org/2000/01/rdf-schema#label> "X"@en .
+<http://www.ebi.ac.uk/QuickGO/term/GO:0051087> <http://www.w3.org/2000/01/rdf-schema#label> "protein-folding chaperone binding"@en .
+<http://www.ebi.ac.uk/QuickGO/term/GO:0019855> <http://www.w3.org/2000/01/rdf-schema#label> "calcium channel inhibitor activity"@en .
+<http://purl.obolibrary.org/obo/OGG_3000005376> <http://www.w3.org/2000/01/rdf-schema#label> "PMP22"@en .
+<https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C13212> <http://www.w3.org/2000/01/rdf-schema#label> "17"@en .
+<http://purl.obolibrary.org/obo/OGG_3000000800> <http://purl.obolibrary.org/obo/NCIT_C17828> <http://www.ebi.ac.uk/QuickGO/term/GO:0001525> .
+<http://www.ebi.ac.uk/QuickGO/term/GO:0016020> <http://www.w3.org/2000/01/rdf-schema#label> "membrane"@en .
+<http://purl.obolibrary.org/obo/OGG_3000003708> <http://purl.obolibrary.org/obo/TXPO_0000039> <https://reactome.org/content/detail/R-HSA-112287> .
+<http://purl.obolibrary.org/obo/OGG_3000000800> <https://semanticscience.org/resource/SIO_000115> <https://www.uniprot.org/uniprotkb/Q05682> .
+<http://purl.obolibrary.org/obo/OGG_3000010910> <https://semanticscience.org/resource/SIO_000136> "SGT1 homolog, MIS12 kinetochore complex assembly cochaperone"@en .
+<http://pubmed.ncbi.nlm.nih.gov/17067752> <http://purl.obolibrary.org/obo/MI_0886> "2006"@en .
+<http://purl.obolibrary.org/obo/OGG_3000007994> <http://purl.obolibrary.org/obo/NCIT_C123886> "41929479-42051994"@en .
+<http://purl.obolibrary.org/obo/OGG_3000005592> <https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C47902> <http://pubmed.ncbi.nlm.nih.gov/36312753> .
+<http://www.ebi.ac.uk/QuickGO/term/GO:0048669> <http://www.w3.org/2000/01/rdf-schema#label> "collateral sprouting in absence of injury"@en .
+<https://reactome.org/content/detail/R-HSA-874087> <http://www.w3.org/2000/01/rdf-schema#label> "SGT1 binds HSP90"@en .
+<http://purl.obolibrary.org/obo/OGG_3000010910> <http://purl.obolibrary.org/obo/GO_0005575> <http://www.ebi.ac.uk/QuickGO/term/GO:0000151> .
+<http://purl.obolibrary.org/obo/OGG_3000007994> <http://purl.obolibrary.org/obo/GO_0003674> <http://www.ebi.ac.uk/QuickGO/term/GO:0003713> .
+<http://www.ebi.ac.uk/QuickGO/term/GO:0015278> <http://www.w3.org/2000/01/rdf-schema#label> "calcium-release channel activity"@en .
+<http://pubmed.ncbi.nlm.nih.gov/16324196> <http://www.w3.org/2000/01/rdf-schema#label> "Comparison of monoclonal antibody (P504S) and polyclonal antibody to alpha methylacyl-CoA racemase (AMACR) in the work-up of prostate cancer"@en .
+<http://www.ebi.ac.uk/QuickGO/term/GO:0071345> <http://www.w3.org/2000/01/rdf-schema#label> "cellular response to cytokine stimulus"@en .
+<http://purl.obolibrary.org/obo/OGG_3000004638> <http://purl.obolibrary.org/obo/NCIT_C17828> <http://www.ebi.ac.uk/QuickGO/term/GO:0006939> .
+<http://purl.obolibrary.org/obo/OGG_3000000800> <http://purl.obolibrary.org/obo/GO_0003674> <http://www.ebi.ac.uk/QuickGO/term/GO:0005523> .
+<http://pubmed.ncbi.nlm.nih.gov/17442371> <http://www.w3.org/2000/01/rdf-schema#label> "Differential expression of alpha-methylacyl-coenzyme A racemase in colorectal carcinoma bears clinical and pathologic significance"@en .
+<https://reactome.org/content/detail/R-HSA-5622012> <http://www.w3.org/2000/01/rdf-schema#label> "ITPR1 tetramer "@en .
+<http://www.ebi.ac.uk/QuickGO/term/GO:0099103> <http://www.w3.org/2000/01/rdf-schema#label> "channel activator activity"@en .
+<http://purl.obolibrary.org/obo/OGG_3000005592> <http://purl.obolibrary.org/obo/NCIT_C123886> "50990888-52298423"@en .
+<http://purl.obolibrary.org/obo/OGG_3000005933> <http://purl.obolibrary.org/obo/RO_0002352> <https://reactome.org/content/detail/R-HSA-1363314> .
+<http://pubmed.ncbi.nlm.nih.gov/12766580> <http://www.w3.org/2000/01/rdf-schema#label> "Expression and diagnostic utility of alpha-methylacyl-CoA-racemase (P504S) in foamy gland and pseudohyperplastic prostate cancer"@en .
+<http://pubmed.ncbi.nlm.nih.gov/14982833> <http://www.w3.org/2000/01/rdf-schema#label> "Elevated alpha-methylacyl-CoA racemase enzymatic activity in prostate cancer"@en .
+<http://pubmed.ncbi.nlm.nih.gov/19596919> <http://www.w3.org/2000/01/rdf-schema#label> "Conversion of prostate cancer from hormone independency to dependency due to AMACR inhibition: involvement of increased AR expression and decreased IGF1 expression"@en .
+<http://purl.obolibrary.org/obo/OGG_3000023111> <http://purl.obolibrary.org/obo/NCIT_C17828> <http://www.ebi.ac.uk/QuickGO/term/GO:0060612> .
+<http://purl.obolibrary.org/obo/OGG_3000003708> <http://purl.obolibrary.org/obo/NCIT_C17828> <http://www.ebi.ac.uk/QuickGO/term/GO:0050849> .
+<http://purl.obolibrary.org/obo/OGG_3000001809> <https://semanticscience.org/resource/SIO_000128> <https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C13221> .
+<http://pubmed.ncbi.nlm.nih.gov/15623627> <http://www.w3.org/2000/01/rdf-schema#label> "A quantitative promoter methylation profile of prostate cancer"@en .
+<https://grch37.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000122786> <http://www.w3.org/2000/01/rdf-schema#label> "ENSG00000122786"@en .
+<http://purl.obolibrary.org/obo/OGG_3000003708> <http://purl.obolibrary.org/obo/GO_0005575> <http://www.ebi.ac.uk/QuickGO/term/GO:0030658> .
+<http://www.ebi.ac.uk/QuickGO/term/GO:1904753> <http://www.w3.org/2000/01/rdf-schema#label> "negative regulation of vascular associated smooth muscle cell migration"@en .
+<http://purl.obolibrary.org/obo/OGG_3000005592> <https://semanticscience.org/resource/SIO_000128> <https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C13205> .
+<http://www.ebi.ac.uk/QuickGO/term/GO:0007422> <http://www.w3.org/2000/01/rdf-schema#label> "peripheral nervous system development"@en .
+<http://purl.obolibrary.org/obo/OGG_3000023600> <https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C47902> <http://pubmed.ncbi.nlm.nih.gov/17154657> .
+<http://purl.obolibrary.org/obo/OGG_3000003221> <https://semanticscience.org/resource/SIO_000136> "Homeobox C4"@en .
+<http://pubmed.ncbi.nlm.nih.gov/16424894> <http://purl.obolibrary.org/obo/MI_0886> "2006"@en .
+<http://www.ebi.ac.uk/QuickGO/term/GO:0048706> <http://www.w3.org/2000/01/rdf-schema#label> "embryonic skeletal system development"@en .
+<http://purl.obolibrary.org/obo/OGG_3000007078> <http://purl.obolibrary.org/obo/GO_0005575> <http://www.ebi.ac.uk/QuickGO/term/GO:0005634> .
+<http://purl.obolibrary.org/obo/OGG_3000007994> <http://purl.obolibrary.org/obo/NCIT_C17828> <http://www.ebi.ac.uk/QuickGO/term/GO:0043966\u00A0> .
+<http://purl.obolibrary.org/obo/OGG_3000023600> <https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C47902> <http://pubmed.ncbi.nlm.nih.gov/14506641> .
+<http://purl.obolibrary.org/obo/OGG_3000057659> <http://purl.obolibrary.org/obo/GO_0003674> <http://www.ebi.ac.uk/QuickGO/term/GO:0000978> .
+<http://pubmed.ncbi.nlm.nih.gov/15323145> <http://purl.obolibrary.org/obo/MI_0886> "2004"@en .
+<http://www.ebi.ac.uk/QuickGO/term/GO:0016529> <http://www.w3.org/2000/01/rdf-schema#label> "sarcoplasmic reticulum"@en .
+<https://reactome.org/content/detail/R-HSA-9615626> <http://www.w3.org/2000/01/rdf-schema#label> "PMP22 gene expression"@en .
+<http://purl.obolibrary.org/obo/OGG_3000003708> <http://purl.obolibrary.org/obo/TXPO_0000039> <https://reactome.org/content/detail/R-HSA-5622012> .
+<http://www.ebi.ac.uk/QuickGO/term/GO:0019221> <http://www.w3.org/2000/01/rdf-schema#label> "cytokine-mediated signaling pathway"@en .
+<http://purl.obolibrary.org/obo/OGG_3000023600> <https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C47902> <http://pubmed.ncbi.nlm.nih.gov/11926890> .
+<http://purl.obolibrary.org/obo/OGG_3000006840> <http://purl.obolibrary.org/obo/NCIT_C17828> <http://www.ebi.ac.uk/QuickGO/term/GO:0051016> .
+<https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C13205> <http://www.w3.org/2000/01/rdf-schema#label> "10"@en .
+<http://purl.obolibrary.org/obo/OGG_3000023600> <https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C47902> <http://pubmed.ncbi.nlm.nih.gov/18194603> .
+<http://pubmed.ncbi.nlm.nih.gov/12810662> <http://purl.obolibrary.org/obo/MI_0886> "2003"@en .
+<http://purl.obolibrary.org/obo/OGG_3000004638> <http://purl.obolibrary.org/obo/GO_0005575> <http://www.ebi.ac.uk/QuickGO/term/GO:0032154> .
+<http://pubmed.ncbi.nlm.nih.gov/18257370> <http://www.w3.org/2000/01/rdf-schema#label> "New markers in prostate biopsies"@en .
+<http://purl.obolibrary.org/obo/OGG_3000005376> <http://purl.obolibrary.org/obo/NCIT_C17828> <http://www.ebi.ac.uk/QuickGO/term/GO:0032288> .
+<http://purl.obolibrary.org/obo/OGG_3000005592> <http://purl.obolibrary.org/obo/NCIT_C17828> <http://www.ebi.ac.uk/QuickGO/term/GO:0043087\u00A0> .
+<https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C13218> <http://www.w3.org/2000/01/rdf-schema#label> "22"@en .
+<http://purl.obolibrary.org/obo/OGG_3000004638> <http://purl.obolibrary.org/obo/GO_0005575> <http://www.ebi.ac.uk/QuickGO/term/GO:0015629> .
+<http://purl.obolibrary.org/obo/OGG_3000023600> <http://purl.obolibrary.org/obo/SO_1000002> "chr5:g.34005814G>A"@en .
+<http://purl.obolibrary.org/obo/OGG_3000003221> <http://purl.obolibrary.org/obo/NCIT_C17828> <http://www.ebi.ac.uk/QuickGO/term/GO:0048704> .
+<http://purl.obolibrary.org/obo/OGG_3000005592> <http://purl.obolibrary.org/obo/NCIT_C17828> <http://www.ebi.ac.uk/QuickGO/term/GO:0090331> .
+<http://purl.obolibrary.org/obo/OGG_3000023600> <https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C47902> <http://pubmed.ncbi.nlm.nih.gov/12810662> .
+<http://purl.obolibrary.org/obo/OGG_3000000800> <http://purl.obolibrary.org/obo/GO_0003674> <http://www.ebi.ac.uk/QuickGO/term/GO:0045296> .
+<https://reactome.org/content/detail/R-HSA-1363274> <http://purl.obolibrary.org/obo/FMA_223408> <http://www.ebi.ac.uk/QuickGO/term/GO:0005654> .
+<http://purl.obolibrary.org/obo/OGG_3000003708> <http://purl.obolibrary.org/obo/NCIT_C17828> <http://www.ebi.ac.uk/QuickGO/term/GO:0000902> .
+<https://reactome.org/content/detail/R-HSA-5617855> <http://www.w3.org/2000/01/rdf-schema#label> "HOXC4 mRNA is translated"@en .
+<http://purl.obolibrary.org/obo/OGG_3000023600> <https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C47902> <http://pubmed.ncbi.nlm.nih.gov/19368959> .
+<http://www.ebi.ac.uk/QuickGO/term/GO:0030553> <http://www.w3.org/2000/01/rdf-schema#label> "cGMP binding"@en .
+<http://purl.obolibrary.org/obo/OGG_3000005376> <http://purl.obolibrary.org/obo/GO_0005575> <http://www.ebi.ac.uk/QuickGO/term/GO:0005923> .
+<http://www.ebi.ac.uk/QuickGO/term/GO:0005516> <http://www.w3.org/2000/01/rdf-schema#label> "calmodulin binding"@en .
+<http://www.ebi.ac.uk/QuickGO/term/GO:0008285> <http://www.w3.org/2000/01/rdf-schema#label> "negative regulation of cell population proliferation"@en .
+<http://purl.obolibrary.org/obo/OGG_3000023600> <https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C47902> <http://pubmed.ncbi.nlm.nih.gov/20025473> .
+<http://purl.obolibrary.org/obo/OGG_3000003708> <http://purl.obolibrary.org/obo/GO_0005575> <http://www.ebi.ac.uk/QuickGO/term/GO:0014069\u00A0> .
+<http://www.ebi.ac.uk/QuickGO/term/GO:0046972> <http://www.w3.org/2000/01/rdf-schema#label> "histone H4K16 acetyltransferase activity"@en .
+<http://purl.obolibrary.org/obo/OGG_3000006840> <https://semanticscience.org/resource/SIO_000136> "Supervillin"@en .
+<https://grch37.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000133104> <http://www.w3.org/2000/01/rdf-schema#label> "ENSG00000133104"@en .
+<https://www.uniprot.org/uniprotkb/Q04941> <http://www.w3.org/2000/01/rdf-schema#label> "Q04941"@en .
+<http://www.ebi.ac.uk/QuickGO/term/GO:0031095\u00A0> <http://www.w3.org/2000/01/rdf-schema#label> "platelet dense tubular network membrane"@en .
+<http://purl.obolibrary.org/obo/OGG_3000000800> <http://purl.obolibrary.org/obo/NCIT_C17828> <http://www.ebi.ac.uk/QuickGO/term/GO:0006936> .
+<http://pubmed.ncbi.nlm.nih.gov/18343427> <http://www.w3.org/2000/01/rdf-schema#label> "Prognostic significance of alpha-methylacyl-coA racemase among men with high grade prostatic intraepithelial neoplasia in prostate biopsies"@en .
+<http://www.ebi.ac.uk/QuickGO/term/GO:0060087> <http://www.w3.org/2000/01/rdf-schema#label> "relaxation of vascular associated smooth muscle"@en .
+<http://purl.obolibrary.org/obo/OGG_3000006840> <http://purl.obolibrary.org/obo/GO_0005575> <http://www.ebi.ac.uk/QuickGO/term/GO:0005737> .
+<http://purl.obolibrary.org/obo/OGG_3000000800> <http://purl.obolibrary.org/obo/GO_0005575> <http://www.ebi.ac.uk/QuickGO/term/GO:0030016> .
+<http://purl.obolibrary.org/obo/OGG_3000003223> <http://purl.obolibrary.org/obo/GO_0005575> <http://www.ebi.ac.uk/QuickGO/term/GO:0005634> .
+<http://purl.obolibrary.org/obo/OGG_3000001809> <http://purl.obolibrary.org/obo/NCIT_C17828> <http://www.ebi.ac.uk/QuickGO/term/GO:0048666> .
+<http://purl.obolibrary.org/obo/OGG_3000007994> <http://purl.obolibrary.org/obo/NCIT_C17828> <http://www.ebi.ac.uk/QuickGO/term/GO:1903706> .
+<http://purl.obolibrary.org/obo/OGG_3000003221> <http://purl.obolibrary.org/obo/NCIT_C17828> <http://www.ebi.ac.uk/QuickGO/term/GO:0006357> .
+<http://purl.obolibrary.org/obo/OGG_3000005355> <http://purl.obolibrary.org/obo/GO_0003674> <http://www.ebi.ac.uk/QuickGO/term/GO:0019956> .
+<https://prostatecancer.es/data/> <https://semanticscience.org/resource/SIO_000987> <http://purl.obolibrary.org/obo/OGG_3000004638> .
+<http://www.ebi.ac.uk/QuickGO/term/GO:0006936> <http://www.w3.org/2000/01/rdf-schema#label> "muscle contraction"@en .
+<http://www.ebi.ac.uk/QuickGO/term/GO:0000981> <http://www.w3.org/2000/01/rdf-schema#label> "DNA-binding transcription factor activity"@en .
+<http://pubmed.ncbi.nlm.nih.gov/36187394> <http://www.w3.org/2000/01/rdf-schema#label> "Emerging role of caldesmon in cancer: A potential biomarker for colorectal cancer and other cancers"@en .
+<http://pubmed.ncbi.nlm.nih.gov/19798124> <http://purl.obolibrary.org/obo/MI_0886> "2010"@en .
+<http://pubmed.ncbi.nlm.nih.gov/14532978> <http://purl.obolibrary.org/obo/MI_0886> "2003"@en .
+<http://pubmed.ncbi.nlm.nih.gov/15492996> <http://purl.obolibrary.org/obo/MI_0886> "2004"@en .
+<http://pubmed.ncbi.nlm.nih.gov/15880524> <http://purl.obolibrary.org/obo/MI_0886> "2005"@en .
+<https://reactome.org/content/detail/R-HSA-445808> <http://purl.obolibrary.org/obo/FMA_223408> <http://www.ebi.ac.uk/QuickGO/term/GO:0005829> .
+<http://purl.obolibrary.org/obo/OGG_3000057659> <http://purl.obolibrary.org/obo/GO_0005575> <http://www.ebi.ac.uk/QuickGO/term/GO:0005654> .
+<http://purl.obolibrary.org/obo/OGG_3000007994> <http://purl.obolibrary.org/obo/GO_0005575> <http://www.ebi.ac.uk/QuickGO/term/GO:0005730> .
+<http://www.ebi.ac.uk/QuickGO/term/GO:0051928> <http://www.w3.org/2000/01/rdf-schema#label> "positive regulation of calcium ion transport"@en .
+<http://pubmed.ncbi.nlm.nih.gov/15755877> <http://www.w3.org/2000/01/rdf-schema#label> "A nonclassic CCAAT enhancer element binding protein binding site contributes to alpha-methylacyl-CoA racemase expression in prostate cancer"@en .
+<http://purl.obolibrary.org/obo/OGG_3000007078> <https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C47902> <http://pubmed.ncbi.nlm.nih.gov/15623627> .
+<http://www.ebi.ac.uk/QuickGO/term/GO:0003713> <http://www.w3.org/2000/01/rdf-schema#label> "transcription coactivator activity"@en .
+<http://purl.obolibrary.org/obo/OGG_3000005592> <http://purl.obolibrary.org/obo/GO_0003674> <http://www.ebi.ac.uk/QuickGO/term/GO:0005246> .
+<http://purl.obolibrary.org/obo/OGG_3000003221> <http://purl.obolibrary.org/obo/GO_0003674> <http://www.ebi.ac.uk/QuickGO/term/GO:1990837> .
+<http://purl.obolibrary.org/obo/OGG_3000003221> <http://purl.obolibrary.org/obo/GO_0005575> <http://www.ebi.ac.uk/QuickGO/term/GO:0000785> .
+<http://purl.obolibrary.org/obo/OGG_3000023600> <https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C47902> <http://pubmed.ncbi.nlm.nih.gov/15941951> .
+<http://purl.obolibrary.org/obo/OGG_3000003708> <http://purl.obolibrary.org/obo/GO_0005575> <http://www.ebi.ac.uk/QuickGO/term/GO:0031094> .
+<https://prostatecancer.es/data/> <https://semanticscience.org/resource/SIO_000987> <http://purl.obolibrary.org/obo/OGG_3000003221> .
+<https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C13208> <http://www.w3.org/2000/01/rdf-schema#label> "13"@en .
+<http://pubmed.ncbi.nlm.nih.gov/36949454> <http://www.w3.org/2000/01/rdf-schema#label> "Identification of ZBTB4 as an immunological biomarker that can inhibit the proliferation and invasion of pancreatic cancer"@en .
+<http://purl.obolibrary.org/obo/OGG_3000003708> <http://purl.obolibrary.org/obo/NCIT_C17828> <http://www.ebi.ac.uk/QuickGO/term/GO:0007207> .
+<http://www.ebi.ac.uk/QuickGO/term/GO:0051764> <http://www.w3.org/2000/01/rdf-schema#label> "actin crosslink formation"@en .
+<http://purl.obolibrary.org/obo/OGG_3000005355> <https://semanticscience.org/resource/SIO_000115> <https://www.uniprot.org/uniprotkb/Q04941> .
+<http://purl.obolibrary.org/obo/OGG_3000007078> <http://purl.obolibrary.org/obo/NCIT_C17828> <http://www.ebi.ac.uk/QuickGO/term/GO:0070373> .
+<http://purl.obolibrary.org/obo/OGG_3000005933> <http://purl.obolibrary.org/obo/GO_0003674> <http://www.ebi.ac.uk/QuickGO/term/GO:0000977> .
+<https://grch37.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000150995> <http://www.w3.org/2000/01/rdf-schema#label> "ENSG00000150995"@en .
+<http://purl.obolibrary.org/obo/OGG_3000004638> <http://purl.obolibrary.org/obo/NCIT_C17828> <http://www.ebi.ac.uk/QuickGO/term/GO:0090303> .
+<http://www.ebi.ac.uk/QuickGO/term/GO:0010976> <http://www.w3.org/2000/01/rdf-schema#label> "positive regulation of neuron projection development"@en .
+<http://pubmed.ncbi.nlm.nih.gov/20025473> <http://purl.obolibrary.org/obo/MI_0886> "2010"@en .
+<http://www.ebi.ac.uk/QuickGO/term/GO:0030658> <http://www.w3.org/2000/01/rdf-schema#label> "transport vesicle membrane"@en .
+<http://www.ebi.ac.uk/QuickGO/term/GO:2000134\u00A0> <http://www.w3.org/2000/01/rdf-schema#label> "negative regulation of G1/S transition of mitotic cell cycle"@en .
+<https://grch37.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000185532> <http://www.w3.org/2000/01/rdf-schema#label> "ENSG00000185532"@en .
+<http://pubmed.ncbi.nlm.nih.gov/17134736> <http://purl.obolibrary.org/obo/MI_0886> "2007"@en .
+<http://purl.obolibrary.org/obo/OGG_3000004638> <http://purl.obolibrary.org/obo/GO_0005575> <http://www.ebi.ac.uk/QuickGO/term/GO:0005829> .
+<https://grch37.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000242110> <http://www.w3.org/2000/01/rdf-schema#label> "ENSG00000242110"@en .
+<http://www.ebi.ac.uk/QuickGO/term/GO:0031088> <http://www.w3.org/2000/01/rdf-schema#label> "platelet dense granule membrane"@en .
+<http://purl.obolibrary.org/obo/OGG_3000023600> <http://purl.obolibrary.org/obo/GO_0005575> <http://www.ebi.ac.uk/QuickGO/term/GO:0005829> .
+<http://purl.obolibrary.org/obo/OGG_3000023600> <https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C47902> <http://pubmed.ncbi.nlm.nih.gov/17680641> .
+<http://purl.obolibrary.org/obo/OGG_3000007078> <https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C47902> <http://pubmed.ncbi.nlm.nih.gov/12845678> .
+<http://pubmed.ncbi.nlm.nih.gov/36358940> <http://www.w3.org/2000/01/rdf-schema#label> "Druggable Metabolic Vulnerabilities Are Exposed and Masked during Progression to Castration Resistant Prostate Cancer"@en .
+<http://www.ebi.ac.uk/QuickGO/term/GO:0031941> <http://www.w3.org/2000/01/rdf-schema#label> "filamentous actin"@en .
+<http://www.ebi.ac.uk/QuickGO/term/GO:0007519> <http://www.w3.org/2000/01/rdf-schema#label> "skeletal muscle tissue development"@en .
+<https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C13221> <http://www.w3.org/2000/01/rdf-schema#label> "5"@en .
+<http://www.ebi.ac.uk/QuickGO/term/GO:0007049> <http://www.w3.org/2000/01/rdf-schema#label> "cell cycle"@en .
+<http://purl.obolibrary.org/obo/OGG_3000057659> <https://semanticscience.org/resource/SIO_000128> <https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C13212> .
+<http://www.ebi.ac.uk/QuickGO/term/GO:0001725> <http://www.w3.org/2000/01/rdf-schema#label> "stress fiber"@en .
+<http://www.ebi.ac.uk/QuickGO/term/GO:0098685> <http://www.w3.org/2000/01/rdf-schema#label> "Schaffer collateral - CA1 synapse"@en .
+<https://prostatecancer.es/data/> <https://semanticscience.org/resource/SIO_000987> <http://purl.obolibrary.org/obo/OGG_3000005592> .
+<http://purl.obolibrary.org/obo/OGG_3000005376> <https://semanticscience.org/resource/SIO_000115> <https://www.uniprot.org/uniprotkb/Q01453> .
+<http://purl.obolibrary.org/obo/OGG_3000003223> <https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C47902> <http://pubmed.ncbi.nlm.nih.gov/36765747> .
+<http://www.ebi.ac.uk/QuickGO/term/GO:0045893> <http://www.w3.org/2000/01/rdf-schema#label> "positive regulation of DNA-templated transcription"@en .
+<http://purl.obolibrary.org/obo/OGG_3000006840> <http://purl.obolibrary.org/obo/GO_0005575> <http://www.ebi.ac.uk/QuickGO/term/GO:0005925\u00A0> .
+<http://purl.obolibrary.org/obo/OGG_3000005592> <http://purl.obolibrary.org/obo/GO_0003674> <http://www.ebi.ac.uk/QuickGO/term/GO:0106310> .
+<http://purl.obolibrary.org/obo/OGG_3000000800> <http://purl.obolibrary.org/obo/TXPO_0000039> <https://reactome.org/content/detail/R-HSA-445703> .
+<https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C13223> <http://www.w3.org/2000/01/rdf-schema#label> "7"@en .
+<http://www.ebi.ac.uk/QuickGO/term/GO:0071837> <http://www.w3.org/2000/01/rdf-schema#label> "HMG box domain binding"@en .
+<http://www.ebi.ac.uk/QuickGO/term/GO:0043995> <http://www.w3.org/2000/01/rdf-schema#label> "histone H4K5 acetyltransferase activity"@en .
+<http://pubmed.ncbi.nlm.nih.gov/19730362> <http://purl.obolibrary.org/obo/MI_0886> "2009"@en .
+<http://purl.obolibrary.org/obo/OGG_3000003221> <http://purl.obolibrary.org/obo/SO_1000002> "chr12:g.54054894G>C"@en .
+<http://pubmed.ncbi.nlm.nih.gov/17875519> <http://purl.obolibrary.org/obo/MI_0886> "2007"@en .
+<http://www.ebi.ac.uk/QuickGO/term/GO:0010628> <http://www.w3.org/2000/01/rdf-schema#label> "positive regulation of gene expression"@en .
+<http://purl.obolibrary.org/obo/OGG_3000006840> <http://purl.obolibrary.org/obo/GO_0005575> <http://www.ebi.ac.uk/QuickGO/term/GO:0002102> .
+<http://www.ebi.ac.uk/QuickGO/term/GO:0032467> <http://www.w3.org/2000/01/rdf-schema#label> "positive regulation of cytokinesis"@en .
+<http://purl.obolibrary.org/obo/OGG_3000005592> <http://purl.obolibrary.org/obo/NCIT_C17828> <http://www.ebi.ac.uk/QuickGO/term/GO:1904706> .
+<http://pubmed.ncbi.nlm.nih.gov/36187394> <http://purl.obolibrary.org/obo/MI_0886> "2022"@en .
+<http://www.ebi.ac.uk/QuickGO/term/GO:0006939> <http://www.w3.org/2000/01/rdf-schema#label> "smooth muscle contraction"@en .
+<http://purl.obolibrary.org/obo/OGG_3000010910> <http://purl.obolibrary.org/obo/GO_0003674> <http://www.ebi.ac.uk/QuickGO/term/GO:0051087> .
+<https://reactome.org/content/detail/R-HSA-9033148> <http://www.w3.org/2000/01/rdf-schema#label> "Cargo proteins containing PTS1"@en .
+<http://purl.obolibrary.org/obo/OGG_3000007994> <http://purl.obolibrary.org/obo/GO_0003674> <http://www.ebi.ac.uk/QuickGO/term/GO:0046972> .
+<https://reactome.org/content/detail/R-HSA-6798269> <http://www.w3.org/2000/01/rdf-schema#label> "\u00A0RBL1,RBL2 "@en .
+<http://purl.obolibrary.org/obo/OGG_3000023600> <http://purl.obolibrary.org/obo/GO_0005575> <http://www.ebi.ac.uk/QuickGO/term/GO:0005886\u00A0> .
+<http://www.ebi.ac.uk/QuickGO/term/GO:0005739> <http://www.w3.org/2000/01/rdf-schema#label> "mitochondrion"@en .
+<http://www.ebi.ac.uk/QuickGO/term/GO:0045202> <http://www.w3.org/2000/01/rdf-schema#label> "synapse"@en .
+<http://www.ebi.ac.uk/QuickGO/term/GO:0044297> <http://www.w3.org/2000/01/rdf-schema#label> "cell body"@en .
+<https://grch37.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000100234> <http://www.w3.org/2000/01/rdf-schema#label> "ENSG00000100234"@en .
+<http://purl.obolibrary.org/obo/OGG_3000005933> <http://purl.obolibrary.org/obo/RO_0002353> <https://reactome.org/content/detail/R-HSA-1363274> .
+<http://purl.obolibrary.org/obo/OGG_3000023600> <http://purl.obolibrary.org/obo/GO_0003674> <http://www.ebi.ac.uk/QuickGO/term/GO:0005102> .
+<http://purl.obolibrary.org/obo/OGG_3000005592> <http://www.w3.org/2000/01/rdf-schema#label> "PRKG1"@en .
+<https://reactome.org/content/detail/R-HSA-445703> <http://purl.obolibrary.org/obo/FMA_223408> <http://www.ebi.ac.uk/QuickGO/term/GO:0005886> .
+<http://purl.obolibrary.org/obo/OGG_3000023600> <http://purl.obolibrary.org/obo/NCIT_C123886> "33986165-34008104"@en .
+<http://purl.obolibrary.org/obo/OGG_3000000800> <http://purl.obolibrary.org/obo/NCIT_C17828> <http://www.ebi.ac.uk/QuickGO/term/GO:0051017> .
+<http://pubmed.ncbi.nlm.nih.gov/28639202> <http://www.w3.org/2000/01/rdf-schema#label> "Suppression of Prostate Cancer Metastasis by DPYSL3-Targeted saRNA"@en .
+<http://pubmed.ncbi.nlm.nih.gov/15492996> <http://www.w3.org/2000/01/rdf-schema#label> "Utility of immunohistochemistry for alpha-methylacyl-CoA racemase in distinguishing atrophic prostate cancer from benign atrophy"@en .
+<http://purl.obolibrary.org/obo/OGG_3000001809> <http://purl.obolibrary.org/obo/GO_0005575> <http://www.ebi.ac.uk/QuickGO/term/GO:0030027> .
+<http://purl.obolibrary.org/obo/OGG_3000023111> <http://purl.obolibrary.org/obo/GO_0005575> <http://www.ebi.ac.uk/QuickGO/term/GO:0005737> .
+<http://pubmed.ncbi.nlm.nih.gov/17067752> <http://www.w3.org/2000/01/rdf-schema#label> "Kinetic fluorescence reverse transcriptase-polymerase chain reaction for alpha-methylacyl CoA racemase distinguishes prostate cancer from benign lesions"@en .
+<http://purl.obolibrary.org/obo/OGG_3000005592> <https://semanticscience.org/resource/SIO_000115> <https://grch37.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000185532> .
+<http://purl.obolibrary.org/obo/OGG_3000023111> <http://purl.obolibrary.org/obo/NCIT_C123886> "36301638-36370180"@en .
+<http://purl.obolibrary.org/obo/OGG_3000001809> <https://semanticscience.org/resource/SIO_000115> <https://www.uniprot.org/uniprotkb/Q14195> .
+<http://www.ebi.ac.uk/QuickGO/term/GO:0048471> <http://www.w3.org/2000/01/rdf-schema#label> "perinuclear region of cytoplasm"@en .
+<http://purl.obolibrary.org/obo/OGG_3000057659> <http://purl.obolibrary.org/obo/NCIT_C17828> <http://www.ebi.ac.uk/QuickGO/term/GO:0006355> .
+<http://purl.obolibrary.org/obo/OGG_3000023600> <https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C47902> <http://pubmed.ncbi.nlm.nih.gov/14982833> .
+<http://www.ebi.ac.uk/QuickGO/term/GO:0005634> <http://www.w3.org/2000/01/rdf-schema#label> "nucleus"@en .
+<http://pubmed.ncbi.nlm.nih.gov/36765747> <http://www.w3.org/2000/01/rdf-schema#label> "Gene-Transcript Expression in Urine Supernatant and Urine Cell-Sediment Are Different but Equally Useful for Detecting Prostate Cancer"@en .
+<http://www.ebi.ac.uk/QuickGO/term/GO:0042802> <http://www.w3.org/2000/01/rdf-schema#label> "identical protein binding"@en .
+<http://pubmed.ncbi.nlm.nih.gov/15832080> <http://www.w3.org/2000/01/rdf-schema#label> "Immunohistochemical stains for p63 and alpha-methylacyl-CoA racemase, versus a cocktail comprising both, in the diagnosis of prostatic carcinoma: a comparison of the immunohistochemical staining of 430 foci in radical prostatectomy and needle biopsy tissues"@en .
+<http://purl.obolibrary.org/obo/OGG_3000005355> <https://semanticscience.org/resource/SIO_000128> <https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C13285> .
+<https://reactome.org/content/detail/R-HSA-4551458> <http://purl.obolibrary.org/obo/FMA_223408> <http://www.ebi.ac.uk/QuickGO/term/GO:0005829> .
+<http://www.ebi.ac.uk/QuickGO/term/GO:0014820> <http://www.w3.org/2000/01/rdf-schema#label> "tonic smooth muscle contraction"@en .
+<http://purl.obolibrary.org/obo/OGG_3000007994> <http://purl.obolibrary.org/obo/SO_1000002> "chr8:g.42048384C>A"@en .
+<http://pubmed.ncbi.nlm.nih.gov/17597019> <http://www.w3.org/2000/01/rdf-schema#label> "Basal cell subpopulation as putative human prostate carcinoma stem cells"@en .
+<http://purl.obolibrary.org/obo/OGG_3000007994> <http://purl.obolibrary.org/obo/GO_0003674> <http://www.ebi.ac.uk/QuickGO/term/GO:0043997\u00A0> .
+<http://www.ebi.ac.uk/QuickGO/term/GO:0008191> <http://www.w3.org/2000/01/rdf-schema#label> "metalloendopeptidase inhibitor activity"@en .
+<http://www.ebi.ac.uk/QuickGO/term/GO:0005856> <http://www.w3.org/2000/01/rdf-schema#label> "cytoskeleton"@en .
+<http://purl.obolibrary.org/obo/OGG_3000004638> <http://purl.obolibrary.org/obo/GO_0003674> <http://www.ebi.ac.uk/QuickGO/term/GO:0005524> .
+<http://www.ebi.ac.uk/QuickGO/term/GO:0043565\u00A0> <http://www.w3.org/2000/01/rdf-schema#label> "sequence-specific DNA binding"@en .
+<http://www.ebi.ac.uk/QuickGO/term/GO:1990806> <http://www.w3.org/2000/01/rdf-schema#label> "ligand-gated ion channel signaling pathway"@en .
+<http://purl.obolibrary.org/obo/OGG_3000006840> <http://purl.obolibrary.org/obo/GO_0003674> <http://www.ebi.ac.uk/QuickGO/term/GO:0051015> .
+<https://reactome.org/content/detail/R-HSA-1226088> <http://www.w3.org/2000/01/rdf-schema#label> "RBL1:E2F4:TFDP1,TFDP2"@en .
+<http://pubmed.ncbi.nlm.nih.gov/20025473> <http://www.w3.org/2000/01/rdf-schema#label> "Utility of racemase and other immunomarkers in the detection of adenocarcinoma in prostatic tissue damaged by high intensity focused ultrasound therapy"@en .
+<http://purl.obolibrary.org/obo/OGG_3000005592> <http://purl.obolibrary.org/obo/NCIT_C17828> <http://www.ebi.ac.uk/QuickGO/term/GO:0019934> .
+<http://purl.obolibrary.org/obo/OGG_3000007994> <http://purl.obolibrary.org/obo/NCIT_C17828> <http://www.ebi.ac.uk/QuickGO/term/GO:0051276> .
+<http://purl.obolibrary.org/obo/OGG_3000006840> <http://purl.obolibrary.org/obo/GO_0005575> <http://www.ebi.ac.uk/QuickGO/term/GO:0036449> .
+<http://pubmed.ncbi.nlm.nih.gov/15599942> <http://purl.obolibrary.org/obo/MI_0886> "2005"@en .
+<https://reactome.org/content/detail/R-HSA-112287> <http://www.w3.org/2000/01/rdf-schema#label> "IP3-gated Ca-channel type 1 (open) "@en .
+<http://www.ebi.ac.uk/QuickGO/term/GO:0006325> <http://www.w3.org/2000/01/rdf-schema#label> "chromatin organization"@en .
+<http://www.ebi.ac.uk/QuickGO/term/GO:0030900> <http://www.w3.org/2000/01/rdf-schema#label> "forebrain development"@en .
+<http://www.ebi.ac.uk/QuickGO/term/GO:0016605> <http://www.w3.org/2000/01/rdf-schema#label> "PML body"@en .
+<http://www.ebi.ac.uk/QuickGO/term/GO:0032024> <http://www.w3.org/2000/01/rdf-schema#label> "positive regulation of insulin secretion"@en .
+<http://purl.obolibrary.org/obo/OGG_3000003221> <http://purl.obolibrary.org/obo/SO_1000002> "chr12:g.54054882C>T"@en .
+<http://purl.obolibrary.org/obo/OGG_3000057659> <http://purl.obolibrary.org/obo/GO_0003674> <http://www.ebi.ac.uk/QuickGO/term/GO:0019901> .
+<http://pubmed.ncbi.nlm.nih.gov/17154657> <http://purl.obolibrary.org/obo/MI_0886> "2006"@en .
+<http://www.ebi.ac.uk/QuickGO/term/GO:0140297> <http://www.w3.org/2000/01/rdf-schema#label> "DNA-binding transcription factor binding"@en .
+<http://purl.obolibrary.org/obo/OGG_3000023600> <https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C47902> <http://pubmed.ncbi.nlm.nih.gov/16491480> .
+<http://www.ebi.ac.uk/QuickGO/term/GO:0062023> <http://www.w3.org/2000/01/rdf-schema#label> "collagen-containing extracellular matrix"@en .
+<http://purl.obolibrary.org/obo/OGG_3000004638> <http://purl.obolibrary.org/obo/NCIT_C17828> <http://www.ebi.ac.uk/QuickGO/term/GO:0051928> .
+<http://purl.obolibrary.org/obo/OGG_3000023600> <https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C47902> <http://pubmed.ncbi.nlm.nih.gov/17683075> .
+<http://www.ebi.ac.uk/QuickGO/term/GO:0000981> <http://www.w3.org/2000/01/rdf-schema#label> "DNA-binding transcription factor activity, RNA polymerase II-specific"@en .
+<http://www.ebi.ac.uk/QuickGO/term/GO:0019956> <http://www.w3.org/2000/01/rdf-schema#label> "chemokine binding"@en .
+<https://reactome.org/content/detail/R-HSA-445797> <http://www.w3.org/2000/01/rdf-schema#label> "MYLK (MLCK) Active Calmodulin Binding"@en .
+<http://purl.obolibrary.org/obo/OGG_3000003221> <http://purl.obolibrary.org/obo/NCIT_C123886> "54016931-54056030"@en .
+<http://pubmed.ncbi.nlm.nih.gov/12810662> <http://www.w3.org/2000/01/rdf-schema#label> "Expression profiling identifies a novel alpha-methylacyl-CoA racemase exon with fumarate hydratase homology"@en .
+<https://www.uniprot.org/uniprotkb/Q92794> <http://www.w3.org/2000/01/rdf-schema#label> "Q92794"@en .
+<http://purl.obolibrary.org/obo/OGG_3000004638> <http://purl.obolibrary.org/obo/NCIT_C17828> <http://www.ebi.ac.uk/QuickGO/term/GO:0060414> .
+<http://purl.obolibrary.org/obo/OGG_3000010910> <https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C47902> <http://pubmed.ncbi.nlm.nih.gov/36983764> .
+<http://purl.obolibrary.org/obo/OGG_3000007078> <http://purl.obolibrary.org/obo/RO_0002350> <https://reactome.org/content/detail/R-HSA-481030> .
+<http://purl.obolibrary.org/obo/OGG_3000003223> <http://purl.obolibrary.org/obo/NCIT_C17828> <http://www.ebi.ac.uk/QuickGO/term/GO:0006357> .
+<http://purl.obolibrary.org/obo/OGG_3000001809> <http://www.w3.org/2000/01/rdf-schema#label> "DPYSL3"@en .
+<http://purl.obolibrary.org/obo/OGG_3000001809> <http://purl.obolibrary.org/obo/NCIT_C17828> <http://www.ebi.ac.uk/QuickGO/term/GO:0051764> .
+<http://purl.obolibrary.org/obo/OGG_3000005355> <http://purl.obolibrary.org/obo/GO_0003674> <http://www.ebi.ac.uk/QuickGO/term/GO:0015075> .
+<http://www.ebi.ac.uk/QuickGO/term/GO:0031012> <http://www.w3.org/2000/01/rdf-schema#label> "extracellular matrix"@en .
+<http://purl.obolibrary.org/obo/OGG_3000001809> <http://purl.obolibrary.org/obo/NCIT_C17828> <http://www.ebi.ac.uk/QuickGO/term/GO:0010977> .
+<http://purl.obolibrary.org/obo/OGG_3000023111> <http://purl.obolibrary.org/obo/NCIT_C17828> <http://www.ebi.ac.uk/QuickGO/term/GO:0048669> .
+<http://www.ebi.ac.uk/QuickGO/term/GO:0008270> <http://www.w3.org/2000/01/rdf-schema#label> "zinc ion binding"@en .
+<http://www.ebi.ac.uk/QuickGO/term/GO:0005546> <http://www.w3.org/2000/01/rdf-schema#label> "phosphatidylinositol-4,5-bisphosphate binding"@en .
+<http://purl.obolibrary.org/obo/OGG_3000004638> <http://purl.obolibrary.org/obo/GO_0005575> <http://www.ebi.ac.uk/QuickGO/term/GO:0030027> .
+<http://purl.obolibrary.org/obo/OGG_3000005376> <http://purl.obolibrary.org/obo/NCIT_C123886> "15229773-15272292"@en .
+<http://pubmed.ncbi.nlm.nih.gov/36741322> <http://www.w3.org/2000/01/rdf-schema#label> "Urinary extracellular vesicles miRNA\u2014A new era of prostate cancer biomarkers"@en .
+<http://www.ebi.ac.uk/QuickGO/term/GO:0000122> <http://www.w3.org/2000/01/rdf-schema#label> "negative regulation of transcription by RNA polymerase II"@en .
+<http://www.ebi.ac.uk/QuickGO/term/GO:0043034> <http://www.w3.org/2000/01/rdf-schema#label> "costamere"@en .
+<https://grch37.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000065534> <http://www.w3.org/2000/01/rdf-schema#label> "ENSG00000065534"@en .
+<http://www.ebi.ac.uk/QuickGO/term/GO:0043997\u00A0> <http://www.w3.org/2000/01/rdf-schema#label> "histone H4K12 acetyltransferase activity"@en .
+<http://pubmed.ncbi.nlm.nih.gov/12883245> <http://purl.obolibrary.org/obo/MI_0886> "2003"@en .
+<http://purl.obolibrary.org/obo/OGG_3000005933> <http://purl.obolibrary.org/obo/NCIT_C123886> "36996349-37095997"@en .
+<http://www.ebi.ac.uk/QuickGO/term/GO:0005955> <http://www.w3.org/2000/01/rdf-schema#label> "calcineurin complex"@en .
+<http://purl.obolibrary.org/obo/OGG_3000005355> <https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C47902> <http://pubmed.ncbi.nlm.nih.gov/36312753> .
+<http://pubmed.ncbi.nlm.nih.gov/15026333> <http://purl.obolibrary.org/obo/MI_0886> "2004"@en .
+<https://reactome.org/content/detail/R-HSA-9033148> <http://purl.obolibrary.org/obo/FMA_223408> <http://www.ebi.ac.uk/QuickGO/term/GO:0005782> .
+<http://pubmed.ncbi.nlm.nih.gov/17369131> <http://www.w3.org/2000/01/rdf-schema#label> "alpha-methylacyl coenzyme A racemase is immunoreactive in extramammary Paget disease"@en .
+<http://purl.obolibrary.org/obo/OGG_3000023111> <http://purl.obolibrary.org/obo/NCIT_C17828> <http://www.ebi.ac.uk/QuickGO/term/GO:0048698> .
+<http://www.ebi.ac.uk/QuickGO/term/GO:0010428> <http://www.w3.org/2000/01/rdf-schema#label> "methyl-CpNpG binding"@en .
+<http://purl.obolibrary.org/obo/OGG_3000023600> <https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C47902> <http://pubmed.ncbi.nlm.nih.gov/18343427> .
+<http://purl.obolibrary.org/obo/OGG_3000005355> <http://purl.obolibrary.org/obo/NCIT_C123886> "49171898-49175235"@en .
+<http://www.ebi.ac.uk/QuickGO/term/GO:0005737> <http://www.w3.org/2000/01/rdf-schema#label> "cytoplasm"@en .
+<http://purl.obolibrary.org/obo/OGG_3000057659> <http://purl.obolibrary.org/obo/GO_0005575> <http://www.ebi.ac.uk/QuickGO/term/GO:0016604> .
+<http://purl.obolibrary.org/obo/OGG_3000007994> <http://purl.obolibrary.org/obo/GO_0003674> <http://www.ebi.ac.uk/QuickGO/term/GO:0003677> .
+<http://www.ebi.ac.uk/QuickGO/term/GO:0000978> <http://www.w3.org/2000/01/rdf-schema#label> "RNA polymerase II cis-regulatory region sequence-specific DNA binding"@en .
+<https://reactome.org/content/detail/R-HSA-399825> <http://purl.obolibrary.org/obo/FMA_223408> <http://www.ebi.ac.uk/QuickGO/term/GO:0005829> .
+<http://purl.obolibrary.org/obo/OGG_3000023600> <https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C47902> <http://pubmed.ncbi.nlm.nih.gov/20003233> .
+<http://purl.obolibrary.org/obo/OGG_3000007078> <http://purl.obolibrary.org/obo/NCIT_C123886> "32801705-32863041"@en .
+<http://www.ebi.ac.uk/QuickGO/term/GO:0030478> <http://www.w3.org/2000/01/rdf-schema#label> "actin cap"@en .
+<http://purl.obolibrary.org/obo/OGG_3000023111> <http://purl.obolibrary.org/obo/NCIT_C17828> <http://www.ebi.ac.uk/QuickGO/term/GO:0034389> .
+<http://purl.obolibrary.org/obo/OGG_3000010910> <https://semanticscience.org/resource/SIO_000115> <https://grch37.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000165416> .
+<http://pubmed.ncbi.nlm.nih.gov/36612628> <http://purl.obolibrary.org/obo/MI_0886> "2023"@en .
+<http://purl.obolibrary.org/obo/OGG_3000005933> <http://purl.obolibrary.org/obo/GO_0003674> <http://www.ebi.ac.uk/QuickGO/term/GO:1990841\u00A0> .
+<http://purl.obolibrary.org/obo/OGG_3000003708> <https://semanticscience.org/resource/SIO_000136> "Inositol 1,4,5-trisphosphate receptor type 1"@en .
+<http://purl.obolibrary.org/obo/OGG_3000010910> <http://purl.obolibrary.org/obo/GO_0005575> <http://www.ebi.ac.uk/QuickGO/term/GO:0005634> .
+<https://reactome.org/content/detail/R-HSA-5668984> <http://www.w3.org/2000/01/rdf-schema#label> "PAK1 or PAK2 phosphorylates MYLK"@en .
+<http://purl.obolibrary.org/obo/OGG_3000003221> <https://semanticscience.org/resource/SIO_000128> <https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C13207> .
+<http://purl.obolibrary.org/obo/OGG_3000001809> <https://semanticscience.org/resource/SIO_000136> "Dihydropyrimidinase like 3"@en .
+<http://purl.obolibrary.org/obo/OGG_3000000800> <http://purl.obolibrary.org/obo/NCIT_C123886> "134744252-134970729"@en .
+<http://pubmed.ncbi.nlm.nih.gov/19730362> <http://www.w3.org/2000/01/rdf-schema#label> "Revisiting the immunophenotype of nephrogenic adenoma"@en .
+<http://purl.obolibrary.org/obo/OGG_3000005933> <http://purl.obolibrary.org/obo/NCIT_C17828> <http://www.ebi.ac.uk/QuickGO/term/GO:0043550> .
+<http://pubmed.ncbi.nlm.nih.gov/14506641> <http://www.w3.org/2000/01/rdf-schema#label> "Expression of alpha-methylacyl-CoA racemase (P504s) in various malignant neoplasms and normal tissues: astudy of 761 cases"@en .
+<http://purl.obolibrary.org/obo/OGG_3000023600> <https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C47902> <http://pubmed.ncbi.nlm.nih.gov/15492996> .
+<http://purl.obolibrary.org/obo/OGG_3000006840> <http://purl.obolibrary.org/obo/NCIT_C17828> <http://www.ebi.ac.uk/QuickGO/term/GO:0032467> .
+<http://www.ebi.ac.uk/QuickGO/term/GO:0070679> <http://www.w3.org/2000/01/rdf-schema#label> "inositol 1,4,5 trisphosphate binding"@en .
+<http://purl.obolibrary.org/obo/OGG_3000005592> <http://purl.obolibrary.org/obo/NCIT_C17828> <http://www.ebi.ac.uk/QuickGO/term/GO:1904753> .
+<http://purl.obolibrary.org/obo/OGG_3000005592> <http://purl.obolibrary.org/obo/GO_0003674> <http://www.ebi.ac.uk/QuickGO/term/GO:0004672> .
+<http://purl.obolibrary.org/obo/OGG_3000023600> <http://purl.obolibrary.org/obo/GO_0005575> <http://www.ebi.ac.uk/QuickGO/term/GO:0005737> .
+<https://reactome.org/content/detail/R-HSA-169685> <http://www.w3.org/2000/01/rdf-schema#label> "IP3 receptors "@en .
+<http://purl.obolibrary.org/obo/OGG_3000003708> <http://purl.obolibrary.org/obo/GO_0005575> <http://www.ebi.ac.uk/QuickGO/term/GO:0005886\u00A0> .
+<http://www.ebi.ac.uk/QuickGO/term/GO:1904684> <http://www.w3.org/2000/01/rdf-schema#label> "negative regulation of metalloendopeptidase activity"@en .
+<http://pubmed.ncbi.nlm.nih.gov/19368959> <http://purl.obolibrary.org/obo/MI_0886> "2009"@en .
+<https://reactome.org/content/detail/R-HSA-445797> <http://purl.obolibrary.org/obo/FMA_223408> <http://www.ebi.ac.uk/QuickGO/term/GO:0005829> .
+<http://pubmed.ncbi.nlm.nih.gov/16424894> <http://www.w3.org/2000/01/rdf-schema#label> "Alpha-methylacyl-CoA racemase as a marker in the differential diagnosis of metanephric adenoma"@en .
+<http://purl.obolibrary.org/obo/OGG_3000005376> <http://purl.obolibrary.org/obo/NCIT_C17828> <http://www.ebi.ac.uk/QuickGO/term/GO:0032060> .
+<http://purl.obolibrary.org/obo/OGG_3000007078> <http://purl.obolibrary.org/obo/NCIT_C17828> <http://www.ebi.ac.uk/QuickGO/term/GO:0071310> .
+<http://purl.obolibrary.org/obo/OGG_3000001809> <http://purl.obolibrary.org/obo/GO_0003674> <http://www.ebi.ac.uk/QuickGO/term/GO:0017124> .
+<http://www.ebi.ac.uk/QuickGO/term/GO:0003779> <http://www.w3.org/2000/01/rdf-schema#label> "actin binding"@en .
+<http://purl.obolibrary.org/obo/OGG_3000003708> <http://purl.obolibrary.org/obo/GO_0005575> <http://www.ebi.ac.uk/QuickGO/term/GO:0030667> .
+<http://www.ebi.ac.uk/QuickGO/term/GO:0016358\u00A0> <http://www.w3.org/2000/01/rdf-schema#label> "dendrite development"@en .
+<http://www.ebi.ac.uk/QuickGO/term/GO:0050905> <http://www.w3.org/2000/01/rdf-schema#label> "neuromuscular process"@en .
+<http://www.ebi.ac.uk/QuickGO/term/GO:0045892> <http://www.w3.org/2000/01/rdf-schema#label> "negative regulation of DNA-templated transcription"@en .
+<https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C13219> <http://www.w3.org/2000/01/rdf-schema#label> "3"@en .
+<http://purl.obolibrary.org/obo/OGG_3000005376> <http://purl.obolibrary.org/obo/NCIT_C17828> <http://www.ebi.ac.uk/QuickGO/term/GO:0008285> .
+<http://purl.obolibrary.org/obo/OGG_3000004638> <http://purl.obolibrary.org/obo/SO_1000002> "chr3:g.123737472G>T"@en .
+<http://www.ebi.ac.uk/QuickGO/term/GO:0002102> <http://www.w3.org/2000/01/rdf-schema#label> "podosome"@en .
+<http://purl.obolibrary.org/obo/OGG_3000003708> <http://purl.obolibrary.org/obo/SO_1000002> "chr3:g.4782712G>A"@en .
+<http://purl.obolibrary.org/obo/OGG_3000007078> <http://purl.obolibrary.org/obo/NCIT_C17828> <http://www.ebi.ac.uk/QuickGO/term/GO:0034097> .
+<http://purl.obolibrary.org/obo/OGG_3000023600> <http://purl.obolibrary.org/obo/GO_0003674> <http://www.ebi.ac.uk/QuickGO/term/GO:0008111> .
+<http://purl.obolibrary.org/obo/OGG_3000005376> <http://purl.obolibrary.org/obo/GO_0005575> <http://www.ebi.ac.uk/QuickGO/term/GO:0005886\u00A0> .
+<http://www.ebi.ac.uk/QuickGO/term/GO:0051216\u00A0> <http://www.w3.org/2000/01/rdf-schema#label> "cartilage development"@en .
+<http://www.ebi.ac.uk/QuickGO/term/GO:0010033> <http://www.w3.org/2000/01/rdf-schema#label> "response to organic substance"@en .
+<http://purl.obolibrary.org/obo/OGG_3000007994> <http://purl.obolibrary.org/obo/GO_0003674> <http://www.ebi.ac.uk/QuickGO/term/GO:0008270> .
+<http://purl.obolibrary.org/obo/OGG_3000003708> <http://purl.obolibrary.org/obo/GO_0003674> <http://www.ebi.ac.uk/QuickGO/term/GO:0035091> .
+<http://purl.obolibrary.org/obo/OGG_3000005933> <http://purl.obolibrary.org/obo/GO_0005575> <http://www.ebi.ac.uk/QuickGO/term/GO:0000785> .
+<https://prostatecancer.es/data/> <https://semanticscience.org/resource/SIO_000987> <http://purl.obolibrary.org/obo/OGG_3000005376> .
+<http://www.ebi.ac.uk/QuickGO/term/GO:0030659> <http://www.w3.org/2000/01/rdf-schema#label> "cytoplasmic vesicle membrane"@en .
+<http://purl.obolibrary.org/obo/OGG_3000023111> <https://semanticscience.org/resource/SIO_000136> "Spartin"@en .
+<http://pubmed.ncbi.nlm.nih.gov/17683075> <http://purl.obolibrary.org/obo/MI_0886> "2007"@en .
+<http://purl.obolibrary.org/obo/OGG_3000005933> <http://purl.obolibrary.org/obo/RO_0002353> <https://reactome.org/content/detail/R-HSA-8964525> .
+<http://www.ebi.ac.uk/QuickGO/term/GO:0017124> <http://www.w3.org/2000/01/rdf-schema#label> "SH3 domain binding"@en .
+<https://reactome.org/content/detail/R-HSA-112288> <http://purl.obolibrary.org/obo/FMA_223408> <http://www.ebi.ac.uk/QuickGO/term/GO:0005789> .
+<http://pubmed.ncbi.nlm.nih.gov/17154657> <http://www.w3.org/2000/01/rdf-schema#label> "Detection of alpha-methylacyl-coenzyme-A racemase transcripts in blood and urine samples of prostate cancer patients"@en .
+<http://www.ebi.ac.uk/QuickGO/term/GO:0050793> <http://www.w3.org/2000/01/rdf-schema#label> "regulation of developmental process"@en .
+<http://purl.obolibrary.org/obo/OGG_3000003708> <http://purl.obolibrary.org/obo/GO_0003674> <http://www.ebi.ac.uk/QuickGO/term/GO:0099107> .
+<https://reactome.org/content/detail/R-HSA-112288> <http://www.w3.org/2000/01/rdf-schema#label> "ITPR1 tetramer "@en .
+<http://www.ebi.ac.uk/QuickGO/term/GO:0050849> <http://www.w3.org/2000/01/rdf-schema#label> "negative regulation of calcium-mediated signaling"@en .
+<http://www.ebi.ac.uk/QuickGO/term/GO:0090303> <http://www.w3.org/2000/01/rdf-schema#label> "positive regulation of wound healing"@en .
+<http://purl.obolibrary.org/obo/OGG_3000001809> <http://purl.obolibrary.org/obo/NCIT_C17828> <http://www.ebi.ac.uk/QuickGO/term/GO:0051017> .
+<http://www.ebi.ac.uk/QuickGO/term/GO:0006974> <http://www.w3.org/2000/01/rdf-schema#label> "DNA damage response"@en .
+<http://purl.obolibrary.org/obo/OGG_3000010910> <http://purl.obolibrary.org/obo/NCIT_C123886> "52652709-52700909"@en .
+<http://purl.obolibrary.org/obo/OGG_3000003708> <https://semanticscience.org/resource/SIO_000115> <https://www.uniprot.org/uniprotkb/Q14643> .
+<http://purl.obolibrary.org/obo/OGG_3000005933> <https://semanticscience.org/resource/SIO_000136> "RB transcriptional corepressor like 1"@en .
+<https://reactome.org/content/detail/R-HSA-8964525> <http://purl.obolibrary.org/obo/FMA_223408> <http://www.ebi.ac.uk/QuickGO/term/GO:0005654> .
+<https://reactome.org/content/detail/R-HSA-9615626> <http://purl.obolibrary.org/obo/FMA_223408> <http://www.ebi.ac.uk/QuickGO/term/GO:0005654> .
+<http://purl.obolibrary.org/obo/OGG_3000004638> <http://purl.obolibrary.org/obo/SO_1000002> "chr3:g.123682256T>A"@en .
+<https://grch37.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000197757> <http://www.w3.org/2000/01/rdf-schema#label> "ENSG00000197757"@en .
+<http://pubmed.ncbi.nlm.nih.gov/16082251> <http://www.w3.org/2000/01/rdf-schema#label> "Utility of alpha-methylacyl coenzyme A racemase (p504s antibody) as a diagnostic immunohistochemical marker for cancer"@en .
+<http://purl.obolibrary.org/obo/OGG_3000023600> <https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C47902> <http://pubmed.ncbi.nlm.nih.gov/15371879> .
+<http://pubmed.ncbi.nlm.nih.gov/11956072> <http://purl.obolibrary.org/obo/MI_0886> "2002"@en .
+<http://www.ebi.ac.uk/QuickGO/term/GO:0043218> <http://www.w3.org/2000/01/rdf-schema#label> "compact myelin"@en .
+<http://purl.obolibrary.org/obo/OGG_3000007078> <http://purl.obolibrary.org/obo/GO_0005575> <http://www.ebi.ac.uk/QuickGO/term/GO:0005576> .
+<http://purl.obolibrary.org/obo/OGG_3000004638> <http://purl.obolibrary.org/obo/RO_0002352> <https://reactome.org/content/detail/R-HSA-445797> .
+<http://purl.obolibrary.org/obo/OGG_3000003221> <https://semanticscience.org/resource/SIO_000115> <https://www.uniprot.org/uniprotkb/P09017> .
+<http://purl.obolibrary.org/obo/OGG_3000007078> <http://purl.obolibrary.org/obo/NCIT_C17828> <http://www.ebi.ac.uk/QuickGO/term/GO:0007601> .
+<http://purl.obolibrary.org/obo/OGG_3000007994> <http://purl.obolibrary.org/obo/NCIT_C17828> <http://www.ebi.ac.uk/QuickGO/term/GO:1901796> .
+<https://www.uniprot.org/uniprotkb/P09630> <http://www.w3.org/2000/01/rdf-schema#label> "P09630"@en .
+<http://purl.obolibrary.org/obo/OGG_3000001809> <http://purl.obolibrary.org/obo/NCIT_C17828> <http://www.ebi.ac.uk/QuickGO/term/GO:0071345> .
+<http://purl.obolibrary.org/obo/OGG_3000000800> <http://www.w3.org/2000/01/rdf-schema#label> "CALD1"@en .
+<http://purl.obolibrary.org/obo/OGG_3000010910> <http://purl.obolibrary.org/obo/NCIT_C17828> <http://www.ebi.ac.uk/QuickGO/term/GO:0031647> .
+<http://purl.obolibrary.org/obo/OGG_3000001809> <http://purl.obolibrary.org/obo/NCIT_C123886> "147390808-147510068"@en .
+<http://purl.obolibrary.org/obo/OGG_3000000800> <https://semanticscience.org/resource/SIO_000128> <https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C13223> .
+<http://www.ebi.ac.uk/QuickGO/term/GO:0001227> <http://www.w3.org/2000/01/rdf-schema#label> "DNA-binding transcription repressor activity, RNA polymerase II-specific"@en .
+<http://www.ebi.ac.uk/QuickGO/term/GO:0005783> <http://www.w3.org/2000/01/rdf-schema#label> "endoplasmic reticulum"@en .
+<http://www.ebi.ac.uk/QuickGO/term/GO:0000776> <http://www.w3.org/2000/01/rdf-schema#label> "kinetochore"@en .
+<http://www.ebi.ac.uk/QuickGO/term/GO:0048666> <http://www.w3.org/2000/01/rdf-schema#label> "neuron development"@en .
+<http://pubmed.ncbi.nlm.nih.gov/15743746> <http://purl.obolibrary.org/obo/MI_0886> "2005"@en .
+<http://purl.obolibrary.org/obo/OGG_3000003708> <http://purl.obolibrary.org/obo/GO_0005575> <http://www.ebi.ac.uk/QuickGO/term/GO:0016020> .
+<http://purl.obolibrary.org/obo/OGG_3000003708> <http://purl.obolibrary.org/obo/NCIT_C17828> <http://www.ebi.ac.uk/QuickGO/term/GO:0070059> .
+<http://purl.obolibrary.org/obo/OGG_3000003708> <http://purl.obolibrary.org/obo/GO_0005575> <http://www.ebi.ac.uk/QuickGO/term/GO:0016529> .
+<http://purl.obolibrary.org/obo/OGG_3000007078> <http://purl.obolibrary.org/obo/GO_0005575> <http://www.ebi.ac.uk/QuickGO/term/GO:0031012> .
+<http://purl.obolibrary.org/obo/OGG_3000004638> <http://purl.obolibrary.org/obo/SO_1000002> "chr3:g.123707918G>A"@en .
+<http://purl.obolibrary.org/obo/OGG_3000003708> <https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C47902> <http://pubmed.ncbi.nlm.nih.gov/36741322> .
+<http://purl.obolibrary.org/obo/OGG_3000010910> <http://purl.obolibrary.org/obo/TXPO_0000039> <https://reactome.org/content/detail/R-HSA-874112> .
+<http://purl.obolibrary.org/obo/OGG_3000000800> <http://purl.obolibrary.org/obo/TXPO_0000039> <https://reactome.org/content/detail/R-HSA-445808> .
+<https://grch37.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000174282> <http://www.w3.org/2000/01/rdf-schema#label> "ENSG00000174282"@en .
+<http://pubmed.ncbi.nlm.nih.gov/35722463> <http://purl.obolibrary.org/obo/MI_0886> "2022"@en .
+<http://purl.obolibrary.org/obo/OGG_3000005355> <http://purl.obolibrary.org/obo/GO_0005575> <http://www.ebi.ac.uk/QuickGO/term/GO:0016020> .
+<https://prostatecancer.es/data/> <https://semanticscience.org/resource/SIO_000987> <http://purl.obolibrary.org/obo/OGG_3000003708> .
+<http://pubmed.ncbi.nlm.nih.gov/36217151> <http://purl.obolibrary.org/obo/MI_0886> "2022"@en .
+<http://pubmed.ncbi.nlm.nih.gov/36983764> <http://www.w3.org/2000/01/rdf-schema#label> "Alteration in Levels of Specific miRNAs and Their Potential Protein Targets between Human Pancreatic Cancer Samples, Adjacent Normal Tissue, and Xenografts Derived from These Tumors"@en .
+<https://grch37.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000083168> <http://www.w3.org/2000/01/rdf-schema#label> "ENSG00000083168"@en .
+<http://purl.obolibrary.org/obo/OGG_3000057659> <http://purl.obolibrary.org/obo/GO_0005575> <http://www.ebi.ac.uk/QuickGO/term/GO:0005694> .
+<http://www.ebi.ac.uk/QuickGO/term/GO:0030027> <http://www.w3.org/2000/01/rdf-schema#label> "lamellipodium"@en .
+<http://www.ebi.ac.uk/QuickGO/term/GO:0030016> <http://www.w3.org/2000/01/rdf-schema#label> "myofibril"@en .
+<https://reactome.org/content/detail/R-HSA-112287> <http://purl.obolibrary.org/obo/FMA_223408> <http://www.ebi.ac.uk/QuickGO/term/GO:0005789> .
+<http://purl.obolibrary.org/obo/OGG_3000004638> <http://purl.obolibrary.org/obo/NCIT_C17828> <http://www.ebi.ac.uk/QuickGO/term/GO:0006468> .
+<http://purl.obolibrary.org/obo/OGG_3000007994> <https://semanticscience.org/resource/SIO_000128> <https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C13224\u00A0> .
+<https://reactome.org/content/detail/R-HSA-874112> <http://purl.obolibrary.org/obo/FMA_223408> <http://www.ebi.ac.uk/QuickGO/term/GO:0005829> .
+<http://purl.obolibrary.org/obo/OGG_3000007994> <http://purl.obolibrary.org/obo/GO_0003674> <http://www.ebi.ac.uk/QuickGO/term/GO:0043996> .
+<http://purl.obolibrary.org/obo/OGG_3000023600> <https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C47902> <http://pubmed.ncbi.nlm.nih.gov/15832080> .
+<http://purl.obolibrary.org/obo/OGG_3000003221> <https://semanticscience.org/resource/SIO_000115> <https://grch37.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000198353> .
+<http://www.ebi.ac.uk/QuickGO/term/GO:0051016> <http://www.w3.org/2000/01/rdf-schema#label> "barbed-end actin filament capping"@en .
+<http://purl.obolibrary.org/obo/OGG_3000023111> <https://semanticscience.org/resource/SIO_000128> <https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C13208> .
+<http://pubmed.ncbi.nlm.nih.gov/36949454> <http://purl.obolibrary.org/obo/MI_0886> "2023"@en .
+<http://purl.obolibrary.org/obo/OGG_3000005933> <http://purl.obolibrary.org/obo/TXPO_0000039> <https://reactome.org/content/detail/R-HSA-1363310> .
+<https://reactome.org/content/detail/R-HSA-6805616> <http://purl.obolibrary.org/obo/FMA_223408> <http://www.ebi.ac.uk/QuickGO/term/GO:0005654> .
+<https://prostatecancer.es/data/> <https://semanticscience.org/resource/SIO_000987> <http://purl.obolibrary.org/obo/OGG_3000007994> .
+<http://purl.obolibrary.org/obo/OGG_3000003708> <http://purl.obolibrary.org/obo/NCIT_C17828> <http://www.ebi.ac.uk/QuickGO/term/GO:0050882> .
+<https://prostatecancer.es/data/> <https://semanticscience.org/resource/SIO_000987> <http://purl.obolibrary.org/obo/OGG_3000005355> .
+<http://www.ebi.ac.uk/QuickGO/term/GO:0005667> <http://www.w3.org/2000/01/rdf-schema#label> "transcription regulator complex"@en .
+<http://www.ebi.ac.uk/QuickGO/term/GO:0008154> <http://www.w3.org/2000/01/rdf-schema#label> "actin polymerization or depolymerization"@en .
+<http://www.ebi.ac.uk/QuickGO/term/GO:0005777> <http://www.w3.org/2000/01/rdf-schema#label> "peroxisome"@en .
+<http://pubmed.ncbi.nlm.nih.gov/14960364> <http://www.w3.org/2000/01/rdf-schema#label> "Alternative spliced variants of the alpha-methylacyl-CoA racemase gene and their expression in prostate cancer"@en .
+<http://pubmed.ncbi.nlm.nih.gov/19368959> <http://www.w3.org/2000/01/rdf-schema#label> "Specific detection of prostate cancer cells in urine by multiplex immunofluorescence cytology"@en .
+<http://pubmed.ncbi.nlm.nih.gov/19798124> <http://www.w3.org/2000/01/rdf-schema#label> "Inhibition of tumor growth and induction of apoptosis in prostate cancer cell lines by overexpression of tissue inhibitor of matrix metalloproteinase-3"@en .
+<http://purl.obolibrary.org/obo/OGG_3000007078> <https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C47902> <http://pubmed.ncbi.nlm.nih.gov/15599946> .
+<http://www.ebi.ac.uk/QuickGO/term/GO:0051491> <http://www.w3.org/2000/01/rdf-schema#label> "positive regulation of filopodium assembly"@en .
+<http://purl.obolibrary.org/obo/OGG_3000001809> <http://purl.obolibrary.org/obo/GO_0005575> <http://www.ebi.ac.uk/QuickGO/term/GO:0045202> .
+<http://purl.obolibrary.org/obo/OGG_3000004638> <http://www.w3.org/2000/01/rdf-schema#label> "MYLK"@en .
+<http://purl.obolibrary.org/obo/OGG_3000004638> <http://purl.obolibrary.org/obo/SO_1000002> "chr3:g.123733055G>C"@en .
+<http://purl.obolibrary.org/obo/OGG_3000007994> <http://purl.obolibrary.org/obo/SO_1000002> "chr8:g.41937569C>A"@en .
+<http://purl.obolibrary.org/obo/OGG_3000023111> <http://purl.obolibrary.org/obo/NCIT_C17828> <http://www.ebi.ac.uk/QuickGO/term/GO:0050905> .
+<http://purl.obolibrary.org/obo/OGG_3000005592> <http://purl.obolibrary.org/obo/SO_0000159> "chr10:g.51074854delC"@en .
+<http://purl.obolibrary.org/obo/OGG_3000006840> <https://semanticscience.org/resource/SIO_000128> <https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C13205> .
+<http://purl.obolibrary.org/obo/OGG_3000000800> <http://purl.obolibrary.org/obo/GO_0003674> <http://www.ebi.ac.uk/QuickGO/term/GO:0003779> .
+<http://pubmed.ncbi.nlm.nih.gov/14982837> <http://www.w3.org/2000/01/rdf-schema#label> "Quantitative determination of expression of the prostate cancer protein alpha-methylacyl-CoA racemase using automated quantitative analysis (AQUA): a novel paradigm for automated and continuous biomarker measurements"@en .
+<http://purl.obolibrary.org/obo/OGG_3000005376> <https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C47902> <http://pubmed.ncbi.nlm.nih.gov/36217151> .
+<http://purl.obolibrary.org/obo/OGG_3000003708> <http://purl.obolibrary.org/obo/RO_0002350> <https://reactome.org/content/detail/R-HSA-169685> .
+<http://purl.obolibrary.org/obo/OGG_3000004638> <http://purl.obolibrary.org/obo/NCIT_C17828> <http://www.ebi.ac.uk/QuickGO/term/GO:0071476> .
+<http://pubmed.ncbi.nlm.nih.gov/15599942> <http://www.w3.org/2000/01/rdf-schema#label> "Peroxisomal branched chain fatty acid beta-oxidation pathway is upregulated in prostate cancer"@en .
+<http://purl.obolibrary.org/obo/OGG_3000023600> <https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C47902> <http://pubmed.ncbi.nlm.nih.gov/17222253> .
+<http://www.ebi.ac.uk/QuickGO/term/GO:0070382\u00A0> <http://www.w3.org/2000/01/rdf-schema#label> "exocytic vesicle"@en .
+<http://purl.obolibrary.org/obo/OGG_3000023600> <https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C47902> <http://pubmed.ncbi.nlm.nih.gov/15880524> .
+<http://purl.obolibrary.org/obo/OGG_3000005933> <http://purl.obolibrary.org/obo/NCIT_C17828> <http://www.ebi.ac.uk/QuickGO/term/GO:2000134\u00A0> .
+<http://purl.obolibrary.org/obo/OGG_3000023600> <https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C47902> <http://pubmed.ncbi.nlm.nih.gov/16932031> .
+<http://www.ebi.ac.uk/QuickGO/term/GO:0006468> <http://www.w3.org/2000/01/rdf-schema#label> "protein phosphorylation"@en .
+<http://pubmed.ncbi.nlm.nih.gov/12845678> <http://purl.obolibrary.org/obo/MI_0886> "2003"@en .
+<https://reactome.org/content/detail/R-HSA-6805616> <http://www.w3.org/2000/01/rdf-schema#label> "\u00A0KAT6A:ING5:MEAF6:BRPF1,(2,3)"@en .
+<http://www.ebi.ac.uk/QuickGO/term/GO:0015629> <http://www.w3.org/2000/01/rdf-schema#label> "actin cytoskeleton"@en .
+<http://purl.obolibrary.org/obo/OGG_3000007994> <http://purl.obolibrary.org/obo/GO_0005575> <http://www.ebi.ac.uk/QuickGO/term/GO:0000786> .
+<http://purl.obolibrary.org/obo/OGG_3000057659> <https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C47902> <http://pubmed.ncbi.nlm.nih.gov/36949454> .
+<http://purl.obolibrary.org/obo/OGG_3000003223> <https://semanticscience.org/resource/SIO_000136> "Homeobox C6"@en .
+<http://purl.obolibrary.org/obo/OGG_3000007994> <http://purl.obolibrary.org/obo/GO_0005575> <http://www.ebi.ac.uk/QuickGO/term/GO:0016605> .
+<http://purl.obolibrary.org/obo/OGG_3000057659> <http://purl.obolibrary.org/obo/GO_0003674> <http://www.ebi.ac.uk/QuickGO/term/GO:0000981> .
+<http://www.ebi.ac.uk/QuickGO/term/GO:0005220\u00A0> <http://www.w3.org/2000/01/rdf-schema#label> "inositol 1,4,5-trisphosphate-sensitive calcium-release channel activity"@en .
+<https://grch37.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000109099> <http://www.w3.org/2000/01/rdf-schema#label> "ENSG00000109099"@en .
+<http://www.ebi.ac.uk/QuickGO/term/GO:0004692> <http://www.w3.org/2000/01/rdf-schema#label> "cGMP-dependent protein kinase activity"@en .
+<http://www.ebi.ac.uk/QuickGO/term/GO:0048704> <http://www.w3.org/2000/01/rdf-schema#label> "embryonic skeletal system morphogenesis"@en .
+<http://purl.obolibrary.org/obo/OGG_3000003708> <http://purl.obolibrary.org/obo/GO_0003674> <http://www.ebi.ac.uk/QuickGO/term/GO:0005509> .
+<http://www.ebi.ac.uk/QuickGO/term/GO:0048678> <http://www.w3.org/2000/01/rdf-schema#label> "response to axon injury"@en .
+<http://www.ebi.ac.uk/QuickGO/term/GO:0005637> <http://www.w3.org/2000/01/rdf-schema#label> "nuclear inner membrane"@en .
+<http://www.ebi.ac.uk/QuickGO/term/GO:0042045> <http://www.w3.org/2000/01/rdf-schema#label> "epithelial fluid transport"@en .
+<http://purl.obolibrary.org/obo/OGG_3000023111> <http://purl.obolibrary.org/obo/GO_0005575> <http://www.ebi.ac.uk/QuickGO/term/GO:0005829> .
+<http://pubmed.ncbi.nlm.nih.gov/15323145> <http://www.w3.org/2000/01/rdf-schema#label> "Discovery and clinical application of a novel prostate cancer marker: alpha-methylacyl CoA racemase (P504S)"@en .
+<https://reactome.org/content/detail/R-HSA-5668984> <http://purl.obolibrary.org/obo/FMA_223408> <http://www.ebi.ac.uk/QuickGO/term/GO:0005829> .
+<http://purl.obolibrary.org/obo/OGG_3000003221> <http://purl.obolibrary.org/obo/SO_1000002> "chr12:g.54055033G>A"@en .
+<http://purl.obolibrary.org/obo/OGG_3000005592> <http://purl.obolibrary.org/obo/GO_0003674> <http://www.ebi.ac.uk/QuickGO/term/GO:0042802\u00A0> .
+<http://purl.obolibrary.org/obo/OGG_3000057659> <https://semanticscience.org/resource/SIO_000115> <https://www.uniprot.org/uniprotkb/Q9P1Z0> .
+<http://purl.obolibrary.org/obo/OGG_3000003221> <http://www.w3.org/2000/01/rdf-schema#label> "HOXC4"@en .
+<http://www.ebi.ac.uk/QuickGO/term/GO:0000902> <http://www.w3.org/2000/01/rdf-schema#label> "cell morphogenesis"@en .
+<http://purl.obolibrary.org/obo/OGG_3000003223> <http://purl.obolibrary.org/obo/NCIT_C123886> "53990624-54030823"@en .
+<http://purl.obolibrary.org/obo/OGG_3000023600> <https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C47902> <http://pubmed.ncbi.nlm.nih.gov/16459672> .
+<http://www.ebi.ac.uk/QuickGO/term/GO:0006811> <http://www.w3.org/2000/01/rdf-schema#label> "monoatomic ion transport"@en .
+<http://www.ebi.ac.uk/QuickGO/term/GO:0090331> <http://www.w3.org/2000/01/rdf-schema#label> "negative regulation of platelet aggregation"@en .
+<http://www.ebi.ac.uk/QuickGO/term/GO:0005509> <http://www.w3.org/2000/01/rdf-schema#label> "calcium ion binding"@en .
+<http://www.ebi.ac.uk/QuickGO/term/GO:0005730> <http://www.w3.org/2000/01/rdf-schema#label> "nucleolus"@en .
+<https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C13207> <http://www.w3.org/2000/01/rdf-schema#label> "12"@en .
+<http://purl.obolibrary.org/obo/OGG_3000007078> <https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C47902> <http://pubmed.ncbi.nlm.nih.gov/15026333> .
+<http://purl.obolibrary.org/obo/OGG_3000003708> <http://purl.obolibrary.org/obo/GO_0003674> <http://www.ebi.ac.uk/QuickGO/term/GO:0015085> .
+<http://purl.obolibrary.org/obo/OGG_3000003708> <http://purl.obolibrary.org/obo/SO_1000002> "chr3:g.4806224G>A"@en .
+<http://purl.obolibrary.org/obo/OGG_3000005592> <http://purl.obolibrary.org/obo/GO_0005575> <http://www.ebi.ac.uk/QuickGO/term/GO:0005794> .
+<http://purl.obolibrary.org/obo/OGG_3000004638> <http://purl.obolibrary.org/obo/NCIT_C17828> <http://www.ebi.ac.uk/QuickGO/term/GO:0032060> .
+<https://prostatecancer.es/data/> <https://semanticscience.org/resource/SIO_000987> <http://purl.obolibrary.org/obo/OGG_3000023111> .
+<http://purl.obolibrary.org/obo/OGG_3000005592> <http://purl.obolibrary.org/obo/NCIT_C17828> <http://www.ebi.ac.uk/QuickGO/term/GO:0060087> .
+<http://www.ebi.ac.uk/QuickGO/term/GO:0015075> <http://www.w3.org/2000/01/rdf-schema#label> "monoatomic ion transmembrane transporter activity"@en .
+<http://purl.obolibrary.org/obo/OGG_3000005933> <https://semanticscience.org/resource/SIO_000128> <https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C13216> .
+<http://purl.obolibrary.org/obo/OGG_3000023600> <http://purl.obolibrary.org/obo/NCIT_C17828> <http://www.ebi.ac.uk/QuickGO/term/GO:0033540> .
+<http://www.ebi.ac.uk/QuickGO/term/GO:0009725> <http://www.w3.org/2000/01/rdf-schema#label> "response to hormone"@en .
+<http://www.ebi.ac.uk/QuickGO/term/GO:0032469> <http://www.w3.org/2000/01/rdf-schema#label> "endoplasmic reticulum calcium ion homeostasis"@en .
+<https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C13216> <http://www.w3.org/2000/01/rdf-schema#label> "20"@en .
+<http://purl.obolibrary.org/obo/OGG_3000003221> <http://purl.obolibrary.org/obo/GO_0003674> <http://www.ebi.ac.uk/QuickGO/term/GO:0000981> .
+<http://purl.obolibrary.org/obo/OGG_3000006840> <http://purl.obolibrary.org/obo/GO_0005575> <http://www.ebi.ac.uk/QuickGO/term/GO:0005829> .
+<http://purl.obolibrary.org/obo/OGG_3000023111> <http://www.w3.org/2000/01/rdf-schema#label> "SPG20"@en .
+<http://purl.obolibrary.org/obo/OGG_3000007078> <https://semanticscience.org/resource/SIO_000136> "TIMP metallopeptidase inhibitor 3"@en .
+<http://www.ebi.ac.uk/QuickGO/term/GO:0060612> <http://www.w3.org/2000/01/rdf-schema#label> "adipose tissue development"@en .
+<http://pubmed.ncbi.nlm.nih.gov/35627246> <http://purl.obolibrary.org/obo/MI_0886> "2022"@en .
+<http://purl.obolibrary.org/obo/OGG_3000001809> <http://purl.obolibrary.org/obo/GO_0005575> <http://www.ebi.ac.uk/QuickGO/term/GO:0044297> .
+<http://pubmed.ncbi.nlm.nih.gov/18194603> <http://purl.obolibrary.org/obo/MI_0886> "2007"@en .
+<http://pubmed.ncbi.nlm.nih.gov/15623627> <http://purl.obolibrary.org/obo/MI_0886> "2004"@en .
+<http://purl.obolibrary.org/obo/OGG_3000023600> <https://semanticscience.org/resource/SIO_000115> <https://www.uniprot.org/uniprotkb/Q9UHK6> .
+<http://purl.obolibrary.org/obo/OGG_3000005933> <https://semanticscience.org/resource/SIO_000115> <https://www.uniprot.org/uniprotkb/P28749> .
+<http://pubmed.ncbi.nlm.nih.gov/16224209> <http://purl.obolibrary.org/obo/MI_0886> "2005"@en .
+<http://www.ebi.ac.uk/QuickGO/term/GO:0071310> <http://www.w3.org/2000/01/rdf-schema#label> "cellular response to organic substance"@en .
+<http://pubmed.ncbi.nlm.nih.gov/36612628> <http://www.w3.org/2000/01/rdf-schema#label> "Impact of Clinicopathological Characteristics and Tissue Inhibitor of Metalloproteinase-3 Polymorphism Rs9619311 on Biochemical Recurrence in Taiwanese Patients with Prostate Cancer"@en .
+<http://pubmed.ncbi.nlm.nih.gov/12917210> <http://www.w3.org/2000/01/rdf-schema#label> "Branched fatty acids in dairy and beef products markedly enhance alpha-methylacyl-CoA racemase expression in prostate cancer cells in vitro"@en .
+<http://purl.obolibrary.org/obo/OGG_3000023600> <https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C47902> <http://pubmed.ncbi.nlm.nih.gov/16224209> .
+<http://purl.obolibrary.org/obo/OGG_3000003223> <http://purl.obolibrary.org/obo/GO_0003674> <http://www.ebi.ac.uk/QuickGO/term/GO:0000981> .
+<http://www.ebi.ac.uk/QuickGO/term/GO:0003712> <http://www.w3.org/2000/01/rdf-schema#label> "transcription coregulator activity"@en .
+<http://purl.obolibrary.org/obo/OGG_3000003221> <http://purl.obolibrary.org/obo/SO_1000002> "chr12:g.54055056C>T"@en .
+<http://www.ebi.ac.uk/QuickGO/term/GO:0030667> <http://www.w3.org/2000/01/rdf-schema#label> "secretory granule membrane"@en .
+<http://www.ebi.ac.uk/QuickGO/term/GO:0006355> <http://www.w3.org/2000/01/rdf-schema#label> "regulation of DNA-templated transcription"@en .
+<http://purl.obolibrary.org/obo/OGG_3000006840> <http://purl.obolibrary.org/obo/GO_0005575> <http://www.ebi.ac.uk/QuickGO/term/GO:0032154> .
+<http://pubmed.ncbi.nlm.nih.gov/16563090> <http://purl.obolibrary.org/obo/MI_0886> "2006"@en .
+<http://purl.obolibrary.org/obo/OGG_3000000800> <https://semanticscience.org/resource/SIO_000115> <https://grch37.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000122786> .
+<http://www.ebi.ac.uk/QuickGO/term/GO:0045296> <http://www.w3.org/2000/01/rdf-schema#label> "cadherin binding"@en .
+<http://purl.obolibrary.org/obo/OGG_3000005933> <http://purl.obolibrary.org/obo/NCIT_C17828> <http://www.ebi.ac.uk/QuickGO/term/GO:2000773> .
+<http://www.ebi.ac.uk/QuickGO/term/GO:0000786> <http://www.w3.org/2000/01/rdf-schema#label> "nucleosome"@en .
+<http://purl.obolibrary.org/obo/OGG_3000003708> <http://purl.obolibrary.org/obo/GO_0005575> <http://www.ebi.ac.uk/QuickGO/term/GO:0005955> .
+<http://pubmed.ncbi.nlm.nih.gov/14982833> <http://purl.obolibrary.org/obo/MI_0886> "2004"@en .
+<http://pubmed.ncbi.nlm.nih.gov/16950615> <http://purl.obolibrary.org/obo/MI_0886> "2006"@en .
+<http://purl.obolibrary.org/obo/OGG_3000010910> <http://purl.obolibrary.org/obo/NCIT_C17828> <http://www.ebi.ac.uk/QuickGO/term/GO:0000278> .
+<http://purl.obolibrary.org/obo/OGG_3000005592> <http://purl.obolibrary.org/obo/GO_0005575> <http://www.ebi.ac.uk/QuickGO/term/GO:0005886\u00A0> .
+<http://www.ebi.ac.uk/QuickGO/term/GO:0010951> <http://www.w3.org/2000/01/rdf-schema#label> "negative regulation of endopeptidase activity"@en .
+<http://purl.obolibrary.org/obo/OGG_3000023600> <http://purl.obolibrary.org/obo/NCIT_C17828> <http://www.ebi.ac.uk/QuickGO/term/GO:0006699> .
+<https://reactome.org/content/detail/R-HSA-874087> <http://purl.obolibrary.org/obo/FMA_223408> <http://www.ebi.ac.uk/QuickGO/term/GO:0005829> .
+<http://purl.obolibrary.org/obo/OGG_3000003221> <http://purl.obolibrary.org/obo/RO_0002353> <https://reactome.org/content/detail/R-HSA-5617855> .
+<http://purl.obolibrary.org/obo/OGG_3000000800> <http://purl.obolibrary.org/obo/GO_0005575> <http://www.ebi.ac.uk/QuickGO/term/GO:0005886> .
+<http://purl.obolibrary.org/obo/OGG_3000007078> <http://purl.obolibrary.org/obo/GO_0003674> <http://www.ebi.ac.uk/QuickGO/term/GO:0002020> .
+<http://purl.obolibrary.org/obo/OGG_3000023600> <https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C47902> <http://pubmed.ncbi.nlm.nih.gov/15599942> .
+<https://reactome.org/content/detail/R-HSA-399825> <http://www.w3.org/2000/01/rdf-schema#label> "CRMP's 1-5"@en .
+<http://www.ebi.ac.uk/QuickGO/term/GO:0005694> <http://www.w3.org/2000/01/rdf-schema#label> "chromosome"@en .
+<https://reactome.org/content/detail/R-HSA-5622012> <http://purl.obolibrary.org/obo/FMA_223408> <http://www.ebi.ac.uk/QuickGO/term/GO:0005789> .
+<http://purl.obolibrary.org/obo/OGG_3000001809> <http://purl.obolibrary.org/obo/NCIT_C17828> <http://www.ebi.ac.uk/QuickGO/term/GO:0030336> .
+<http://purl.obolibrary.org/obo/OGG_3000005933> <http://purl.obolibrary.org/obo/NCIT_C17828> <http://www.ebi.ac.uk/QuickGO/term/GO:0007049> .
+<http://purl.obolibrary.org/obo/OGG_3000023111> <https://semanticscience.org/resource/SIO_000115> <https://www.uniprot.org/uniprotkb/Q8N0X7> .
+<http://www.ebi.ac.uk/QuickGO/term/GO:0051014> <http://www.w3.org/2000/01/rdf-schema#label> "actin filament severing"@en .
+<http://purl.obolibrary.org/obo/OGG_3000007078> <http://purl.obolibrary.org/obo/GO_0003674> <http://www.ebi.ac.uk/QuickGO/term/GO:0008191> .
+<https://reactome.org/content/detail/R-HSA-2127252> <http://www.w3.org/2000/01/rdf-schema#label> "RBL1:E2F4/5:DP1/2 "@en .
+<http://purl.obolibrary.org/obo/OGG_3000005592> <http://purl.obolibrary.org/obo/GO_0005575> <http://www.ebi.ac.uk/QuickGO/term/GO:0005829> .
+<http://purl.obolibrary.org/obo/OGG_3000005933> <http://www.w3.org/2000/01/rdf-schema#label> "RBL1"@en .
+<http://www.ebi.ac.uk/QuickGO/term/GO:0000977> <http://www.w3.org/2000/01/rdf-schema#label> "RNA polymerase II transcription regulatory region sequence-specific DNA binding"@en .
+<http://pubmed.ncbi.nlm.nih.gov/19596919> <http://purl.obolibrary.org/obo/MI_0886> "2009"@en .
+<http://purl.obolibrary.org/obo/OGG_3000005592> <http://purl.obolibrary.org/obo/GO_0005575> <http://www.ebi.ac.uk/QuickGO/term/GO:0005737> .
+<http://purl.obolibrary.org/obo/OGG_3000005592> <http://purl.obolibrary.org/obo/GO_0003674> <http://www.ebi.ac.uk/QuickGO/term/GO:0005524> .
+<http://purl.obolibrary.org/obo/OGG_3000023600> <https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C47902> <http://pubmed.ncbi.nlm.nih.gov/12883245> .
+<http://purl.obolibrary.org/obo/OGG_3000007994> <http://purl.obolibrary.org/obo/NCIT_C17828> <http://www.ebi.ac.uk/QuickGO/term/GO:0045892> .
+<https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C13224\u00A0> <http://www.w3.org/2000/01/rdf-schema#label> "8"@en .
+<http://www.ebi.ac.uk/QuickGO/term/GO:0043550> <http://www.w3.org/2000/01/rdf-schema#label> "regulation of lipid kinase activity"@en .
+<https://reactome.org/content/detail/R-HSA-445764> <http://purl.obolibrary.org/obo/FMA_223408> <http://www.ebi.ac.uk/QuickGO/term/GO:0005829> .
+<http://www.ebi.ac.uk/QuickGO/term/GO:0005923> <http://www.w3.org/2000/01/rdf-schema#label> "bicellular tight junction"@en .
+<http://purl.obolibrary.org/obo/OGG_3000007078> <http://purl.obolibrary.org/obo/GO_0005575> <http://www.ebi.ac.uk/QuickGO/term/GO:0031089> .
+<http://purl.obolibrary.org/obo/OGG_3000007078> <http://www.w3.org/2000/01/rdf-schema#label> "TIMP3"@en .
+<https://reactome.org/content/detail/R-HSA-3318429> <http://purl.obolibrary.org/obo/FMA_223408> <http://www.ebi.ac.uk/QuickGO/term/GO:0005654> .
+<http://www.ebi.ac.uk/QuickGO/term/GO:0000151> <http://www.w3.org/2000/01/rdf-schema#label> "ubiquitin ligase complex"@en .
+<http://purl.obolibrary.org/obo/OGG_3000003708> <http://purl.obolibrary.org/obo/GO_0005575> <http://www.ebi.ac.uk/QuickGO/term/GO:0005730> .
+<http://purl.obolibrary.org/obo/OGG_3000004638> <https://semanticscience.org/resource/SIO_000115> <https://www.uniprot.org/uniprotkb/Q15746> .
+<http://purl.obolibrary.org/obo/OGG_3000023600> <https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C47902> <http://pubmed.ncbi.nlm.nih.gov/17442371> .
+<http://purl.obolibrary.org/obo/OGG_3000023600> <http://purl.obolibrary.org/obo/GO_0005575> <http://www.ebi.ac.uk/QuickGO/term/GO:0043231> .
+<http://pubmed.ncbi.nlm.nih.gov/17222253> <http://www.w3.org/2000/01/rdf-schema#label> "Heterogeneous expression of alpha-methylacyl-CoA racemase in prostatic cancer correlates with Gleason score"@en .
+<http://purl.obolibrary.org/obo/OGG_3000004638> <http://purl.obolibrary.org/obo/NCIT_C17828> <http://www.ebi.ac.uk/QuickGO/term/GO:0014820> .
+<http://purl.obolibrary.org/obo/OGG_3000001809> <http://purl.obolibrary.org/obo/GO_0003674> <http://www.ebi.ac.uk/QuickGO/term/GO:0042802> .
+<http://purl.obolibrary.org/obo/OGG_3000007994> <http://purl.obolibrary.org/obo/GO_0003674> <http://www.ebi.ac.uk/QuickGO/term/GO:0004402> .
+<http://purl.obolibrary.org/obo/OGG_3000023600> <https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C47902> <http://pubmed.ncbi.nlm.nih.gov/19596919> .
+<http://pubmed.ncbi.nlm.nih.gov/16324196> <http://purl.obolibrary.org/obo/MI_0886> "2005"@en .
+<http://www.ebi.ac.uk/QuickGO/term/GO:0005789> <http://www.w3.org/2000/01/rdf-schema#label> "endoplasmic reticulum membrane"@en .
+<http://purl.obolibrary.org/obo/OGG_3000005376> <http://purl.obolibrary.org/obo/GO_0005575> <http://www.ebi.ac.uk/QuickGO/term/GO:0045202> .
+<http://pubmed.ncbi.nlm.nih.gov/11956072> <http://www.w3.org/2000/01/rdf-schema#label> "Alpha-methylacyl-CoA racemase: a new molecular marker for prostate cancer"@en .
+<http://www.ebi.ac.uk/QuickGO/term/GO:0016604> <http://www.w3.org/2000/01/rdf-schema#label> "nuclear body"@en .
+<http://purl.obolibrary.org/obo/OGG_3000057659> <http://purl.obolibrary.org/obo/GO_0003674> <http://www.ebi.ac.uk/QuickGO/term/GO:0042803> .
+<http://purl.obolibrary.org/obo/OGG_3000007078> <https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C47902> <http://pubmed.ncbi.nlm.nih.gov/36612628> .
+<https://reactome.org/content/detail/R-HSA-1363314> <http://www.w3.org/2000/01/rdf-schema#label> "p107 (RBL1) binds CyclinE/A:CDK2"@en .
+<https://grch37.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000102007> <http://www.w3.org/2000/01/rdf-schema#label> "ENSG00000102007"@en .
+<http://purl.obolibrary.org/obo/OGG_3000007994> <http://purl.obolibrary.org/obo/NCIT_C17828> <http://www.ebi.ac.uk/QuickGO/term/GO:0006355> .
+<http://pubmed.ncbi.nlm.nih.gov/15602744> <http://www.w3.org/2000/01/rdf-schema#label> "Alpha-methylacyl-CoA racemase (AMACR) expression in normal prostatic glands and high-grade prostatic intraepithelial neoplasia (HGPIN): association with diagnosis of prostate cancer"@en .
+<http://pubmed.ncbi.nlm.nih.gov/15928670> <http://purl.obolibrary.org/obo/MI_0886> "2005"@en .
+<http://purl.obolibrary.org/obo/OGG_3000001809> <http://purl.obolibrary.org/obo/GO_0003674> <http://www.ebi.ac.uk/QuickGO/term/GO:0035374> .
+<http://purl.obolibrary.org/obo/OGG_3000003708> <https://semanticscience.org/resource/SIO_000128> <https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C13219> .
+<http://www.ebi.ac.uk/QuickGO/term/GO:0048668> <http://www.w3.org/2000/01/rdf-schema#label> "collateral sprouting"@en .
+<http://pubmed.ncbi.nlm.nih.gov/35627246> <http://www.w3.org/2000/01/rdf-schema#label> "Methylation Heterogeneity and Gene Expression of SPG20 in Solid Tumors"@en .
+<http://purl.obolibrary.org/obo/OGG_3000007078> <http://purl.obolibrary.org/obo/GO_0005575> <http://www.ebi.ac.uk/QuickGO/term/GO:0005604> .
+<http://purl.obolibrary.org/obo/OGG_3000023600> <https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C47902> <http://pubmed.ncbi.nlm.nih.gov/36358940> .
+<http://purl.obolibrary.org/obo/OGG_3000000800> <http://purl.obolibrary.org/obo/GO_0003674> <http://www.ebi.ac.uk/QuickGO/term/GO:0005516> .
+<http://www.ebi.ac.uk/QuickGO/term/GO:0034097> <http://www.w3.org/2000/01/rdf-schema#label> "response to cytokine"@en .
+<http://www.ebi.ac.uk/QuickGO/term/GO:0051209> <http://www.w3.org/2000/01/rdf-schema#label> "release of sequestered calcium ion into cytosol"@en .
+<https://reactome.org/content/detail/R-HSA-4551458> <http://www.w3.org/2000/01/rdf-schema#label> "PRKG1 dimer"@en .
+<http://pubmed.ncbi.nlm.nih.gov/17008281> <http://www.w3.org/2000/01/rdf-schema#label> "Abundant expression of AMACR in many distinct tumour types"@en .
+<http://www.ebi.ac.uk/QuickGO/term/GO:0098695> <http://www.w3.org/2000/01/rdf-schema#label> "inositol 1,4,5-trisphosphate receptor activity involved in regulation of postsynaptic cytosolic calcium levels"@en .
+<http://www.ebi.ac.uk/QuickGO/term/GO:0000278> <http://www.w3.org/2000/01/rdf-schema#label> "mitotic cell cycle"@en .
+<http://pubmed.ncbi.nlm.nih.gov/15941951> <http://www.w3.org/2000/01/rdf-schema#label> "Decreased alpha-methylacyl CoA racemase expression in localized prostate cancer is associated with an increased rate of biochemical recurrence and cancer-specific death"@en .
+<https://prostatecancer.es/data/> <https://semanticscience.org/resource/SIO_000987> <http://purl.obolibrary.org/obo/OGG_3000057659> .
+<http://purl.obolibrary.org/obo/OGG_3000004638> <http://purl.obolibrary.org/obo/NCIT_C17828> <http://www.ebi.ac.uk/QuickGO/term/GO:0030335> .
+<http://purl.obolibrary.org/obo/OGG_3000007994> <http://purl.obolibrary.org/obo/NCIT_C17828> <http://www.ebi.ac.uk/QuickGO/term/GO:0050793> .
+<http://pubmed.ncbi.nlm.nih.gov/17442371> <http://purl.obolibrary.org/obo/MI_0886> "2007"@en .
+<http://purl.obolibrary.org/obo/OGG_3000006840> <http://purl.obolibrary.org/obo/NCIT_C17828> <http://www.ebi.ac.uk/QuickGO/term/GO:0007519> .
+<http://www.ebi.ac.uk/QuickGO/term/GO:0008206> <http://www.w3.org/2000/01/rdf-schema#label> "bile acid metabolic process"@en .
+<http://purl.obolibrary.org/obo/OGG_3000004638> <http://purl.obolibrary.org/obo/GO_0003674> <http://www.ebi.ac.uk/QuickGO/term/GO:0003779\u00A0> .
+<http://purl.obolibrary.org/obo/OGG_3000023600> <https://semanticscience.org/resource/SIO_000136> "Alpha-methylacyl-CoA racemase"@en .
+<http://www.ebi.ac.uk/QuickGO/term/GO:0050821> <http://www.w3.org/2000/01/rdf-schema#label> "protein stabilization"@en .
+<http://purl.obolibrary.org/obo/OGG_3000003708> <http://www.w3.org/2000/01/rdf-schema#label> "ITPR1"@en .
+<http://purl.obolibrary.org/obo/OGG_3000003223> <http://purl.obolibrary.org/obo/NCIT_C17828> <http://www.ebi.ac.uk/QuickGO/term/GO:0048706> .
+<http://purl.obolibrary.org/obo/OGG_3000004638> <http://purl.obolibrary.org/obo/GO_0003674> <http://www.ebi.ac.uk/QuickGO/term/GO:0004672> .
+<http://purl.obolibrary.org/obo/OGG_3000010910> <http://purl.obolibrary.org/obo/RO_0002352> <https://reactome.org/content/detail/R-HSA-874087> .
+<http://purl.obolibrary.org/obo/OGG_3000007994> <http://purl.obolibrary.org/obo/SO_1000002> "chr8:g.41978672G>A"@en .
+<http://pubmed.ncbi.nlm.nih.gov/16082251> <http://purl.obolibrary.org/obo/MI_0886> "2005"@en .
+<http://purl.obolibrary.org/obo/OGG_3000004638> <http://purl.obolibrary.org/obo/SO_1000002> "chr3:g.123700258G>A"@en .
+<http://purl.obolibrary.org/obo/OGG_3000005355> <http://purl.obolibrary.org/obo/NCIT_C17828> <http://www.ebi.ac.uk/QuickGO/term/GO:0006935> .
+<http://pubmed.ncbi.nlm.nih.gov/15743746> <http://www.w3.org/2000/01/rdf-schema#label> "Altered expression of alpha-methylacyl-coenzyme A racemase in prostatic adenocarcinoma following hormone therapy"@en .
+<http://purl.obolibrary.org/obo/OGG_3000003708> <https://semanticscience.org/resource/SIO_000115> <https://grch37.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000150995> .
+<http://purl.obolibrary.org/obo/OGG_3000003221> <http://purl.obolibrary.org/obo/GO_0003674> <http://www.ebi.ac.uk/QuickGO/term/GO:0001228> .
+<http://purl.obolibrary.org/obo/OGG_3000007994> <http://purl.obolibrary.org/obo/GO_0005575> <http://www.ebi.ac.uk/QuickGO/term/GO:0005829> .
+<http://www.ebi.ac.uk/QuickGO/term/GO:1903706> <http://www.w3.org/2000/01/rdf-schema#label> "regulation of hemopoiesis"@en .
+<http://pubmed.ncbi.nlm.nih.gov/15330799> <http://www.w3.org/2000/01/rdf-schema#label> "Alpha-methylacyl-CoA racemase: a multi-institutional study of a new prostate cancer marker"@en .
+<https://grch37.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000080839> <http://www.w3.org/2000/01/rdf-schema#label> "ENSG00000080839"@en .
+<http://purl.obolibrary.org/obo/OGG_3000005592> <http://purl.obolibrary.org/obo/SO_1000002> "chr10:g.52282280C>T"@en .
+<https://prostatecancer.es/data/> <https://semanticscience.org/resource/SIO_000987> <http://purl.obolibrary.org/obo/OGG_3000010910> .
+<http://purl.obolibrary.org/obo/OGG_3000005592> <http://purl.obolibrary.org/obo/NCIT_C17828> <http://www.ebi.ac.uk/QuickGO/term/GO:0030900> .
+<http://purl.obolibrary.org/obo/OGG_3000003708> <http://purl.obolibrary.org/obo/NCIT_C17828> <http://www.ebi.ac.uk/QuickGO/term/GO:0032024> .
+<https://www.uniprot.org/uniprotkb/Q13976> <http://www.w3.org/2000/01/rdf-schema#label> "Q13976"@en .
+<http://pubmed.ncbi.nlm.nih.gov/19371911> <http://www.w3.org/2000/01/rdf-schema#label> "A duplex quantitative polymerase chain reaction assay based on quantification of alpha-methylacyl-CoA racemase transcripts and prostate cancer antigen 3 in urine sediments improved diagnostic accuracy for prostate cancer"@en .
+<http://purl.obolibrary.org/obo/OGG_3000007994> <http://purl.obolibrary.org/obo/GO_0003674> <http://www.ebi.ac.uk/QuickGO/term/GO:0042393> .
+<http://purl.obolibrary.org/obo/OGG_3000005933> <https://semanticscience.org/resource/SIO_000115> <https://grch37.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000080839> .
+<http://purl.obolibrary.org/obo/OGG_3000003708> <http://purl.obolibrary.org/obo/NCIT_C17828> <http://www.ebi.ac.uk/QuickGO/term/GO:1990806> .
+<http://purl.obolibrary.org/obo/OGG_3000057659> <http://purl.obolibrary.org/obo/NCIT_C17828> <http://www.ebi.ac.uk/QuickGO/term/GO:0000122> .
+<http://pubmed.ncbi.nlm.nih.gov/14982837> <http://purl.obolibrary.org/obo/MI_0886> "2004"@en .
+<http://purl.obolibrary.org/obo/OGG_3000005376> <http://purl.obolibrary.org/obo/NCIT_C17828> <http://www.ebi.ac.uk/QuickGO/term/GO:0007422> .
+<http://www.ebi.ac.uk/QuickGO/term/GO:0010506> <http://www.w3.org/2000/01/rdf-schema#label> "regulation of autophagy"@en .
+<http://purl.obolibrary.org/obo/OGG_3000005592> <http://purl.obolibrary.org/obo/NCIT_C17828> <http://www.ebi.ac.uk/QuickGO/term/GO:0006468> .
+<http://www.ebi.ac.uk/QuickGO/term/GO:0042803> <http://www.w3.org/2000/01/rdf-schema#label> "protein homodimerization activity"@en .
+<http://www.ebi.ac.uk/QuickGO/term/GO:2000773> <http://www.w3.org/2000/01/rdf-schema#label> "negative regulation of cellular senescence"@en .
+<http://www.ebi.ac.uk/QuickGO/term/GO:0043966\u00A0> <http://www.w3.org/2000/01/rdf-schema#label> "histone H3 acetylation"@en .
+<http://purl.obolibrary.org/obo/OGG_3000023600> <https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C47902> <http://pubmed.ncbi.nlm.nih.gov/15323145> .
+<http://www.ebi.ac.uk/QuickGO/term/GO:0034389> <http://www.w3.org/2000/01/rdf-schema#label> "lipid droplet organization"@en .
+<http://purl.obolibrary.org/obo/OGG_3000007078> <http://purl.obolibrary.org/obo/NCIT_C17828> <http://www.ebi.ac.uk/QuickGO/term/GO:0009725> .
+<http://purl.obolibrary.org/obo/OGG_3000005355> <https://semanticscience.org/resource/SIO_000115> <https://grch37.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000102007> .
+<http://purl.obolibrary.org/obo/OGG_3000007994> <http://purl.obolibrary.org/obo/GO_0005575> <http://www.ebi.ac.uk/QuickGO/term/GO:0070776> .
+<http://www.ebi.ac.uk/QuickGO/term/GO:1904706> <http://www.w3.org/2000/01/rdf-schema#label> "negative regulation of vascular associated smooth muscle cell proliferation"@en .
+<http://www.ebi.ac.uk/QuickGO/term/GO:0006935> <http://www.w3.org/2000/01/rdf-schema#label> "chemotaxis"@en .
+<http://purl.obolibrary.org/obo/OGG_3000023111> <http://purl.obolibrary.org/obo/GO_0005575> <http://www.ebi.ac.uk/QuickGO/term/GO:0005886> .
+<http://purl.obolibrary.org/obo/OGG_3000023600> <https://semanticscience.org/resource/SIO_000128> <https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C13221> .
+<http://pubmed.ncbi.nlm.nih.gov/16681682> <http://www.w3.org/2000/01/rdf-schema#label> "Detection of prostate cancer by alpha-methylacyl CoA racemase (P504S) in needle biopsy specimens previously reported as negative for malignancy"@en .
+<http://purl.obolibrary.org/obo/OGG_3000003221> <http://purl.obolibrary.org/obo/NCIT_C17828> <http://www.ebi.ac.uk/QuickGO/term/GO:0051216\u00A0> .
+<http://purl.obolibrary.org/obo/OGG_3000000800> <http://purl.obolibrary.org/obo/GO_0005575> <http://www.ebi.ac.uk/QuickGO/term/GO:0005856> .
+<http://purl.obolibrary.org/obo/OGG_3000001809> <http://purl.obolibrary.org/obo/GO_0005575> <http://www.ebi.ac.uk/QuickGO/term/GO:0005615> .
+<https://prostatecancer.es/data/> <https://semanticscience.org/resource/SIO_000987> <http://purl.obolibrary.org/obo/OGG_3000003223> .
+<http://purl.obolibrary.org/obo/OGG_3000005376> <http://purl.obolibrary.org/obo/NCIT_C17828> <http://www.ebi.ac.uk/QuickGO/term/GO:0008219> .
+<http://www.ebi.ac.uk/QuickGO/term/GO:0005886\u00A0> <http://www.w3.org/2000/01/rdf-schema#label> "plasma membrane"@en .
+<http://purl.obolibrary.org/obo/OGG_3000005933> <http://purl.obolibrary.org/obo/GO_0005575> <http://www.ebi.ac.uk/QuickGO/term/GO:0005654> .
+<http://purl.obolibrary.org/obo/OGG_3000001809> <http://purl.obolibrary.org/obo/GO_0003674> <http://www.ebi.ac.uk/QuickGO/term/GO:0016810> .
+<http://purl.obolibrary.org/obo/OGG_3000003708> <http://purl.obolibrary.org/obo/GO_0003674> <http://www.ebi.ac.uk/QuickGO/term/GO:0098695> .
+<https://www.uniprot.org/uniprotkb/Q9P1Z0> <http://www.w3.org/2000/01/rdf-schema#label> "Q9P1Z0"@en .
+<http://www.ebi.ac.uk/QuickGO/term/GO:0019934> <http://www.w3.org/2000/01/rdf-schema#label> "cGMP-mediated signaling"@en .
+<http://pubmed.ncbi.nlm.nih.gov/18194603> <http://www.w3.org/2000/01/rdf-schema#label> "Sensitivity and specificity of AMACR expression in diagnosis of prostatic carcinoma"@en .
+<http://pubmed.ncbi.nlm.nih.gov/36312753> <http://www.w3.org/2000/01/rdf-schema#label> "GPX2 predicts recurrence-free survival and triggers the Wnt/\u03B2-catenin/EMT pathway in prostate cancer"@en .
+<http://purl.obolibrary.org/obo/OGG_3000023111> <http://purl.obolibrary.org/obo/GO_0003674> <http://www.ebi.ac.uk/QuickGO/term/GO:0031625> .
+<http://purl.obolibrary.org/obo/OGG_3000004638> <http://purl.obolibrary.org/obo/SO_1000002> "chr3:g.123733854G>A"@en .
+<http://purl.obolibrary.org/obo/OGG_3000023600> <http://purl.obolibrary.org/obo/RO_0002350> <https://reactome.org/content/detail/R-HSA-9033148> .
+<http://www.ebi.ac.uk/QuickGO/term/GO:0071476> <http://www.w3.org/2000/01/rdf-schema#label> "cellular hypotonic response"@en .
+<https://www.uniprot.org/uniprotkb/Q8N0X7> <http://www.w3.org/2000/01/rdf-schema#label> "Q8N0X7"@en .
+<http://pubmed.ncbi.nlm.nih.gov/36312753> <http://purl.obolibrary.org/obo/MI_0886> "2022"@en .
+<http://purl.obolibrary.org/obo/OGG_3000005933> <http://purl.obolibrary.org/obo/GO_0005575> <http://www.ebi.ac.uk/QuickGO/term/GO:0005667> .
+<http://www.ebi.ac.uk/QuickGO/term/GO:0043231> <http://www.w3.org/2000/01/rdf-schema#label> "intracellular membrane-bounded organelle"@en .
+<http://www.ebi.ac.uk/QuickGO/term/GO:0051276> <http://www.w3.org/2000/01/rdf-schema#label> "chromosome organization"@en .
+<http://www.ebi.ac.uk/QuickGO/term/GO:0032288> <http://www.w3.org/2000/01/rdf-schema#label> "myelin assembly"@en .
+<http://purl.obolibrary.org/obo/OGG_3000005592> <https://semanticscience.org/resource/SIO_000136> "Protein kinase cGMP-dependent 1"@en .
+<http://purl.obolibrary.org/obo/OGG_3000006840> <https://semanticscience.org/resource/SIO_000115> <https://www.uniprot.org/uniprotkb/O95425> .
+<http://purl.obolibrary.org/obo/OGG_3000023600> <https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C47902> <http://pubmed.ncbi.nlm.nih.gov/15602744> .
+<http://purl.obolibrary.org/obo/OGG_3000006840> <http://purl.obolibrary.org/obo/GO_0005575> <http://www.ebi.ac.uk/QuickGO/term/GO:0005886> .
+<http://www.ebi.ac.uk/QuickGO/term/GO:0051017> <http://www.w3.org/2000/01/rdf-schema#label> "actin filament bundle assembly"@en .
+<http://www.ebi.ac.uk/QuickGO/term/GO:0043996> <http://www.w3.org/2000/01/rdf-schema#label> "histone H4K8 acetyltransferase activity"@en .
+<http://purl.obolibrary.org/obo/OGG_3000023600> <https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C47902> <http://pubmed.ncbi.nlm.nih.gov/18537123> .
+<https://www.uniprot.org/uniprotkb/Q9Y2Z0> <http://www.w3.org/2000/01/rdf-schema#label> "Q9Y2Z0"@en .
+<http://purl.obolibrary.org/obo/OGG_3000023600> <https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C47902> <http://pubmed.ncbi.nlm.nih.gov/16563090> .
+<http://pubmed.ncbi.nlm.nih.gov/16932031> <http://purl.obolibrary.org/obo/MI_0886> "2006"@en .
+<http://purl.obolibrary.org/obo/OGG_3000005355> <http://purl.obolibrary.org/obo/GO_0005575> <http://www.ebi.ac.uk/QuickGO/term/GO:0005886> .
+<http://purl.obolibrary.org/obo/OGG_3000006840> <http://purl.obolibrary.org/obo/GO_0005575> <http://www.ebi.ac.uk/QuickGO/term/GO:0042995> .
+<http://purl.obolibrary.org/obo/OGG_3000023600> <https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C47902> <http://pubmed.ncbi.nlm.nih.gov/16082251> .
+<http://www.ebi.ac.uk/QuickGO/term/GO:0007207> <http://www.w3.org/2000/01/rdf-schema#label> "phospholipase C-activating G protein-coupled acetylcholine receptor signaling pathway"@en .
+<https://reactome.org/content/detail/R-HSA-445764> <http://www.w3.org/2000/01/rdf-schema#label> "\u00A0MYLK:Ca2+:CALM1"@en .
+<http://pubmed.ncbi.nlm.nih.gov/16932031> <http://www.w3.org/2000/01/rdf-schema#label> "Sensitivity of P504S/alpha-methylacyl-CoA racemase (AMACR) immunohistochemistry for the detection of prostate carcinoma on stored needle biopsies"@en .
+<http://pubmed.ncbi.nlm.nih.gov/15371879> <http://www.w3.org/2000/01/rdf-schema#label> "Prostate cancer detection on urinalysis for alpha methylacyl coenzyme a racemase protein"@en .
+<http://purl.obolibrary.org/obo/OGG_3000001809> <http://purl.obolibrary.org/obo/GO_0005575> <http://www.ebi.ac.uk/QuickGO/term/GO:0070382\u00A0> .
+<http://purl.obolibrary.org/obo/OGG_3000010910> <https://semanticscience.org/resource/SIO_000128> <https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C13208> .
+<http://pubmed.ncbi.nlm.nih.gov/15026333> <http://www.w3.org/2000/01/rdf-schema#label> "Hypermethylation of CpG islands in primary and metastatic human prostate cancer"@en .
+<http://www.ebi.ac.uk/QuickGO/term/GO:0005811> <http://www.w3.org/2000/01/rdf-schema#label> "lipid droplet"@en .
+<http://pubmed.ncbi.nlm.nih.gov/15173267> <http://www.w3.org/2000/01/rdf-schema#label> "Humoral immune response to alpha-methylacyl-CoA racemase and prostate cancer"@en .
+<http://pubmed.ncbi.nlm.nih.gov/36765747> <http://purl.obolibrary.org/obo/MI_0886> "2023"@en .
+<http://pubmed.ncbi.nlm.nih.gov/17008281> <http://purl.obolibrary.org/obo/MI_0886> "2006"@en .
+<http://purl.obolibrary.org/obo/OGG_3000057659> <http://purl.obolibrary.org/obo/GO_0005575> <http://www.ebi.ac.uk/QuickGO/term/GO:0005634> .
+<http://purl.obolibrary.org/obo/OGG_3000023600> <https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C47902> <http://pubmed.ncbi.nlm.nih.gov/15743746> .
+<http://pubmed.ncbi.nlm.nih.gov/16950615> <http://www.w3.org/2000/01/rdf-schema#label> "Tissue inhibitor of metalloproteinase-3 induces apoptosis in prostate cancer cells and confers increased sensitivity to paclitaxel"@en .
+<http://purl.obolibrary.org/obo/OGG_3000007994> <http://purl.obolibrary.org/obo/NCIT_C17828> <http://www.ebi.ac.uk/QuickGO/term/GO:0045893> .
+<http://purl.obolibrary.org/obo/OGG_3000006840> <http://purl.obolibrary.org/obo/GO_0005575> <http://www.ebi.ac.uk/QuickGO/term/GO:0005634> .
+<https://prostatecancer.es/data/> <https://semanticscience.org/resource/SIO_000987> <http://purl.obolibrary.org/obo/OGG_3000006840> .
+<http://purl.obolibrary.org/obo/OGG_3000003221> <http://purl.obolibrary.org/obo/GO_0005575> <http://www.ebi.ac.uk/QuickGO/term/GO:0005634> .
+<http://purl.obolibrary.org/obo/OGG_3000003708> <http://purl.obolibrary.org/obo/NCIT_C17828> <http://www.ebi.ac.uk/QuickGO/term/GO:0006816> .
+<http://www.ebi.ac.uk/QuickGO/term/GO:0030514\u00A0> <http://www.w3.org/2000/01/rdf-schema#label> "negative regulation of BMP signaling pathway"@en .
+<http://pubmed.ncbi.nlm.nih.gov/36408130> <http://www.w3.org/2000/01/rdf-schema#label> "Identification of immuno-infiltrating MAP1A as a prognosis-related biomarker for bladder cancer and its ceRNA network construction"@en .
+<http://pubmed.ncbi.nlm.nih.gov/18537123> <http://purl.obolibrary.org/obo/MI_0886> "2008"@en .
+<http://purl.obolibrary.org/obo/OGG_3000005376> <https://semanticscience.org/resource/SIO_000128> <https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C13212> .
+<http://www.ebi.ac.uk/QuickGO/term/GO:1903984> <http://www.w3.org/2000/01/rdf-schema#label> "positive regulation of TRAIL-activated apoptotic signaling pathway"@en .
+<http://www.ebi.ac.uk/QuickGO/term/GO:0006816> <http://www.w3.org/2000/01/rdf-schema#label> "calcium ion transport"@en .
+<http://purl.obolibrary.org/obo/OGG_3000005592> <http://purl.obolibrary.org/obo/NCIT_C17828> <http://www.ebi.ac.uk/QuickGO/term/GO:0030036> .
+<http://purl.obolibrary.org/obo/OGG_3000003708> <http://purl.obolibrary.org/obo/GO_0003674> <http://www.ebi.ac.uk/QuickGO/term/GO:0015278> .
+<http://purl.obolibrary.org/obo/OGG_3000005592> <http://purl.obolibrary.org/obo/NCIT_C17828> <http://www.ebi.ac.uk/QuickGO/term/GO:0016358\u00A0> .
+<http://purl.obolibrary.org/obo/OGG_3000007994> <http://purl.obolibrary.org/obo/GO_0005575> <http://www.ebi.ac.uk/QuickGO/term/GO:0005654> .
+<http://purl.obolibrary.org/obo/OGG_3000007994> <http://purl.obolibrary.org/obo/NCIT_C17828> <http://www.ebi.ac.uk/QuickGO/term/GO:0010628> .
+<http://purl.obolibrary.org/obo/OGG_3000007078> <http://purl.obolibrary.org/obo/NCIT_C17828> <http://www.ebi.ac.uk/QuickGO/term/GO:0010033> .
+<http://www.ebi.ac.uk/QuickGO/term/GO:0050882> <http://www.w3.org/2000/01/rdf-schema#label> "voluntary musculoskeletal movement"@en .
+<http://pubmed.ncbi.nlm.nih.gov/35799671> <http://purl.obolibrary.org/obo/MI_0886> "2022"@en .
+<http://www.ebi.ac.uk/QuickGO/term/GO:0004672> <http://www.w3.org/2000/01/rdf-schema#label> "protein kinase activity"@en .
+<http://purl.obolibrary.org/obo/OGG_3000005933> <http://purl.obolibrary.org/obo/NCIT_C17828> <http://www.ebi.ac.uk/QuickGO/term/GO:0000122> .
+<http://purl.obolibrary.org/obo/OGG_3000023111> <http://purl.obolibrary.org/obo/NCIT_C17828> <http://www.ebi.ac.uk/QuickGO/term/GO:0051301> .
+<http://www.ebi.ac.uk/QuickGO/term/GO:0009952> <http://www.w3.org/2000/01/rdf-schema#label> "anterior/posterior pattern specification"@en .
+<http://purl.obolibrary.org/obo/OGG_3000057659> <http://purl.obolibrary.org/obo/GO_0003674> <http://www.ebi.ac.uk/QuickGO/term/GO:0000977> .
+<http://purl.obolibrary.org/obo/OGG_3000005933> <http://purl.obolibrary.org/obo/SO_1000002> "chr20:g.37062191C>T"@en .
+<http://purl.obolibrary.org/obo/OGG_3000007078> <https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C47902> <http://pubmed.ncbi.nlm.nih.gov/16950615> .
+<http://purl.obolibrary.org/obo/OGG_3000023600> <https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C47902> <http://pubmed.ncbi.nlm.nih.gov/16324196> .
+<http://pubmed.ncbi.nlm.nih.gov/17222253> <http://purl.obolibrary.org/obo/MI_0886> "2007"@en .
+<http://pubmed.ncbi.nlm.nih.gov/20003233> <http://purl.obolibrary.org/obo/MI_0886> "2009"@en .
+<http://www.ebi.ac.uk/QuickGO/term/GO:0005523> <http://www.w3.org/2000/01/rdf-schema#label> "tropomyosin binding"@en .
+<http://purl.obolibrary.org/obo/OGG_3000001809> <https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C47902> <http://pubmed.ncbi.nlm.nih.gov/28639202> .
+<http://pubmed.ncbi.nlm.nih.gov/11926890> <http://www.w3.org/2000/01/rdf-schema#label> "alpha-Methylacyl coenzyme A racemase as a tissue biomarker for prostate cancer"@en .
+<http://www.ebi.ac.uk/QuickGO/term/GO:0106310> <http://www.w3.org/2000/01/rdf-schema#label> "protein serine kinase activity"@en .
+<http://www.ebi.ac.uk/QuickGO/term/GO:0070373> <http://www.w3.org/2000/01/rdf-schema#label> "negative regulation of ERK1 and ERK2 cascade"@en .
+<http://purl.obolibrary.org/obo/OGG_3000057659> <http://purl.obolibrary.org/obo/GO_0003674> <http://www.ebi.ac.uk/QuickGO/term/GO:0046872> .
+<http://pubmed.ncbi.nlm.nih.gov/17134736> <http://www.w3.org/2000/01/rdf-schema#label> "Alpha-methylacyl-CoA racemase (P504S)/34betaE12/p63 triple cocktail stain in prostatic adenocarcinoma after hormonal therapy"@en .
+<http://www.ebi.ac.uk/QuickGO/term/GO:0031094> <http://www.w3.org/2000/01/rdf-schema#label> "platelet dense tubular network"@en .
+<http://www.ebi.ac.uk/QuickGO/term/GO:0005615> <http://www.w3.org/2000/01/rdf-schema#label> "extracellular space"@en .
+<http://www.ebi.ac.uk/QuickGO/term/GO:0030154> <http://www.w3.org/2000/01/rdf-schema#label> "cell differentiation"@en .
+<http://purl.obolibrary.org/obo/OGG_3000003708> <http://purl.obolibrary.org/obo/GO_0005575> <http://www.ebi.ac.uk/QuickGO/term/GO:0005783> .
+<http://purl.obolibrary.org/obo/OGG_3000006840> <https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C47902> <http://pubmed.ncbi.nlm.nih.gov/36408130> .
+<http://pubmed.ncbi.nlm.nih.gov/15330799> <http://purl.obolibrary.org/obo/MI_0886> "2004"@en .
+<http://purl.obolibrary.org/obo/OGG_3000005355> <http://purl.obolibrary.org/obo/NCIT_C17828> <http://www.ebi.ac.uk/QuickGO/term/GO:0019221> .
+<http://purl.obolibrary.org/obo/OGG_3000007078> <https://semanticscience.org/resource/SIO_000115> <https://www.uniprot.org/uniprotkb/P35625> .
+<http://purl.obolibrary.org/obo/OGG_3000005592> <https://semanticscience.org/resource/SIO_000115> <https://www.uniprot.org/uniprotkb/Q13976> .
+<http://purl.obolibrary.org/obo/OGG_3000057659> <http://purl.obolibrary.org/obo/GO_0003674> <http://www.ebi.ac.uk/QuickGO/term/GO:0010428> .
+<http://www.ebi.ac.uk/QuickGO/term/GO:0006334> <http://www.w3.org/2000/01/rdf-schema#label> "nucleosome assembly"@en .
+<https://www.uniprot.org/uniprotkb/Q15746> <http://www.w3.org/2000/01/rdf-schema#label> "Q15746"@en .
+<http://www.ebi.ac.uk/QuickGO/term/GO:0005829> <http://www.w3.org/2000/01/rdf-schema#label> "cytosol"@en .
+<http://pubmed.ncbi.nlm.nih.gov/20003233> <http://www.w3.org/2000/01/rdf-schema#label> "Aberrant expression and potency as a cancer immunotherapy target of alpha-methylacyl-coenzyme A racemase in prostate cancer"@en .
+<https://prostatecancer.es/data/> <https://semanticscience.org/resource/SIO_000987> <http://purl.obolibrary.org/obo/OGG_3000023600> .
+<https://grch37.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000198353> <http://www.w3.org/2000/01/rdf-schema#label> "ENSG00000198353"@en .
+<http://purl.obolibrary.org/obo/OGG_3000007994> <http://purl.obolibrary.org/obo/RO_0002350> <https://reactome.org/content/detail/R-HSA-3318429> .
+<https://reactome.org/content/detail/R-HSA-1363314> <http://purl.obolibrary.org/obo/FMA_223408> <http://www.ebi.ac.uk/QuickGO/term/GO:0005654> .
+<http://purl.obolibrary.org/obo/OGG_3000004638> <http://purl.obolibrary.org/obo/NCIT_C123886> "123610049-123884332"@en .
+<https://reactome.org/content/detail/R-HSA-481030> <http://www.w3.org/2000/01/rdf-schema#label> "Platelet dense granule content"@en .
+<http://purl.obolibrary.org/obo/OGG_3000007994> <http://purl.obolibrary.org/obo/TXPO_0000039> <https://reactome.org/content/detail/R-HSA-6805616> .
+<https://prostatecancer.es/data/> <https://semanticscience.org/resource/SIO_000987> <http://purl.obolibrary.org/obo/OGG_3000005933> .
+<http://www.ebi.ac.uk/QuickGO/term/GO:0008219> <http://www.w3.org/2000/01/rdf-schema#label> "cell death"@en .
+<http://purl.obolibrary.org/obo/OGG_3000005592> <http://purl.obolibrary.org/obo/NCIT_C17828> <http://www.ebi.ac.uk/QuickGO/term/GO:0048668> .
+<http://purl.obolibrary.org/obo/OGG_3000003223> <http://purl.obolibrary.org/obo/GO_0003674> <http://www.ebi.ac.uk/QuickGO/term/GO:0000978> .
+<https://reactome.org/content/detail/R-HSA-874112> <http://www.w3.org/2000/01/rdf-schema#label> "SUGT1:HSP90"@en .
+<http://purl.obolibrary.org/obo/OGG_3000023600> <http://purl.obolibrary.org/obo/GO_0005575> <http://www.ebi.ac.uk/QuickGO/term/GO:0005739> .
+<http://purl.obolibrary.org/obo/OGG_3000007078> <https://semanticscience.org/resource/SIO_000115> <https://grch37.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000100234> .
+<http://purl.obolibrary.org/obo/OGG_3000003221> <https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C47902> <http://pubmed.ncbi.nlm.nih.gov/35722463> .
+<http://purl.obolibrary.org/obo/OGG_3000005592> <http://purl.obolibrary.org/obo/GO_0003674> <http://www.ebi.ac.uk/QuickGO/term/GO:0030553> .
+<http://pubmed.ncbi.nlm.nih.gov/15928670> <http://www.w3.org/2000/01/rdf-schema#label> "Identification of degradome components associated with prostate cancer progression by expression analysis of human prostatic tissues"@en .
+<http://purl.obolibrary.org/obo/OGG_3000023600> <https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C47902> <http://pubmed.ncbi.nlm.nih.gov/19730362> .
+<http://pubmed.ncbi.nlm.nih.gov/17597019> <http://purl.obolibrary.org/obo/MI_0886> "2007"@en .
+<http://pubmed.ncbi.nlm.nih.gov/16491480> <http://purl.obolibrary.org/obo/MI_0886> "2006"@en .
+<http://purl.obolibrary.org/obo/OGG_3000001809> <http://purl.obolibrary.org/obo/NCIT_C17828> <http://www.ebi.ac.uk/QuickGO/term/GO:0048678> .
+<http://purl.obolibrary.org/obo/OGG_3000003708> <http://purl.obolibrary.org/obo/SO_1000002> "chr3:g.4667452G>A"@en .
+<http://www.ebi.ac.uk/QuickGO/term/GO:0005576> <http://www.w3.org/2000/01/rdf-schema#label> "extracellular region"@en .
+<http://www.ebi.ac.uk/QuickGO/term/GO:0001764\u00A0> <http://www.w3.org/2000/01/rdf-schema#label> "neuron migration"@en .
+<http://purl.obolibrary.org/obo/OGG_3000023111> <http://purl.obolibrary.org/obo/NCIT_C17828> <http://www.ebi.ac.uk/QuickGO/term/GO:0051881> .
+<http://purl.obolibrary.org/obo/OGG_3000007994> <http://purl.obolibrary.org/obo/NCIT_C17828> <http://www.ebi.ac.uk/QuickGO/term/GO:0045944> .
+<http://purl.obolibrary.org/obo/OGG_3000023600> <https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C47902> <http://pubmed.ncbi.nlm.nih.gov/15330799> .
+<http://purl.obolibrary.org/obo/OGG_3000003223> <http://purl.obolibrary.org/obo/GO_0005575> <http://www.ebi.ac.uk/QuickGO/term/GO:0005829> .
+<http://purl.obolibrary.org/obo/OGG_3000005355> <http://purl.obolibrary.org/obo/GO_0005575> <http://www.ebi.ac.uk/QuickGO/term/GO:0005789> .
+<http://purl.obolibrary.org/obo/OGG_3000023600> <https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C47902> <http://pubmed.ncbi.nlm.nih.gov/17527076> .
+<http://purl.obolibrary.org/obo/OGG_3000010910> <http://purl.obolibrary.org/obo/GO_0005575> <http://www.ebi.ac.uk/QuickGO/term/GO:0000776> .
+<http://pubmed.ncbi.nlm.nih.gov/16459672> <http://purl.obolibrary.org/obo/MI_0886> "2005"@en .
+<http://purl.obolibrary.org/obo/OGG_3000001809> <https://semanticscience.org/resource/SIO_000115> <https://grch37.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000113657> .
+<http://www.ebi.ac.uk/QuickGO/term/GO:0009838> <http://www.w3.org/2000/01/rdf-schema#label> "abscission"@en .
+<http://purl.obolibrary.org/obo/OGG_3000006840> <http://www.w3.org/2000/01/rdf-schema#label> "SVIL"@en .
+<http://pubmed.ncbi.nlm.nih.gov/36358940> <http://purl.obolibrary.org/obo/MI_0886> "2022"@en .
+<http://purl.obolibrary.org/obo/OGG_3000007994> <http://purl.obolibrary.org/obo/NCIT_C17828> <http://www.ebi.ac.uk/QuickGO/term/GO:0030099\u00A0> .
+<http://www.ebi.ac.uk/QuickGO/term/GO:0030496> <http://www.w3.org/2000/01/rdf-schema#label> "midbody"@en .
+<http://www.ebi.ac.uk/QuickGO/term/GO:0007165> <http://www.w3.org/2000/01/rdf-schema#label> "signal transduction"@en .
+<http://purl.obolibrary.org/obo/OGG_3000023600> <http://purl.obolibrary.org/obo/GO_0005575> <http://www.ebi.ac.uk/QuickGO/term/GO:0005777> .
+<http://purl.obolibrary.org/obo/OGG_3000001809> <http://purl.obolibrary.org/obo/GO_0005575> <http://www.ebi.ac.uk/QuickGO/term/GO:0005829> .
+<http://pubmed.ncbi.nlm.nih.gov/14506641> <http://purl.obolibrary.org/obo/MI_0886> "2003"@en .
+<http://purl.obolibrary.org/obo/OGG_3000023111> <https://semanticscience.org/resource/SIO_000115> <https://grch37.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000133104> .
+<http://purl.obolibrary.org/obo/OGG_3000007994> <http://purl.obolibrary.org/obo/NCIT_C17828> <http://www.ebi.ac.uk/QuickGO/term/GO:0006473> .
+<http://pubmed.ncbi.nlm.nih.gov/17527076> <http://www.w3.org/2000/01/rdf-schema#label> "Immunohistochemical antibody cocktail staining (p63/HMWCK/AMACR) of ductal adenocarcinoma and Gleason pattern 4 cribriform and noncribriform acinar adenocarcinomas of the prostate"@en .
+<https://reactome.org/content/detail/R-HSA-9615626> <http://purl.obolibrary.org/obo/FMA_223408> <http://www.ebi.ac.uk/QuickGO/term/GO:0005886> .
+<http://www.ebi.ac.uk/QuickGO/term/GO:0005925\u00A0> <http://www.w3.org/2000/01/rdf-schema#label> "focal adhesion"@en .
+<http://www.ebi.ac.uk/QuickGO/term/GO:0005524> <http://www.w3.org/2000/01/rdf-schema#label> "ATP binding"@en .
+<http://purl.obolibrary.org/obo/OGG_3000003708> <http://purl.obolibrary.org/obo/SO_0000159> "chr3:g.4766704delA"@en .
+<http://www.ebi.ac.uk/QuickGO/term/GO:0042393> <http://www.w3.org/2000/01/rdf-schema#label> "histone binding"@en .
+<http://purl.obolibrary.org/obo/OGG_3000007078> <http://purl.obolibrary.org/obo/NCIT_C17828> <http://www.ebi.ac.uk/QuickGO/term/GO:1903984> .
+<https://www.uniprot.org/uniprotkb/Q14643> <http://www.w3.org/2000/01/rdf-schema#label> "Q14643"@en .
+<http://www.ebi.ac.uk/QuickGO/term/GO:0000981> <http://www.w3.org/2000/01/rdf-schema#label> "RNA polymerase II-specific"@en .
+<http://purl.obolibrary.org/obo/OGG_3000001809> <http://purl.obolibrary.org/obo/GO_0003674> <http://www.ebi.ac.uk/QuickGO/term/GO:0031005> .
+<https://www.uniprot.org/uniprotkb/P09017> <http://www.w3.org/2000/01/rdf-schema#label> "P09017"@en .
+<http://www.ebi.ac.uk/QuickGO/term/GO:0006473> <http://www.w3.org/2000/01/rdf-schema#label> "protein acetylation"@en .
+<http://pubmed.ncbi.nlm.nih.gov/15982318> <http://purl.obolibrary.org/obo/MI_0886> "2005"@en .
+<http://purl.obolibrary.org/obo/OGG_3000000800> <https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C47902> <http://pubmed.ncbi.nlm.nih.gov/36187394> .
+<http://www.ebi.ac.uk/QuickGO/term/GO:0030336> <http://www.w3.org/2000/01/rdf-schema#label> "negative regulation of cell migration"@en .
+<http://purl.obolibrary.org/obo/OGG_3000023111> <http://purl.obolibrary.org/obo/NCIT_C17828> <http://www.ebi.ac.uk/QuickGO/term/GO:0030509> .
+<http://pubmed.ncbi.nlm.nih.gov/12766580> <http://purl.obolibrary.org/obo/MI_0886> "2003"@en .
+<http://www.ebi.ac.uk/QuickGO/term/GO:0070059> <http://www.w3.org/2000/01/rdf-schema#label> "intrinsic apoptotic signaling pathway in response to endoplasmic reticulum stress"@en .
+<http://purl.obolibrary.org/obo/OGG_3000057659> <http://purl.obolibrary.org/obo/GO_0003674> <http://www.ebi.ac.uk/QuickGO/term/GO:0001227> .
+<http://purl.obolibrary.org/obo/OGG_3000023600> <https://semanticscience.org/resource/SIO_000115> <https://grch37.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000242110> .
+<http://purl.obolibrary.org/obo/OGG_3000003221> <http://purl.obolibrary.org/obo/NCIT_C17828> <http://www.ebi.ac.uk/QuickGO/term/GO:0045944> .
+<http://purl.obolibrary.org/obo/OGG_3000003223> <http://purl.obolibrary.org/obo/GO_0005575> <http://www.ebi.ac.uk/QuickGO/term/GO:0000785> .
+<http://purl.obolibrary.org/obo/OGG_3000004638> <https://semanticscience.org/resource/SIO_000136> "Myosin light chain kinase"@en .
+<http://pubmed.ncbi.nlm.nih.gov/15173267> <http://purl.obolibrary.org/obo/MI_0886> "2004"@en .
+<http://purl.obolibrary.org/obo/OGG_3000057659> <http://purl.obolibrary.org/obo/NCIT_C17828> <http://www.ebi.ac.uk/QuickGO/term/GO:0006974> .
+<http://www.ebi.ac.uk/QuickGO/term/GO:0001666> <http://www.w3.org/2000/01/rdf-schema#label> "response to hypoxia"@en .
+<http://purl.obolibrary.org/obo/OGG_3000023600> <https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C47902> <http://pubmed.ncbi.nlm.nih.gov/17067752> .
+<http://purl.obolibrary.org/obo/OGG_3000005376> <http://purl.obolibrary.org/obo/NCIT_C17828> <http://www.ebi.ac.uk/QuickGO/term/GO:0007268> .
+<http://purl.obolibrary.org/obo/OGG_3000003708> <http://purl.obolibrary.org/obo/NCIT_C123886> "4493345-4847840"@en .
+<http://purl.obolibrary.org/obo/OGG_3000007078> <http://purl.obolibrary.org/obo/GO_0005575> <http://www.ebi.ac.uk/QuickGO/term/GO:0005615> .
+<http://pubmed.ncbi.nlm.nih.gov/36408130> <http://purl.obolibrary.org/obo/MI_0886> "2022"@en .
+<http://purl.obolibrary.org/obo/OGG_3000007994> <https://semanticscience.org/resource/SIO_000115> <https://grch37.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000083168> .
+<http://www.ebi.ac.uk/QuickGO/term/GO:0016407> <http://www.w3.org/2000/01/rdf-schema#label> "acetyltransferase activity"@en .
+<http://purl.obolibrary.org/obo/OGG_3000003221> <http://purl.obolibrary.org/obo/GO_0003674> <http://www.ebi.ac.uk/QuickGO/term/GO:0071837> .
+<http://www.ebi.ac.uk/QuickGO/term/GO:0060414> <http://www.w3.org/2000/01/rdf-schema#label> "aorta smooth muscle tissue morphogenesis"@en .
+<http://www.ebi.ac.uk/QuickGO/term/GO:0005794> <http://www.w3.org/2000/01/rdf-schema#label> "Golgi apparatus"@en .
+<http://purl.obolibrary.org/obo/OGG_3000007994> <http://purl.obolibrary.org/obo/SO_1000002> "chr8:g.41942885A>C"@en .
+<http://purl.obolibrary.org/obo/OGG_3000005355> <http://purl.obolibrary.org/obo/NCIT_C17828> <http://www.ebi.ac.uk/QuickGO/term/GO:0006811> .
+<http://purl.obolibrary.org/obo/OGG_3000004638> <https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C47902> <http://pubmed.ncbi.nlm.nih.gov/35701309> .
+<http://purl.obolibrary.org/obo/OGG_3000057659> <http://purl.obolibrary.org/obo/SO_1000002> "chr17:g.7463806C>T"@en .
+<http://purl.obolibrary.org/obo/OGG_3000004638> <http://purl.obolibrary.org/obo/SO_1000002> "chr3:g.123664190C>T"@en .
+<http://purl.obolibrary.org/obo/OGG_3000005933> <http://purl.obolibrary.org/obo/TXPO_0000039> <https://reactome.org/content/detail/R-HSA-1226088> .
+<http://www.ebi.ac.uk/QuickGO/term/GO:0014069\u00A0> <http://www.w3.org/2000/01/rdf-schema#label> "postsynaptic density"@en .
+<http://purl.obolibrary.org/obo/OGG_3000057659> <https://semanticscience.org/resource/SIO_000115> <https://grch37.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000174282> .
+<http://purl.obolibrary.org/obo/OGG_3000010910> <http://www.w3.org/2000/01/rdf-schema#label> "SUGT1"@en .
+<http://purl.obolibrary.org/obo/OGG_3000010910> <https://semanticscience.org/resource/SIO_000115> <https://www.uniprot.org/uniprotkb/Q9Y2Z0> .
+<http://pubmed.ncbi.nlm.nih.gov/16170165> <http://purl.obolibrary.org/obo/MI_0886> "2005"@en .
+<http://www.ebi.ac.uk/QuickGO/term/GO:0031005> <http://www.w3.org/2000/01/rdf-schema#label> "filamin binding"@en .
+<http://purl.obolibrary.org/obo/OGG_3000023111> <http://purl.obolibrary.org/obo/GO_0005575> <http://www.ebi.ac.uk/QuickGO/term/GO:0005811> .
+<http://purl.obolibrary.org/obo/OGG_3000003708> <http://purl.obolibrary.org/obo/NCIT_C17828> <http://www.ebi.ac.uk/QuickGO/term/GO:0042045> .
+<http://purl.obolibrary.org/obo/OGG_3000005592> <http://purl.obolibrary.org/obo/NCIT_C17828> <http://www.ebi.ac.uk/QuickGO/term/GO:0001764\u00A0> .
+<http://purl.obolibrary.org/obo/OGG_3000003223> <http://purl.obolibrary.org/obo/NCIT_C17828> <http://www.ebi.ac.uk/QuickGO/term/GO:0009952> .
+<http://purl.obolibrary.org/obo/OGG_3000006840> <http://purl.obolibrary.org/obo/NCIT_C123886> "29457338-29736959"@en .
+<http://purl.obolibrary.org/obo/OGG_3000003708> <http://purl.obolibrary.org/obo/TXPO_0000039> <https://reactome.org/content/detail/R-HSA-112288> .
+<http://pubmed.ncbi.nlm.nih.gov/17680641> <http://purl.obolibrary.org/obo/MI_0886> "2007"@en .
+<https://reactome.org/content/detail/R-HSA-169685> <http://purl.obolibrary.org/obo/FMA_223408> <http://www.ebi.ac.uk/QuickGO/term/GO:0005789> .
+<http://pubmed.ncbi.nlm.nih.gov/35799671> <http://www.w3.org/2000/01/rdf-schema#label> "Discovering Gene Signature Shared by Prostate Cancer and Neurodegenerative Diseases Based on the Bioinformatics Approach"@en .
+<http://purl.obolibrary.org/obo/OGG_3000003708> <http://purl.obolibrary.org/obo/NCIT_C17828> <http://www.ebi.ac.uk/QuickGO/term/GO:0051209> .
+<http://www.ebi.ac.uk/QuickGO/term/GO:0005886> <http://www.w3.org/2000/01/rdf-schema#label> "plasma membrane"@en .
+<http://purl.obolibrary.org/obo/OGG_3000007994> <http://purl.obolibrary.org/obo/GO_0003674> <http://www.ebi.ac.uk/QuickGO/term/GO:0036408> .
+<http://www.ebi.ac.uk/QuickGO/term/GO:0032991> <http://www.w3.org/2000/01/rdf-schema#label> "protein-containing complex"@en .
+<http://pubmed.ncbi.nlm.nih.gov/17393784> <http://www.w3.org/2000/01/rdf-schema#label> "Detection of AMACR (P504S), P63 and 34betaE12 cocktail in the early diagnosis of prostate cancer"@en .
+<http://www.ebi.ac.uk/QuickGO/term/GO:0003779\u00A0> <http://www.w3.org/2000/01/rdf-schema#label> "actin binding"@en .
+<http://pubmed.ncbi.nlm.nih.gov/18343427> <http://purl.obolibrary.org/obo/MI_0886> "2008"@en .
+<http://pubmed.ncbi.nlm.nih.gov/16491480> <http://www.w3.org/2000/01/rdf-schema#label> "The prostate-specific G-protein coupled receptors PSGR and PSGR2 are prostate cancer biomarkers that are complementary to alpha-methylacyl-CoA racemase"@en .
+<http://purl.obolibrary.org/obo/OGG_3000023111> <http://purl.obolibrary.org/obo/NCIT_C17828> <http://www.ebi.ac.uk/QuickGO/term/GO:0009838> .
+<http://purl.obolibrary.org/obo/OGG_3000057659> <http://purl.obolibrary.org/obo/NCIT_C123886> "7459366-7484263"@en .
+<http://purl.obolibrary.org/obo/OGG_3000001809> <http://purl.obolibrary.org/obo/GO_0005575> <http://www.ebi.ac.uk/QuickGO/term/GO:0030426> .
+<http://purl.obolibrary.org/obo/OGG_3000023600> <https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C47902> <http://pubmed.ncbi.nlm.nih.gov/17008281> .
+<http://purl.obolibrary.org/obo/OGG_3000006840> <http://purl.obolibrary.org/obo/GO_0005575> <http://www.ebi.ac.uk/QuickGO/term/GO:0015629> .
+<http://purl.obolibrary.org/obo/OGG_3000005933> <http://purl.obolibrary.org/obo/NCIT_C17828> <http://www.ebi.ac.uk/QuickGO/term/GO:0030154> .
+<http://purl.obolibrary.org/obo/OGG_3000023600> <https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C47902> <http://pubmed.ncbi.nlm.nih.gov/17393784> .
+<http://pubmed.ncbi.nlm.nih.gov/15599946> <http://www.w3.org/2000/01/rdf-schema#label> "The expression and regulation of ADAMTS-1, -4, -5, -9, and -15, and TIMP-3 by TGFbeta1 in prostate cells: relevance to the accumulation of versican"@en .
+<https://prostatecancer.es/data/> <https://semanticscience.org/resource/SIO_000987> <http://purl.obolibrary.org/obo/OGG_3000001809> .
+<http://www.ebi.ac.uk/QuickGO/term/GO:0030335> <http://www.w3.org/2000/01/rdf-schema#label> "positive regulation of cell migration"@en .
+<http://purl.obolibrary.org/obo/OGG_3000057659> <http://purl.obolibrary.org/obo/GO_0003674> <http://www.ebi.ac.uk/QuickGO/term/GO:0008327\u00A0> .
+<http://pubmed.ncbi.nlm.nih.gov/12883245> <http://www.w3.org/2000/01/rdf-schema#label> "Alpha-methylacyl-CoA racemase: a variably sensitive immunohistochemical marker for the diagnosis of small prostate cancer foci on needle biopsy"@en .
+<http://www.ebi.ac.uk/QuickGO/term/GO:0016607> <http://www.w3.org/2000/01/rdf-schema#label> "nuclear speck"@en .
+<http://www.ebi.ac.uk/QuickGO/term/GO:0048698> <http://www.w3.org/2000/01/rdf-schema#label> "negative regulation of collateral sprouting in absence of injury"@en .
+<http://purl.obolibrary.org/obo/OGG_3000057659> <http://purl.obolibrary.org/obo/GO_0003674> <http://www.ebi.ac.uk/QuickGO/term/GO:0043565\u00A0> .
+<http://purl.obolibrary.org/obo/OGG_3000007994> <http://purl.obolibrary.org/obo/SO_1000002> "chr8:g.41943930C>T"@en .
+<http://purl.obolibrary.org/obo/OGG_3000006840> <http://purl.obolibrary.org/obo/NCIT_C17828> <http://www.ebi.ac.uk/QuickGO/term/GO:0051014> .
+<https://reactome.org/content/detail/R-HSA-1363274> <http://www.w3.org/2000/01/rdf-schema#label> "Dephosphorylation of p107 (RBL1) by PP2A"@en .
+<http://pubmed.ncbi.nlm.nih.gov/15880524> <http://www.w3.org/2000/01/rdf-schema#label> "A variant of the alpha-methyl-acyl-CoA racemase gene created by a deletion in exon 5 and its expression in prostate cancer"@en .
+<http://www.ebi.ac.uk/QuickGO/term/GO:0016810> <http://www.w3.org/2000/01/rdf-schema#label> "hydrolase activity"@en .
+<http://purl.obolibrary.org/obo/OGG_3000007994> <http://purl.obolibrary.org/obo/GO_0003674> <http://www.ebi.ac.uk/QuickGO/term/GO:0140297> .
+<http://www.ebi.ac.uk/QuickGO/term/GO:0008327\u00A0> <http://www.w3.org/2000/01/rdf-schema#label> "methyl-CpG binding"@en .
+<https://www.uniprot.org/uniprotkb/Q05682> <http://www.w3.org/2000/01/rdf-schema#label> "Q05682"@en .
+<http://pubmed.ncbi.nlm.nih.gov/36741322> <http://purl.obolibrary.org/obo/MI_0886> "2023"@en .
+<http://purl.obolibrary.org/obo/OGG_3000007994> <http://purl.obolibrary.org/obo/GO_0003674> <http://www.ebi.ac.uk/QuickGO/term/GO:0016407> .
+<http://pubmed.ncbi.nlm.nih.gov/35722463> <http://www.w3.org/2000/01/rdf-schema#label> "Developing a Multimodal Model for Detecting Higher-Grade Prostate Cancer Using Biomarkers and Risk Factors"@en .
+<http://purl.obolibrary.org/obo/OGG_3000007994> <http://purl.obolibrary.org/obo/NCIT_C17828> <http://www.ebi.ac.uk/QuickGO/term/GO:0090398> .
+<http://purl.obolibrary.org/obo/OGG_3000004638> <http://purl.obolibrary.org/obo/GO_0005575> <http://www.ebi.ac.uk/QuickGO/term/GO:0001725> .
+<http://www.ebi.ac.uk/QuickGO/term/GO:0033540> <http://www.w3.org/2000/01/rdf-schema#label> "fatty acid beta-oxidation using acyl-CoA oxidase"@en .
+<http://purl.obolibrary.org/obo/OGG_3000023600> <https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C47902> <http://pubmed.ncbi.nlm.nih.gov/16681682> .
+<http://purl.obolibrary.org/obo/OGG_3000004638> <http://purl.obolibrary.org/obo/GO_0005575> <http://www.ebi.ac.uk/QuickGO/term/GO:0005886> .
+<http://purl.obolibrary.org/obo/OGG_3000023111> <http://purl.obolibrary.org/obo/SO_1000002> "chr13:g.36312430G>A"@en .
+<http://pubmed.ncbi.nlm.nih.gov/15755877> <http://purl.obolibrary.org/obo/MI_0886> "2005"@en .
+<http://pubmed.ncbi.nlm.nih.gov/17683075> <http://www.w3.org/2000/01/rdf-schema#label> "Sequence variation in alpha-methylacyl-CoA racemase and risk of early-onset and familial prostate cancer"@en .
+<http://purl.obolibrary.org/obo/OGG_3000010910> <http://purl.obolibrary.org/obo/GO_0005575> <http://www.ebi.ac.uk/QuickGO/term/GO:0032991> .
+<http://www.ebi.ac.uk/QuickGO/term/GO:0042802\u00A0> <http://www.w3.org/2000/01/rdf-schema#label> "identical protein binding"@en .
+<https://reactome.org/content/detail/R-HSA-8964525> <http://www.w3.org/2000/01/rdf-schema#label> "RBL1 gene expression is repressed by the DREAM complex"@en .
+<http://purl.obolibrary.org/obo/OGG_3000023600> <https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C47902> <http://pubmed.ncbi.nlm.nih.gov/17074684> .
+<http://purl.obolibrary.org/obo/OGG_3000006840> <http://purl.obolibrary.org/obo/NCIT_C17828> <http://www.ebi.ac.uk/QuickGO/term/GO:0008154> .
+<http://www.ebi.ac.uk/QuickGO/term/GO:0001228> <http://www.w3.org/2000/01/rdf-schema#label> "DNA-binding transcription activator activity"@en .
+<http://www.ebi.ac.uk/QuickGO/term/GO:0005741> <http://www.w3.org/2000/01/rdf-schema#label> "mitochondrial outer membrane"@en .
+<http://www.ebi.ac.uk/QuickGO/term/GO:0043087\u00A0> <http://www.w3.org/2000/01/rdf-schema#label> "regulation of GTPase activity"@en .
+<http://purl.obolibrary.org/obo/OGG_3000007078> <https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C47902> <http://pubmed.ncbi.nlm.nih.gov/15928670> .
+<http://purl.obolibrary.org/obo/OGG_3000007078> <https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C47902> <http://pubmed.ncbi.nlm.nih.gov/14532978> .
+<http://purl.obolibrary.org/obo/OGG_3000003708> <http://purl.obolibrary.org/obo/GO_0003674> <http://www.ebi.ac.uk/QuickGO/term/GO:0005220\u00A0> .
+<http://www.ebi.ac.uk/QuickGO/term/GO:0002020> <http://www.w3.org/2000/01/rdf-schema#label> "protease binding"@en .
+<http://purl.obolibrary.org/obo/OGG_3000007994> <http://purl.obolibrary.org/obo/SO_1000002> "chr8:g.41932498C>T"@en .
+<http://www.ebi.ac.uk/QuickGO/term/GO:0001525> <http://www.w3.org/2000/01/rdf-schema#label> "angiogenesis"@en .
+<http://purl.obolibrary.org/obo/OGG_3000023600> <https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C47902> <http://pubmed.ncbi.nlm.nih.gov/14960364> .
+<http://purl.obolibrary.org/obo/OGG_3000007078> <http://purl.obolibrary.org/obo/NCIT_C17828> <http://www.ebi.ac.uk/QuickGO/term/GO:1904684> .
+<http://www.ebi.ac.uk/QuickGO/term/GO:0006699> <http://www.w3.org/2000/01/rdf-schema#label> "bile acid biosynthetic process"@en .
+<http://purl.obolibrary.org/obo/OGG_3000023600> <https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C47902> <http://pubmed.ncbi.nlm.nih.gov/15982318> .
+<http://pubmed.ncbi.nlm.nih.gov/17074684> <http://purl.obolibrary.org/obo/MI_0886> "2006"@en .
+<http://purl.obolibrary.org/obo/OGG_3000000800> <http://purl.obolibrary.org/obo/SO_1000002> "chr7:g.134968583G>A"@en .
+<http://purl.obolibrary.org/obo/OGG_3000007994> <http://purl.obolibrary.org/obo/GO_0005575> <http://www.ebi.ac.uk/QuickGO/term/GO:0005634> .
+<http://purl.obolibrary.org/obo/OGG_3000057659> <http://www.w3.org/2000/01/rdf-schema#label> "ZBTB4"@en .
+<http://www.ebi.ac.uk/QuickGO/term/GO:0005246> <http://www.w3.org/2000/01/rdf-schema#label> "calcium channel regulator activity"@en .
+<https://www.uniprot.org/uniprotkb/Q14195> <http://www.w3.org/2000/01/rdf-schema#label> "Q14195"@en .
+<http://purl.obolibrary.org/obo/OGG_3000023600> <https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C47902> <http://pubmed.ncbi.nlm.nih.gov/17369131> .
+<https://grch37.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000165416> <http://www.w3.org/2000/01/rdf-schema#label> "ENSG00000165416"@en .
+<http://purl.obolibrary.org/obo/OGG_3000003223> <http://www.w3.org/2000/01/rdf-schema#label> "HOXC6"@en .
+<http://purl.obolibrary.org/obo/OGG_3000007078> <https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C47902> <http://pubmed.ncbi.nlm.nih.gov/19798124> .
+<http://purl.obolibrary.org/obo/OGG_3000023600> <https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C47902> <http://pubmed.ncbi.nlm.nih.gov/15842047> .
+<https://prostatecancer.es/data/> <https://semanticscience.org/resource/SIO_000987> <http://purl.obolibrary.org/obo/OGG_3000007078> .
+<http://purl.obolibrary.org/obo/OGG_3000023600> <https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C47902> <http://pubmed.ncbi.nlm.nih.gov/17134736> .
+<http://purl.obolibrary.org/obo/OGG_3000023111> <http://purl.obolibrary.org/obo/GO_0005575> <http://www.ebi.ac.uk/QuickGO/term/GO:0005741> .
+<http://pubmed.ncbi.nlm.nih.gov/12917210> <http://purl.obolibrary.org/obo/MI_0886> "2003"@en .
+<http://purl.obolibrary.org/obo/OGG_3000003708> <http://purl.obolibrary.org/obo/NCIT_C17828> <http://www.ebi.ac.uk/QuickGO/term/GO:0099105> .
+<http://purl.obolibrary.org/obo/OGG_3000023600> <https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C47902> <http://pubmed.ncbi.nlm.nih.gov/17875519> .
+<http://purl.obolibrary.org/obo/OGG_3000005355> <https://semanticscience.org/resource/SIO_000136> "Proteolipid protein 2"@en .
+<http://purl.obolibrary.org/obo/OGG_3000003221> <http://purl.obolibrary.org/obo/GO_0005575> <http://www.ebi.ac.uk/QuickGO/term/GO:0005654> .
+<http://www.ebi.ac.uk/QuickGO/term/GO:0019904> <http://www.w3.org/2000/01/rdf-schema#label> "protein domain specific binding"@en .
+<http://purl.obolibrary.org/obo/OGG_3000005933> <http://purl.obolibrary.org/obo/NCIT_C138079> <https://reactome.org/content/detail/R-HSA-6798269> .
+<http://pubmed.ncbi.nlm.nih.gov/12845678> <http://www.w3.org/2000/01/rdf-schema#label> "Altered methylation of multiple genes in carcinogenesis of the prostate"@en .
+<http://www.ebi.ac.uk/QuickGO/term/GO:0099107> <http://www.w3.org/2000/01/rdf-schema#label> "ion channel regulator activity involved in G protein-coupled receptor signaling pathway"@en .
+<http://purl.obolibrary.org/obo/OGG_3000003708> <http://purl.obolibrary.org/obo/SO_1000002> "chr3:g.4735168A>G"@en .
+<http://purl.obolibrary.org/obo/OGG_3000003223> <https://semanticscience.org/resource/SIO_000115> <https://www.uniprot.org/uniprotkb/P09630> .
+<http://pubmed.ncbi.nlm.nih.gov/14960364> <http://purl.obolibrary.org/obo/MI_0886> "2004"@en .
+<http://www.ebi.ac.uk/QuickGO/term/GO:0005604> <http://www.w3.org/2000/01/rdf-schema#label> "basement membrane"@en .
+<http://purl.obolibrary.org/obo/OGG_3000001809> <http://purl.obolibrary.org/obo/NCIT_C17828> <http://www.ebi.ac.uk/QuickGO/term/GO:0051491> .
+<http://purl.obolibrary.org/obo/OGG_3000005933> <http://purl.obolibrary.org/obo/TXPO_0000039> <https://reactome.org/content/detail/R-HSA-2127252> .
+<http://purl.obolibrary.org/obo/OGG_3000003708> <http://purl.obolibrary.org/obo/GO_0005575> <http://www.ebi.ac.uk/QuickGO/term/GO:0005637> .
+<http://pubmed.ncbi.nlm.nih.gov/17393784> <http://purl.obolibrary.org/obo/MI_0886> "2007"@en .
+<http://purl.obolibrary.org/obo/OGG_3000005355> <http://www.w3.org/2000/01/rdf-schema#label> "PLP2"@en .
+<http://pubmed.ncbi.nlm.nih.gov/36983764> <http://purl.obolibrary.org/obo/MI_0886> "2023"@en .
+<http://purl.obolibrary.org/obo/OGG_3000023111> <http://purl.obolibrary.org/obo/GO_0005575> <http://www.ebi.ac.uk/QuickGO/term/GO:0045202> .
+<http://purl.obolibrary.org/obo/OGG_3000023111> <https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C47902> <http://pubmed.ncbi.nlm.nih.gov/35627246> .
+<http://pubmed.ncbi.nlm.nih.gov/16459672> <http://www.w3.org/2000/01/rdf-schema#label> "Value of new prostate cancer markers: alpha methylacyl CoA racemase (P504S) and p63"@en .
+<http://purl.obolibrary.org/obo/OGG_3000023600> <http://purl.obolibrary.org/obo/NCIT_C17828> <http://www.ebi.ac.uk/QuickGO/term/GO:0008206> .
+<http://purl.obolibrary.org/obo/OGG_3000023600> <https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C47902> <http://pubmed.ncbi.nlm.nih.gov/14982837> .
+<http://purl.obolibrary.org/obo/OGG_3000004638> <https://semanticscience.org/resource/SIO_000128> <https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C13219> .
+<https://grch37.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000197321> <http://www.w3.org/2000/01/rdf-schema#label> "ENSG00000197321"@en .
+<http://purl.obolibrary.org/obo/OGG_3000023600> <http://www.w3.org/2000/01/rdf-schema#label> "AMACR"@en .
+<http://www.ebi.ac.uk/QuickGO/term/GO:0005102> <http://www.w3.org/2000/01/rdf-schema#label> "signaling receptor binding"@en .
+<http://purl.obolibrary.org/obo/OGG_3000057659> <http://purl.obolibrary.org/obo/NCIT_C17828> <http://www.ebi.ac.uk/QuickGO/term/GO:0045892> .
+<http://purl.obolibrary.org/obo/OGG_3000006840> <http://purl.obolibrary.org/obo/GO_0005575> <http://www.ebi.ac.uk/QuickGO/term/GO:0030496> .
+<http://purl.obolibrary.org/obo/OGG_3000007078> <https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C47902> <http://pubmed.ncbi.nlm.nih.gov/16170165> .
+<http://purl.obolibrary.org/obo/OGG_3000003708> <http://purl.obolibrary.org/obo/GO_0003674> <http://www.ebi.ac.uk/QuickGO/term/GO:0019904> .
+<http://www.ebi.ac.uk/QuickGO/term/GO:0099105> <http://www.w3.org/2000/01/rdf-schema#label> "ion channel modulating, G protein-coupled receptor signaling pathway"@en .
+<http://purl.obolibrary.org/obo/OGG_3000004638> <http://purl.obolibrary.org/obo/RO_0002352> <https://reactome.org/content/detail/R-HSA-5668984> .
+<http://purl.obolibrary.org/obo/OGG_3000005376> <https://semanticscience.org/resource/SIO_000115> <https://grch37.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000109099> .
+<http://purl.obolibrary.org/obo/OGG_3000003708> <http://purl.obolibrary.org/obo/NCIT_C17828> <http://www.ebi.ac.uk/QuickGO/term/GO:0001666> .
+<http://pubmed.ncbi.nlm.nih.gov/16170165> <http://www.w3.org/2000/01/rdf-schema#label> "Quantitative methylation-specific polymerase chain reaction gene patterns in urine sediment distinguish prostate cancer patients from control subjects"@en .
+<http://pubmed.ncbi.nlm.nih.gov/15941951> <http://purl.obolibrary.org/obo/MI_0886> "2005"@en .
+<http://purl.obolibrary.org/obo/OGG_3000023600> <https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C47902> <http://pubmed.ncbi.nlm.nih.gov/15173267> .
+<http://www.ebi.ac.uk/QuickGO/term/GO:0007601> <http://www.w3.org/2000/01/rdf-schema#label> "visual perception"@en .
+<http://www.ebi.ac.uk/QuickGO/term/GO:0046872> <http://www.w3.org/2000/01/rdf-schema#label> "metal ion binding"@en .
+<http://pubmed.ncbi.nlm.nih.gov/15505533> <http://purl.obolibrary.org/obo/MI_0886> "2004"@en .
+<http://purl.obolibrary.org/obo/OGG_3000003708> <http://purl.obolibrary.org/obo/GO_0003674> <http://www.ebi.ac.uk/QuickGO/term/GO:0019855> .
+<http://purl.obolibrary.org/obo/OGG_3000001809> <http://purl.obolibrary.org/obo/RO_0002350> <https://reactome.org/content/detail/R-HSA-399825> .
+<http://purl.obolibrary.org/obo/OGG_3000005376> <http://purl.obolibrary.org/obo/NCIT_C17828> <http://www.ebi.ac.uk/QuickGO/term/GO:0030154> .
+<http://purl.obolibrary.org/obo/OGG_3000010910> <http://purl.obolibrary.org/obo/NCIT_C17828> <http://www.ebi.ac.uk/QuickGO/term/GO:0050821> .
+<http://purl.obolibrary.org/obo/OGG_3000005592> <http://purl.obolibrary.org/obo/GO_0003674> <http://www.ebi.ac.uk/QuickGO/term/GO:0004692> .
+<http://www.ebi.ac.uk/QuickGO/term/GO:0010977> <http://www.w3.org/2000/01/rdf-schema#label> "negative regulation of neuron projection development"@en .
+<http://www.ebi.ac.uk/QuickGO/term/GO:0017022> <http://www.w3.org/2000/01/rdf-schema#label> "myosin binding"@en .
+<http://purl.obolibrary.org/obo/OGG_3000005376> <http://purl.obolibrary.org/obo/GO_0005575> <http://www.ebi.ac.uk/QuickGO/term/GO:0043218> .
+<http://purl.obolibrary.org/obo/OGG_3000007994> <http://purl.obolibrary.org/obo/GO_0005575> <http://www.ebi.ac.uk/QuickGO/term/GO:0016607> .
+<http://purl.obolibrary.org/obo/OGG_3000004638> <http://purl.obolibrary.org/obo/GO_0003674> <http://www.ebi.ac.uk/QuickGO/term/GO:0004687> .
+<http://purl.obolibrary.org/obo/OGG_3000005933> <https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C47902> <http://pubmed.ncbi.nlm.nih.gov/36059670> .
+<http://www.ebi.ac.uk/QuickGO/term/GO:0051045> <http://www.w3.org/2000/01/rdf-schema#label> "negative regulation of membrane protein ectodomain proteolysis"@en .
+<http://pubmed.ncbi.nlm.nih.gov/15371879> <http://purl.obolibrary.org/obo/MI_0886> "2004"@en .
+<http://pubmed.ncbi.nlm.nih.gov/15982318> <http://www.w3.org/2000/01/rdf-schema#label> "Diagnostic utility of immunohistochemistry in morphologically difficult prostate cancer: review of current literature"@en .
+<http://pubmed.ncbi.nlm.nih.gov/18537123> <http://www.w3.org/2000/01/rdf-schema#label> "Sequence variants of alpha-methylacyl-CoA racemase are associated with prostate cancer risk: a replication study in an ethnically homogeneous population"@en .
+<http://www.ebi.ac.uk/QuickGO/term/GO:0051301> <http://www.w3.org/2000/01/rdf-schema#label> "cell division"@en .
+<https://reactome.org/content/detail/R-HSA-5617855> <http://purl.obolibrary.org/obo/FMA_223408> <http://www.ebi.ac.uk/QuickGO/term/GO:0005654> .
+<http://purl.obolibrary.org/obo/OGG_3000003708> <http://purl.obolibrary.org/obo/GO_0005575> <http://www.ebi.ac.uk/QuickGO/term/GO:0005789> .
+<http://www.ebi.ac.uk/QuickGO/term/GO:0035091> <http://www.w3.org/2000/01/rdf-schema#label> "phosphatidylinositol binding"@en .
+<http://purl.obolibrary.org/obo/OGG_3000003221> <http://purl.obolibrary.org/obo/NCIT_C17828> <http://www.ebi.ac.uk/QuickGO/term/GO:0009952> .
+<https://reactome.org/content/detail/R-HSA-6798269> <http://purl.obolibrary.org/obo/FMA_223408> <http://www.ebi.ac.uk/QuickGO/term/GO:0005654> .
+<http://www.ebi.ac.uk/QuickGO/term/GO:0004402> <http://www.w3.org/2000/01/rdf-schema#label> "histone acetyltransferase activity"@en .
+<http://www.ebi.ac.uk/QuickGO/term/GO:0030509> <http://www.w3.org/2000/01/rdf-schema#label> "BMP signaling pathway"@en .
+<http://purl.obolibrary.org/obo/OGG_3000023600> <http://purl.obolibrary.org/obo/GO_0005575> <http://www.ebi.ac.uk/QuickGO/term/GO:0005782> .
+<http://purl.obolibrary.org/obo/OGG_3000007078> <http://purl.obolibrary.org/obo/GO_0005575> <http://www.ebi.ac.uk/QuickGO/term/GO:0062023> .
+<http://purl.obolibrary.org/obo/OGG_3000023600> <https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C47902> <http://pubmed.ncbi.nlm.nih.gov/16424894> .
+<http://pubmed.ncbi.nlm.nih.gov/15599946> <http://purl.obolibrary.org/obo/MI_0886> "2005"@en .
+<http://pubmed.ncbi.nlm.nih.gov/17527076> <http://purl.obolibrary.org/obo/MI_0886> "2007"@en .
+<http://purl.obolibrary.org/obo/OGG_3000006840> <http://purl.obolibrary.org/obo/GO_0005575> <http://www.ebi.ac.uk/QuickGO/term/GO:0043034> .
+<http://www.ebi.ac.uk/QuickGO/term/GO:0000785> <http://www.w3.org/2000/01/rdf-schema#label> "chromatin"@en .
+<http://www.ebi.ac.uk/QuickGO/term/GO:0030036> <http://www.w3.org/2000/01/rdf-schema#label> "actin cytoskeleton organization"@en .
+<http://purl.obolibrary.org/obo/OGG_3000000800> <https://semanticscience.org/resource/SIO_000136> "Caldesmon 1"@en .
+<http://purl.obolibrary.org/obo/OGG_3000023600> <https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C47902> <http://pubmed.ncbi.nlm.nih.gov/15505533> .
+<http://pubmed.ncbi.nlm.nih.gov/15602744> <http://purl.obolibrary.org/obo/MI_0886> "2005"@en .
+<http://purl.obolibrary.org/obo/OGG_3000003708> <http://purl.obolibrary.org/obo/NCIT_C17828> <http://www.ebi.ac.uk/QuickGO/term/GO:0007165> .
+<http://www.ebi.ac.uk/QuickGO/term/GO:0009791> <http://www.w3.org/2000/01/rdf-schema#label> "post-embryonic development"@en .
+<http://pubmed.ncbi.nlm.nih.gov/35701309> <http://www.w3.org/2000/01/rdf-schema#label> "Circular RNA MYLK as a prognostic biomarker in patients with cancers: A systematic review and meta\u2010analysis"@en .
+<http://purl.obolibrary.org/obo/OGG_3000000800> <http://purl.obolibrary.org/obo/GO_0005575> <http://www.ebi.ac.uk/QuickGO/term/GO:0030478> .
+
