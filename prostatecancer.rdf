@@ -1,0 +1,2708 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:ns0="http://purl.obolibrary.org/obo/"
+         xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+         xmlns:ns1="https://semanticscience.org/resource/"
+         xmlns:ns2="https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&amp;ns=ncit&amp;code=">
+
+  <rdf:Description rdf:about="http://purl.obolibrary.org/obo/OGG_3000005355">
+    <ns0:GO_0005575 rdf:resource="http://www.ebi.ac.uk/QuickGO/term/GO:0005783"/>
+    <ns0:GO_0005575 rdf:resource="http://www.ebi.ac.uk/QuickGO/term/GO:0016020"/>
+    <ns0:GO_0005575 rdf:resource="http://www.ebi.ac.uk/QuickGO/term/GO:0005886"/>
+    <ns0:GO_0005575 rdf:resource="http://www.ebi.ac.uk/QuickGO/term/GO:0005789"/>
+    <ns0:GO_0003674>
+      <rdf:Description rdf:about="http://www.ebi.ac.uk/QuickGO/term/GO:0019956">
+        <rdfs:label xml:lang="en">chemokine binding</rdfs:label>
+      </rdf:Description>
+    </ns0:GO_0003674>
+
+    <ns0:GO_0003674>
+      <rdf:Description rdf:about="http://www.ebi.ac.uk/QuickGO/term/GO:0015075">
+        <rdfs:label xml:lang="en">monoatomic ion transmembrane transporter activity</rdfs:label>
+      </rdf:Description>
+    </ns0:GO_0003674>
+
+    <ns1:SIO_000115>
+      <rdf:Description rdf:about="https://www.uniprot.org/uniprotkb/Q04941">
+        <rdfs:label xml:lang="en">Q04941</rdfs:label>
+      </rdf:Description>
+    </ns1:SIO_000115>
+
+    <ns1:SIO_000115>
+      <rdf:Description rdf:about="https://grch37.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000102007">
+        <rdfs:label xml:lang="en">ENSG00000102007</rdfs:label>
+      </rdf:Description>
+    </ns1:SIO_000115>
+
+    <ns1:SIO_000128>
+      <rdf:Description rdf:about="https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&amp;ns=ncit&amp;code=C13285">
+        <rdfs:label xml:lang="en">X</rdfs:label>
+      </rdf:Description>
+    </ns1:SIO_000128>
+
+    <ns2:C47902 rdf:resource="http://pubmed.ncbi.nlm.nih.gov/36312753"/>
+    <ns0:NCIT_C123886 xml:lang="en">49171898-49175235</ns0:NCIT_C123886>
+    <ns0:NCIT_C17828>
+      <rdf:Description rdf:about="http://www.ebi.ac.uk/QuickGO/term/GO:0006935">
+        <rdfs:label xml:lang="en">chemotaxis</rdfs:label>
+      </rdf:Description>
+    </ns0:NCIT_C17828>
+
+    <ns0:NCIT_C17828>
+      <rdf:Description rdf:about="http://www.ebi.ac.uk/QuickGO/term/GO:0019221">
+        <rdfs:label xml:lang="en">cytokine-mediated signaling pathway</rdfs:label>
+      </rdf:Description>
+    </ns0:NCIT_C17828>
+
+    <ns0:NCIT_C17828>
+      <rdf:Description rdf:about="http://www.ebi.ac.uk/QuickGO/term/GO:0006811">
+        <rdfs:label xml:lang="en">monoatomic ion transport</rdfs:label>
+      </rdf:Description>
+    </ns0:NCIT_C17828>
+
+    <ns1:SIO_000136 xml:lang="en">Proteolipid protein 2</ns1:SIO_000136>
+    <rdfs:label xml:lang="en">PLP2</rdfs:label>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://www.ebi.ac.uk/QuickGO/term/GO:0032060">
+    <rdfs:label xml:lang="en">bleb assembly</rdfs:label>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://purl.obolibrary.org/obo/OGG_3000007994">
+    <rdfs:label xml:lang="en">KAT6A</rdfs:label>
+    <ns1:SIO_000115>
+      <rdf:Description rdf:about="https://www.uniprot.org/uniprotkb/Q92794">
+        <rdfs:label xml:lang="en">Q92794</rdfs:label>
+      </rdf:Description>
+    </ns1:SIO_000115>
+
+    <ns1:SIO_000115>
+      <rdf:Description rdf:about="https://grch37.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000083168">
+        <rdfs:label xml:lang="en">ENSG00000083168</rdfs:label>
+      </rdf:Description>
+    </ns1:SIO_000115>
+
+    <ns1:SIO_000136 xml:lang="en">Lysine acetyltransferase 6A</ns1:SIO_000136>
+    <ns0:GO_0003674>
+      <rdf:Description rdf:about="http://www.ebi.ac.uk/QuickGO/term/GO:0043995">
+        <rdfs:label xml:lang="en">histone H4K5 acetyltransferase activity</rdfs:label>
+      </rdf:Description>
+    </ns0:GO_0003674>
+
+    <ns0:GO_0003674>
+      <rdf:Description rdf:about="http://www.ebi.ac.uk/QuickGO/term/GO:0003712">
+        <rdfs:label xml:lang="en">transcription coregulator activity</rdfs:label>
+      </rdf:Description>
+    </ns0:GO_0003674>
+
+    <ns0:GO_0003674>
+      <rdf:Description rdf:about="http://www.ebi.ac.uk/QuickGO/term/GO:0003713">
+        <rdfs:label xml:lang="en">transcription coactivator activity</rdfs:label>
+      </rdf:Description>
+    </ns0:GO_0003674>
+
+    <ns0:GO_0003674>
+      <rdf:Description rdf:about="http://www.ebi.ac.uk/QuickGO/term/GO:0046972">
+        <rdfs:label xml:lang="en">histone H4K16 acetyltransferase activity</rdfs:label>
+      </rdf:Description>
+    </ns0:GO_0003674>
+
+    <ns0:GO_0003674>
+      <rdf:Description rdf:about="http://www.ebi.ac.uk/QuickGO/term/GO:0043997 ">
+        <rdfs:label xml:lang="en">histone H4K12 acetyltransferase activity</rdfs:label>
+      </rdf:Description>
+    </ns0:GO_0003674>
+
+    <ns0:GO_0003674>
+      <rdf:Description rdf:about="http://www.ebi.ac.uk/QuickGO/term/GO:0003677">
+        <rdfs:label xml:lang="en">DNA binding</rdfs:label>
+      </rdf:Description>
+    </ns0:GO_0003674>
+
+    <ns0:GO_0003674>
+      <rdf:Description rdf:about="http://www.ebi.ac.uk/QuickGO/term/GO:0008270">
+        <rdfs:label xml:lang="en">zinc ion binding</rdfs:label>
+      </rdf:Description>
+    </ns0:GO_0003674>
+
+    <ns0:GO_0003674>
+      <rdf:Description rdf:about="http://www.ebi.ac.uk/QuickGO/term/GO:0043996">
+        <rdfs:label xml:lang="en">histone H4K8 acetyltransferase activity</rdfs:label>
+      </rdf:Description>
+    </ns0:GO_0003674>
+
+    <ns0:GO_0003674>
+      <rdf:Description rdf:about="http://www.ebi.ac.uk/QuickGO/term/GO:0004402">
+        <rdfs:label xml:lang="en">histone acetyltransferase activity</rdfs:label>
+      </rdf:Description>
+    </ns0:GO_0003674>
+
+    <ns0:GO_0003674>
+      <rdf:Description rdf:about="http://www.ebi.ac.uk/QuickGO/term/GO:0042393">
+        <rdfs:label xml:lang="en">histone binding</rdfs:label>
+      </rdf:Description>
+    </ns0:GO_0003674>
+
+    <ns0:GO_0003674>
+      <rdf:Description rdf:about="http://www.ebi.ac.uk/QuickGO/term/GO:0036408">
+        <rdfs:label xml:lang="en">histone H3K14 acetyltransferase activity</rdfs:label>
+      </rdf:Description>
+    </ns0:GO_0003674>
+
+    <ns0:GO_0003674>
+      <rdf:Description rdf:about="http://www.ebi.ac.uk/QuickGO/term/GO:0140297">
+        <rdfs:label xml:lang="en">DNA-binding transcription factor binding</rdfs:label>
+      </rdf:Description>
+    </ns0:GO_0003674>
+
+    <ns0:GO_0003674>
+      <rdf:Description rdf:about="http://www.ebi.ac.uk/QuickGO/term/GO:0016407">
+        <rdfs:label xml:lang="en">acetyltransferase activity</rdfs:label>
+      </rdf:Description>
+    </ns0:GO_0003674>
+
+    <ns0:NCIT_C17828>
+      <rdf:Description rdf:about="http://www.ebi.ac.uk/QuickGO/term/GO:0006334">
+        <rdfs:label xml:lang="en">nucleosome assembly</rdfs:label>
+      </rdf:Description>
+    </ns0:NCIT_C17828>
+
+    <ns0:NCIT_C17828>
+      <rdf:Description rdf:about="http://www.ebi.ac.uk/QuickGO/term/GO:0043966 ">
+        <rdfs:label xml:lang="en">histone H3 acetylation</rdfs:label>
+      </rdf:Description>
+    </ns0:NCIT_C17828>
+
+    <ns0:NCIT_C17828>
+      <rdf:Description rdf:about="http://www.ebi.ac.uk/QuickGO/term/GO:1903706">
+        <rdfs:label xml:lang="en">regulation of hemopoiesis</rdfs:label>
+      </rdf:Description>
+    </ns0:NCIT_C17828>
+
+    <ns0:NCIT_C17828>
+      <rdf:Description rdf:about="http://www.ebi.ac.uk/QuickGO/term/GO:0051276">
+        <rdfs:label xml:lang="en">chromosome organization</rdfs:label>
+      </rdf:Description>
+    </ns0:NCIT_C17828>
+
+    <ns0:NCIT_C17828>
+      <rdf:Description rdf:about="http://www.ebi.ac.uk/QuickGO/term/GO:1901796">
+        <rdfs:label xml:lang="en">regulation of signal transduction by p53 class mediator</rdfs:label>
+      </rdf:Description>
+    </ns0:NCIT_C17828>
+
+    <ns0:NCIT_C17828 rdf:resource="http://www.ebi.ac.uk/QuickGO/term/GO:0045892"/>
+    <ns0:NCIT_C17828 rdf:resource="http://www.ebi.ac.uk/QuickGO/term/GO:0006355"/>
+    <ns0:NCIT_C17828>
+      <rdf:Description rdf:about="http://www.ebi.ac.uk/QuickGO/term/GO:0050793">
+        <rdfs:label xml:lang="en">regulation of developmental process</rdfs:label>
+      </rdf:Description>
+    </ns0:NCIT_C17828>
+
+    <ns0:NCIT_C17828>
+      <rdf:Description rdf:about="http://www.ebi.ac.uk/QuickGO/term/GO:0045893">
+        <rdfs:label xml:lang="en">positive regulation of DNA-templated transcription</rdfs:label>
+      </rdf:Description>
+    </ns0:NCIT_C17828>
+
+    <ns0:NCIT_C17828>
+      <rdf:Description rdf:about="http://www.ebi.ac.uk/QuickGO/term/GO:0010628">
+        <rdfs:label xml:lang="en">positive regulation of gene expression</rdfs:label>
+      </rdf:Description>
+    </ns0:NCIT_C17828>
+
+    <ns0:NCIT_C17828 rdf:resource="http://www.ebi.ac.uk/QuickGO/term/GO:0045944"/>
+    <ns0:NCIT_C17828>
+      <rdf:Description rdf:about="http://www.ebi.ac.uk/QuickGO/term/GO:0030099 ">
+        <rdfs:label xml:lang="en">myeloid cell differentiation</rdfs:label>
+      </rdf:Description>
+    </ns0:NCIT_C17828>
+
+    <ns0:NCIT_C17828>
+      <rdf:Description rdf:about="http://www.ebi.ac.uk/QuickGO/term/GO:0006473">
+        <rdfs:label xml:lang="en">protein acetylation</rdfs:label>
+      </rdf:Description>
+    </ns0:NCIT_C17828>
+
+    <ns0:NCIT_C17828>
+      <rdf:Description rdf:about="http://www.ebi.ac.uk/QuickGO/term/GO:0090398">
+        <rdfs:label xml:lang="en">cellular senescence</rdfs:label>
+      </rdf:Description>
+    </ns0:NCIT_C17828>
+
+    <ns0:NCIT_C123886 xml:lang="en">41929479-42051994</ns0:NCIT_C123886>
+    <ns0:GO_0005575 rdf:resource="http://www.ebi.ac.uk/QuickGO/term/GO:0005730"/>
+    <ns0:GO_0005575>
+      <rdf:Description rdf:about="http://www.ebi.ac.uk/QuickGO/term/GO:0000786">
+        <rdfs:label xml:lang="en">nucleosome</rdfs:label>
+      </rdf:Description>
+    </ns0:GO_0005575>
+
+    <ns0:GO_0005575>
+      <rdf:Description rdf:about="http://www.ebi.ac.uk/QuickGO/term/GO:0016605">
+        <rdfs:label xml:lang="en">PML body</rdfs:label>
+      </rdf:Description>
+    </ns0:GO_0005575>
+
+    <ns0:GO_0005575 rdf:resource="http://www.ebi.ac.uk/QuickGO/term/GO:0005829"/>
+    <ns0:GO_0005575>
+      <rdf:Description rdf:about="http://www.ebi.ac.uk/QuickGO/term/GO:0070776">
+        <rdfs:label xml:lang="en">MOZ/MORF histone acetyltransferase complex</rdfs:label>
+      </rdf:Description>
+    </ns0:GO_0005575>
+
+    <ns0:GO_0005575 rdf:resource="http://www.ebi.ac.uk/QuickGO/term/GO:0005654"/>
+    <ns0:GO_0005575 rdf:resource="http://www.ebi.ac.uk/QuickGO/term/GO:0005634"/>
+    <ns0:GO_0005575>
+      <rdf:Description rdf:about="http://www.ebi.ac.uk/QuickGO/term/GO:0016607">
+        <rdfs:label xml:lang="en">nuclear speck</rdfs:label>
+      </rdf:Description>
+    </ns0:GO_0005575>
+
+    <ns0:SO_1000002 xml:lang="en">chr8:g.42048384C&gt;A</ns0:SO_1000002>
+    <ns0:SO_1000002 xml:lang="en">chr8:g.41937569C&gt;A</ns0:SO_1000002>
+    <ns0:SO_1000002 xml:lang="en">chr8:g.41978672G&gt;A</ns0:SO_1000002>
+    <ns0:SO_1000002 xml:lang="en">chr8:g.41942885A&gt;C</ns0:SO_1000002>
+    <ns0:SO_1000002 xml:lang="en">chr8:g.41943930C&gt;T</ns0:SO_1000002>
+    <ns0:SO_1000002 xml:lang="en">chr8:g.41932498C&gt;T</ns0:SO_1000002>
+    <ns1:SIO_000128>
+      <rdf:Description rdf:about="https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&amp;ns=ncit&amp;code=C13224 ">
+        <rdfs:label xml:lang="en">8</rdfs:label>
+      </rdf:Description>
+    </ns1:SIO_000128>
+
+    <ns0:RO_0002350>
+      <rdf:Description rdf:about="https://reactome.org/content/detail/R-HSA-3318429">
+        <rdfs:label xml:lang="en">KAT6A,B</rdfs:label>
+        <ns0:FMA_223408 rdf:resource="http://www.ebi.ac.uk/QuickGO/term/GO:0005654"/>
+      </rdf:Description>
+    </ns0:RO_0002350>
+
+    <ns0:TXPO_0000039>
+      <rdf:Description rdf:about="https://reactome.org/content/detail/R-HSA-6805616">
+        <ns0:FMA_223408 rdf:resource="http://www.ebi.ac.uk/QuickGO/term/GO:0005654"/>
+        <rdfs:label xml:lang="en"> KAT6A:ING5:MEAF6:BRPF1,(2,3)</rdfs:label>
+      </rdf:Description>
+    </ns0:TXPO_0000039>
+
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://purl.obolibrary.org/obo/OGG_3000005933">
+    <ns0:NCIT_C17828>
+      <rdf:Description rdf:about="http://www.ebi.ac.uk/QuickGO/term/GO:0006325">
+        <rdfs:label xml:lang="en">chromatin organization</rdfs:label>
+      </rdf:Description>
+    </ns0:NCIT_C17828>
+
+    <ns0:NCIT_C17828>
+      <rdf:Description rdf:about="http://www.ebi.ac.uk/QuickGO/term/GO:0010629">
+        <rdfs:label xml:lang="en">negative regulation of gene expression</rdfs:label>
+      </rdf:Description>
+    </ns0:NCIT_C17828>
+
+    <ns0:NCIT_C17828>
+      <rdf:Description rdf:about="http://www.ebi.ac.uk/QuickGO/term/GO:0043550">
+        <rdfs:label xml:lang="en">regulation of lipid kinase activity</rdfs:label>
+      </rdf:Description>
+    </ns0:NCIT_C17828>
+
+    <ns0:NCIT_C17828>
+      <rdf:Description rdf:about="http://www.ebi.ac.uk/QuickGO/term/GO:2000134 ">
+        <rdfs:label xml:lang="en">negative regulation of G1/S transition of mitotic cell cycle</rdfs:label>
+      </rdf:Description>
+    </ns0:NCIT_C17828>
+
+    <ns0:NCIT_C17828>
+      <rdf:Description rdf:about="http://www.ebi.ac.uk/QuickGO/term/GO:2000773">
+        <rdfs:label xml:lang="en">negative regulation of cellular senescence</rdfs:label>
+      </rdf:Description>
+    </ns0:NCIT_C17828>
+
+    <ns0:NCIT_C17828>
+      <rdf:Description rdf:about="http://www.ebi.ac.uk/QuickGO/term/GO:0007049">
+        <rdfs:label xml:lang="en">cell cycle</rdfs:label>
+      </rdf:Description>
+    </ns0:NCIT_C17828>
+
+    <ns0:NCIT_C17828 rdf:resource="http://www.ebi.ac.uk/QuickGO/term/GO:0000122"/>
+    <ns0:NCIT_C17828 rdf:resource="http://www.ebi.ac.uk/QuickGO/term/GO:0030154"/>
+    <ns0:SO_1000002 xml:lang="en">chr20:g.37040187C&gt;T</ns0:SO_1000002>
+    <ns0:SO_1000002 xml:lang="en">chr20:g.37062191C&gt;T</ns0:SO_1000002>
+    <ns0:RO_0002352>
+      <rdf:Description rdf:about="https://reactome.org/content/detail/R-HSA-1363314">
+        <rdfs:label xml:lang="en">p107 (RBL1) binds CyclinE/A:CDK2</rdfs:label>
+        <ns0:FMA_223408 rdf:resource="http://www.ebi.ac.uk/QuickGO/term/GO:0005654"/>
+      </rdf:Description>
+    </ns0:RO_0002352>
+
+    <ns0:GO_0003674 rdf:resource="http://www.ebi.ac.uk/QuickGO/term/GO:0000977"/>
+    <ns0:GO_0003674>
+      <rdf:Description rdf:about="http://www.ebi.ac.uk/QuickGO/term/GO:1990841 ">
+        <rdfs:label xml:lang="en">promoter-specific chromatin binding</rdfs:label>
+      </rdf:Description>
+    </ns0:GO_0003674>
+
+    <ns0:RO_0002353>
+      <rdf:Description rdf:about="https://reactome.org/content/detail/R-HSA-1363274">
+        <ns0:FMA_223408 rdf:resource="http://www.ebi.ac.uk/QuickGO/term/GO:0005654"/>
+        <rdfs:label xml:lang="en">Dephosphorylation of p107 (RBL1) by PP2A</rdfs:label>
+      </rdf:Description>
+    </ns0:RO_0002353>
+
+    <ns0:RO_0002353>
+      <rdf:Description rdf:about="https://reactome.org/content/detail/R-HSA-8964525">
+        <ns0:FMA_223408 rdf:resource="http://www.ebi.ac.uk/QuickGO/term/GO:0005654"/>
+        <rdfs:label xml:lang="en">RBL1 gene expression is repressed by the DREAM complex</rdfs:label>
+      </rdf:Description>
+    </ns0:RO_0002353>
+
+    <ns0:NCIT_C123886 xml:lang="en">36996349-37095997</ns0:NCIT_C123886>
+    <ns0:GO_0005575 rdf:resource="http://www.ebi.ac.uk/QuickGO/term/GO:0000785"/>
+    <ns0:GO_0005575 rdf:resource="http://www.ebi.ac.uk/QuickGO/term/GO:0005654"/>
+    <ns0:GO_0005575>
+      <rdf:Description rdf:about="http://www.ebi.ac.uk/QuickGO/term/GO:0005667">
+        <rdfs:label xml:lang="en">transcription regulator complex</rdfs:label>
+      </rdf:Description>
+    </ns0:GO_0005575>
+
+    <ns1:SIO_000136 xml:lang="en">RB transcriptional corepressor like 1</ns1:SIO_000136>
+    <ns0:TXPO_0000039>
+      <rdf:Description rdf:about="https://reactome.org/content/detail/R-HSA-1363310">
+        <rdfs:label xml:lang="en">RBL1:Cyclin E/A:CDK2</rdfs:label>
+        <ns0:FMA_223408 rdf:resource="http://www.ebi.ac.uk/QuickGO/term/GO:0005654"/>
+      </rdf:Description>
+    </ns0:TXPO_0000039>
+
+    <ns0:TXPO_0000039>
+      <rdf:Description rdf:about="https://reactome.org/content/detail/R-HSA-1226088">
+        <ns0:FMA_223408 rdf:resource="http://www.ebi.ac.uk/QuickGO/term/GO:0005654"/>
+        <rdfs:label xml:lang="en">RBL1:E2F4:TFDP1,TFDP2</rdfs:label>
+      </rdf:Description>
+    </ns0:TXPO_0000039>
+
+    <ns0:TXPO_0000039>
+      <rdf:Description rdf:about="https://reactome.org/content/detail/R-HSA-2127252">
+        <ns0:FMA_223408 rdf:resource="http://www.ebi.ac.uk/QuickGO/term/GO:0005654"/>
+        <rdfs:label xml:lang="en">RBL1:E2F4/5:DP1/2 </rdfs:label>
+      </rdf:Description>
+    </ns0:TXPO_0000039>
+
+    <ns1:SIO_000128>
+      <rdf:Description rdf:about="https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&amp;ns=ncit&amp;code=C13216">
+        <rdfs:label xml:lang="en">20</rdfs:label>
+      </rdf:Description>
+    </ns1:SIO_000128>
+
+    <ns1:SIO_000115>
+      <rdf:Description rdf:about="https://www.uniprot.org/uniprotkb/P28749">
+        <rdfs:label xml:lang="en">P28749</rdfs:label>
+      </rdf:Description>
+    </ns1:SIO_000115>
+
+    <ns1:SIO_000115>
+      <rdf:Description rdf:about="https://grch37.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000080839">
+        <rdfs:label xml:lang="en">ENSG00000080839</rdfs:label>
+      </rdf:Description>
+    </ns1:SIO_000115>
+
+    <rdfs:label xml:lang="en">RBL1</rdfs:label>
+    <ns0:NCIT_C138079>
+      <rdf:Description rdf:about="https://reactome.org/content/detail/R-HSA-6798269">
+        <rdfs:label xml:lang="en"> RBL1,RBL2 </rdfs:label>
+        <ns0:FMA_223408 rdf:resource="http://www.ebi.ac.uk/QuickGO/term/GO:0005654"/>
+      </rdf:Description>
+    </ns0:NCIT_C138079>
+
+    <ns2:C47902>
+      <rdf:Description rdf:about="http://pubmed.ncbi.nlm.nih.gov/36059670">
+        <rdfs:label xml:lang="en">Degradation strategy of cyclin D1 in cancer cells and the potential clinical application</rdfs:label>
+        <ns0:MI_0886 xml:lang="en">2022</ns0:MI_0886>
+      </rdf:Description>
+    </ns2:C47902>
+
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://purl.obolibrary.org/obo/OGG_3000007078">
+    <ns0:GO_0003674 rdf:resource="http://www.ebi.ac.uk/QuickGO/term/GO:0046872"/>
+    <ns0:GO_0003674>
+      <rdf:Description rdf:about="http://www.ebi.ac.uk/QuickGO/term/GO:0002020">
+        <rdfs:label xml:lang="en">protease binding</rdfs:label>
+      </rdf:Description>
+    </ns0:GO_0003674>
+
+    <ns0:GO_0003674>
+      <rdf:Description rdf:about="http://www.ebi.ac.uk/QuickGO/term/GO:0008191">
+        <rdfs:label xml:lang="en">metalloendopeptidase inhibitor activity</rdfs:label>
+      </rdf:Description>
+    </ns0:GO_0003674>
+
+    <ns0:NCIT_C17828>
+      <rdf:Description rdf:about="http://www.ebi.ac.uk/QuickGO/term/GO:0010951">
+        <rdfs:label xml:lang="en">negative regulation of endopeptidase activity</rdfs:label>
+      </rdf:Description>
+    </ns0:NCIT_C17828>
+
+    <ns0:NCIT_C17828>
+      <rdf:Description rdf:about="http://www.ebi.ac.uk/QuickGO/term/GO:0051045">
+        <rdfs:label xml:lang="en">negative regulation of membrane protein ectodomain proteolysis</rdfs:label>
+      </rdf:Description>
+    </ns0:NCIT_C17828>
+
+    <ns0:NCIT_C17828>
+      <rdf:Description rdf:about="http://www.ebi.ac.uk/QuickGO/term/GO:0070373">
+        <rdfs:label xml:lang="en">negative regulation of ERK1 and ERK2 cascade</rdfs:label>
+      </rdf:Description>
+    </ns0:NCIT_C17828>
+
+    <ns0:NCIT_C17828>
+      <rdf:Description rdf:about="http://www.ebi.ac.uk/QuickGO/term/GO:0071310">
+        <rdfs:label xml:lang="en">cellular response to organic substance</rdfs:label>
+      </rdf:Description>
+    </ns0:NCIT_C17828>
+
+    <ns0:NCIT_C17828>
+      <rdf:Description rdf:about="http://www.ebi.ac.uk/QuickGO/term/GO:0034097">
+        <rdfs:label xml:lang="en">response to cytokine</rdfs:label>
+      </rdf:Description>
+    </ns0:NCIT_C17828>
+
+    <ns0:NCIT_C17828>
+      <rdf:Description rdf:about="http://www.ebi.ac.uk/QuickGO/term/GO:0007601">
+        <rdfs:label xml:lang="en">visual perception</rdfs:label>
+      </rdf:Description>
+    </ns0:NCIT_C17828>
+
+    <ns0:NCIT_C17828>
+      <rdf:Description rdf:about="http://www.ebi.ac.uk/QuickGO/term/GO:0009725">
+        <rdfs:label xml:lang="en">response to hormone</rdfs:label>
+      </rdf:Description>
+    </ns0:NCIT_C17828>
+
+    <ns0:NCIT_C17828>
+      <rdf:Description rdf:about="http://www.ebi.ac.uk/QuickGO/term/GO:0010033">
+        <rdfs:label xml:lang="en">response to organic substance</rdfs:label>
+      </rdf:Description>
+    </ns0:NCIT_C17828>
+
+    <ns0:NCIT_C17828>
+      <rdf:Description rdf:about="http://www.ebi.ac.uk/QuickGO/term/GO:1903984">
+        <rdfs:label xml:lang="en">positive regulation of TRAIL-activated apoptotic signaling pathway</rdfs:label>
+      </rdf:Description>
+    </ns0:NCIT_C17828>
+
+    <ns0:NCIT_C17828>
+      <rdf:Description rdf:about="http://www.ebi.ac.uk/QuickGO/term/GO:1904684">
+        <rdfs:label xml:lang="en">negative regulation of metalloendopeptidase activity</rdfs:label>
+      </rdf:Description>
+    </ns0:NCIT_C17828>
+
+    <ns1:SIO_000128>
+      <rdf:Description rdf:about="https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&amp;ns=ncit&amp;code=C13218">
+        <rdfs:label xml:lang="en">22</rdfs:label>
+      </rdf:Description>
+    </ns1:SIO_000128>
+
+    <ns0:GO_0005575 rdf:resource="http://www.ebi.ac.uk/QuickGO/term/GO:0005634"/>
+    <ns0:GO_0005575 rdf:resource="http://www.ebi.ac.uk/QuickGO/term/GO:0005576"/>
+    <ns0:GO_0005575>
+      <rdf:Description rdf:about="http://www.ebi.ac.uk/QuickGO/term/GO:0031012">
+        <rdfs:label xml:lang="en">extracellular matrix</rdfs:label>
+      </rdf:Description>
+    </ns0:GO_0005575>
+
+    <ns0:GO_0005575>
+      <rdf:Description rdf:about="http://www.ebi.ac.uk/QuickGO/term/GO:0031089">
+        <rdfs:label xml:lang="en">platelet dense granule lumen</rdfs:label>
+      </rdf:Description>
+    </ns0:GO_0005575>
+
+    <ns0:GO_0005575>
+      <rdf:Description rdf:about="http://www.ebi.ac.uk/QuickGO/term/GO:0005604">
+        <rdfs:label xml:lang="en">basement membrane</rdfs:label>
+      </rdf:Description>
+    </ns0:GO_0005575>
+
+    <ns0:GO_0005575 rdf:resource="http://www.ebi.ac.uk/QuickGO/term/GO:0005615"/>
+    <ns0:GO_0005575>
+      <rdf:Description rdf:about="http://www.ebi.ac.uk/QuickGO/term/GO:0062023">
+        <rdfs:label xml:lang="en">collagen-containing extracellular matrix</rdfs:label>
+      </rdf:Description>
+    </ns0:GO_0005575>
+
+    <ns2:C47902>
+      <rdf:Description rdf:about="http://pubmed.ncbi.nlm.nih.gov/15623627">
+        <rdfs:label xml:lang="en">A quantitative promoter methylation profile of prostate cancer</rdfs:label>
+        <ns0:MI_0886 xml:lang="en">2004</ns0:MI_0886>
+      </rdf:Description>
+    </ns2:C47902>
+
+    <ns2:C47902>
+      <rdf:Description rdf:about="http://pubmed.ncbi.nlm.nih.gov/12845678">
+        <ns0:MI_0886 xml:lang="en">2003</ns0:MI_0886>
+        <rdfs:label xml:lang="en">Altered methylation of multiple genes in carcinogenesis of the prostate</rdfs:label>
+      </rdf:Description>
+    </ns2:C47902>
+
+    <ns2:C47902>
+      <rdf:Description rdf:about="http://pubmed.ncbi.nlm.nih.gov/15599946">
+        <rdfs:label xml:lang="en">The expression and regulation of ADAMTS-1, -4, -5, -9, and -15, and TIMP-3 by TGFbeta1 in prostate cells: relevance to the accumulation of versican</rdfs:label>
+        <ns0:MI_0886 xml:lang="en">2005</ns0:MI_0886>
+      </rdf:Description>
+    </ns2:C47902>
+
+    <ns2:C47902>
+      <rdf:Description rdf:about="http://pubmed.ncbi.nlm.nih.gov/15026333">
+        <ns0:MI_0886 xml:lang="en">2004</ns0:MI_0886>
+        <rdfs:label xml:lang="en">Hypermethylation of CpG islands in primary and metastatic human prostate cancer</rdfs:label>
+      </rdf:Description>
+    </ns2:C47902>
+
+    <ns2:C47902>
+      <rdf:Description rdf:about="http://pubmed.ncbi.nlm.nih.gov/36612628">
+        <ns0:MI_0886 xml:lang="en">2023</ns0:MI_0886>
+        <rdfs:label xml:lang="en">Impact of Clinicopathological Characteristics and Tissue Inhibitor of Metalloproteinase-3 Polymorphism Rs9619311 on Biochemical Recurrence in Taiwanese Patients with Prostate Cancer</rdfs:label>
+      </rdf:Description>
+    </ns2:C47902>
+
+    <ns2:C47902>
+      <rdf:Description rdf:about="http://pubmed.ncbi.nlm.nih.gov/16950615">
+        <ns0:MI_0886 xml:lang="en">2006</ns0:MI_0886>
+        <rdfs:label xml:lang="en">Tissue inhibitor of metalloproteinase-3 induces apoptosis in prostate cancer cells and confers increased sensitivity to paclitaxel</rdfs:label>
+      </rdf:Description>
+    </ns2:C47902>
+
+    <ns2:C47902>
+      <rdf:Description rdf:about="http://pubmed.ncbi.nlm.nih.gov/15928670">
+        <ns0:MI_0886 xml:lang="en">2005</ns0:MI_0886>
+        <rdfs:label xml:lang="en">Identification of degradome components associated with prostate cancer progression by expression analysis of human prostatic tissues</rdfs:label>
+      </rdf:Description>
+    </ns2:C47902>
+
+    <ns2:C47902>
+      <rdf:Description rdf:about="http://pubmed.ncbi.nlm.nih.gov/14532978">
+        <rdfs:label xml:lang="en">Expression of ADAMs (a disintegrin and metalloproteases) and TIMP-3 (tissue inhibitor of metalloproteinase-3) in human prostatic adenocarcinomas</rdfs:label>
+        <ns0:MI_0886 xml:lang="en">2003</ns0:MI_0886>
+      </rdf:Description>
+    </ns2:C47902>
+
+    <ns2:C47902>
+      <rdf:Description rdf:about="http://pubmed.ncbi.nlm.nih.gov/19798124">
+        <ns0:MI_0886 xml:lang="en">2010</ns0:MI_0886>
+        <rdfs:label xml:lang="en">Inhibition of tumor growth and induction of apoptosis in prostate cancer cell lines by overexpression of tissue inhibitor of matrix metalloproteinase-3</rdfs:label>
+      </rdf:Description>
+    </ns2:C47902>
+
+    <ns2:C47902>
+      <rdf:Description rdf:about="http://pubmed.ncbi.nlm.nih.gov/16170165">
+        <ns0:MI_0886 xml:lang="en">2005</ns0:MI_0886>
+        <rdfs:label xml:lang="en">Quantitative methylation-specific polymerase chain reaction gene patterns in urine sediment distinguish prostate cancer patients from control subjects</rdfs:label>
+      </rdf:Description>
+    </ns2:C47902>
+
+    <ns0:RO_0002350>
+      <rdf:Description rdf:about="https://reactome.org/content/detail/R-HSA-481030">
+        <ns0:FMA_223408 rdf:resource="http://www.ebi.ac.uk/QuickGO/term/GO:0005576"/>
+        <rdfs:label xml:lang="en">Platelet dense granule content</rdfs:label>
+      </rdf:Description>
+    </ns0:RO_0002350>
+
+    <ns0:NCIT_C123886 xml:lang="en">32801705-32863041</ns0:NCIT_C123886>
+    <ns1:SIO_000136 xml:lang="en">TIMP metallopeptidase inhibitor 3</ns1:SIO_000136>
+    <rdfs:label xml:lang="en">TIMP3</rdfs:label>
+    <ns1:SIO_000115>
+      <rdf:Description rdf:about="https://www.uniprot.org/uniprotkb/P35625">
+        <rdfs:label xml:lang="en">P35625</rdfs:label>
+      </rdf:Description>
+    </ns1:SIO_000115>
+
+    <ns1:SIO_000115>
+      <rdf:Description rdf:about="https://grch37.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000100234">
+        <rdfs:label xml:lang="en">ENSG00000100234</rdfs:label>
+      </rdf:Description>
+    </ns1:SIO_000115>
+
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://pubmed.ncbi.nlm.nih.gov/15842047">
+    <rdfs:label xml:lang="en">Using an AMACR (P504S)/34betaE12/p63 cocktail for the detection of small focal prostate carcinoma in needle biopsy specimens</rdfs:label>
+    <ns0:MI_0886 xml:lang="en">2005</ns0:MI_0886>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="https://reactome.org/content/detail/R-HSA-445703">
+    <rdfs:label xml:lang="en">Inactive Myosin Actin Contractile Complex</rdfs:label>
+    <ns0:FMA_223408 rdf:resource="http://www.ebi.ac.uk/QuickGO/term/GO:0005886"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://purl.obolibrary.org/obo/OGG_3000000800">
+    <ns0:GO_0003674>
+      <rdf:Description rdf:about="http://www.ebi.ac.uk/QuickGO/term/GO:0017022">
+        <rdfs:label xml:lang="en">myosin binding</rdfs:label>
+      </rdf:Description>
+    </ns0:GO_0003674>
+
+    <ns0:GO_0003674>
+      <rdf:Description rdf:about="http://www.ebi.ac.uk/QuickGO/term/GO:0005523">
+        <rdfs:label xml:lang="en">tropomyosin binding</rdfs:label>
+      </rdf:Description>
+    </ns0:GO_0003674>
+
+    <ns0:GO_0003674>
+      <rdf:Description rdf:about="http://www.ebi.ac.uk/QuickGO/term/GO:0045296">
+        <rdfs:label xml:lang="en">cadherin binding</rdfs:label>
+      </rdf:Description>
+    </ns0:GO_0003674>
+
+    <ns0:GO_0003674>
+      <rdf:Description rdf:about="http://www.ebi.ac.uk/QuickGO/term/GO:0003779">
+        <rdfs:label xml:lang="en">actin binding</rdfs:label>
+      </rdf:Description>
+    </ns0:GO_0003674>
+
+    <ns0:GO_0003674 rdf:resource="http://www.ebi.ac.uk/QuickGO/term/GO:0005516"/>
+    <ns0:GO_0005575 rdf:resource="http://www.ebi.ac.uk/QuickGO/term/GO:0005829"/>
+    <ns0:GO_0005575 rdf:resource="http://www.ebi.ac.uk/QuickGO/term/GO:0015629"/>
+    <ns0:GO_0005575>
+      <rdf:Description rdf:about="http://www.ebi.ac.uk/QuickGO/term/GO:0030016">
+        <rdfs:label xml:lang="en">myofibril</rdfs:label>
+      </rdf:Description>
+    </ns0:GO_0005575>
+
+    <ns0:GO_0005575 rdf:resource="http://www.ebi.ac.uk/QuickGO/term/GO:0005886"/>
+    <ns0:GO_0005575>
+      <rdf:Description rdf:about="http://www.ebi.ac.uk/QuickGO/term/GO:0005856">
+        <rdfs:label xml:lang="en">cytoskeleton</rdfs:label>
+      </rdf:Description>
+    </ns0:GO_0005575>
+
+    <ns0:GO_0005575>
+      <rdf:Description rdf:about="http://www.ebi.ac.uk/QuickGO/term/GO:0030478">
+        <rdfs:label xml:lang="en">actin cap</rdfs:label>
+      </rdf:Description>
+    </ns0:GO_0005575>
+
+    <ns0:NCIT_C17828>
+      <rdf:Description rdf:about="http://www.ebi.ac.uk/QuickGO/term/GO:0001525">
+        <rdfs:label xml:lang="en">angiogenesis</rdfs:label>
+      </rdf:Description>
+    </ns0:NCIT_C17828>
+
+    <ns0:NCIT_C17828>
+      <rdf:Description rdf:about="http://www.ebi.ac.uk/QuickGO/term/GO:0006936">
+        <rdfs:label xml:lang="en">muscle contraction</rdfs:label>
+      </rdf:Description>
+    </ns0:NCIT_C17828>
+
+    <ns0:NCIT_C17828 rdf:resource="http://www.ebi.ac.uk/QuickGO/term/GO:0051017"/>
+    <ns1:SIO_000115>
+      <rdf:Description rdf:about="https://www.uniprot.org/uniprotkb/Q05682">
+        <rdfs:label xml:lang="en">Q05682</rdfs:label>
+      </rdf:Description>
+    </ns1:SIO_000115>
+
+    <ns1:SIO_000115>
+      <rdf:Description rdf:about="https://grch37.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000122786">
+        <rdfs:label xml:lang="en">ENSG00000122786</rdfs:label>
+      </rdf:Description>
+    </ns1:SIO_000115>
+
+    <ns0:TXPO_0000039 rdf:resource="https://reactome.org/content/detail/R-HSA-445703"/>
+    <ns0:TXPO_0000039>
+      <rdf:Description rdf:about="https://reactome.org/content/detail/R-HSA-445808">
+        <rdfs:label xml:lang="en">Caldesmon:Calcium Complex</rdfs:label>
+        <ns0:FMA_223408 rdf:resource="http://www.ebi.ac.uk/QuickGO/term/GO:0005829"/>
+      </rdf:Description>
+    </ns0:TXPO_0000039>
+
+    <ns0:NCIT_C123886 xml:lang="en">134744252-134970729</ns0:NCIT_C123886>
+    <rdfs:label xml:lang="en">CALD1</rdfs:label>
+    <ns1:SIO_000128>
+      <rdf:Description rdf:about="https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&amp;ns=ncit&amp;code=C13223">
+        <rdfs:label xml:lang="en">7</rdfs:label>
+      </rdf:Description>
+    </ns1:SIO_000128>
+
+    <ns2:C47902>
+      <rdf:Description rdf:about="http://pubmed.ncbi.nlm.nih.gov/36187394">
+        <rdfs:label xml:lang="en">Emerging role of caldesmon in cancer: A potential biomarker for colorectal cancer and other cancers</rdfs:label>
+        <ns0:MI_0886 xml:lang="en">2022</ns0:MI_0886>
+      </rdf:Description>
+    </ns2:C47902>
+
+    <ns0:SO_1000002 xml:lang="en">chr7:g.134968583G&gt;A</ns0:SO_1000002>
+    <ns1:SIO_000136 xml:lang="en">Caldesmon 1</ns1:SIO_000136>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://purl.obolibrary.org/obo/OGG_3000023111">
+    <ns0:NCIT_C17828>
+      <rdf:Description rdf:about="http://www.ebi.ac.uk/QuickGO/term/GO:0030514 ">
+        <rdfs:label xml:lang="en">negative regulation of BMP signaling pathway</rdfs:label>
+      </rdf:Description>
+    </ns0:NCIT_C17828>
+
+    <ns0:NCIT_C17828>
+      <rdf:Description rdf:about="http://www.ebi.ac.uk/QuickGO/term/GO:0060612">
+        <rdfs:label xml:lang="en">adipose tissue development</rdfs:label>
+      </rdf:Description>
+    </ns0:NCIT_C17828>
+
+    <ns0:NCIT_C17828>
+      <rdf:Description rdf:about="http://www.ebi.ac.uk/QuickGO/term/GO:0048669">
+        <rdfs:label xml:lang="en">collateral sprouting in absence of injury</rdfs:label>
+      </rdf:Description>
+    </ns0:NCIT_C17828>
+
+    <ns0:NCIT_C17828>
+      <rdf:Description rdf:about="http://www.ebi.ac.uk/QuickGO/term/GO:0048698">
+        <rdfs:label xml:lang="en">negative regulation of collateral sprouting in absence of injury</rdfs:label>
+      </rdf:Description>
+    </ns0:NCIT_C17828>
+
+    <ns0:NCIT_C17828>
+      <rdf:Description rdf:about="http://www.ebi.ac.uk/QuickGO/term/GO:0034389">
+        <rdfs:label xml:lang="en">lipid droplet organization</rdfs:label>
+      </rdf:Description>
+    </ns0:NCIT_C17828>
+
+    <ns0:NCIT_C17828>
+      <rdf:Description rdf:about="http://www.ebi.ac.uk/QuickGO/term/GO:0050905">
+        <rdfs:label xml:lang="en">neuromuscular process</rdfs:label>
+      </rdf:Description>
+    </ns0:NCIT_C17828>
+
+    <ns0:NCIT_C17828>
+      <rdf:Description rdf:about="http://www.ebi.ac.uk/QuickGO/term/GO:0051301">
+        <rdfs:label xml:lang="en">cell division</rdfs:label>
+      </rdf:Description>
+    </ns0:NCIT_C17828>
+
+    <ns0:NCIT_C17828>
+      <rdf:Description rdf:about="http://www.ebi.ac.uk/QuickGO/term/GO:0051881">
+        <rdfs:label xml:lang="en">regulation of mitochondrial membrane potential</rdfs:label>
+      </rdf:Description>
+    </ns0:NCIT_C17828>
+
+    <ns0:NCIT_C17828>
+      <rdf:Description rdf:about="http://www.ebi.ac.uk/QuickGO/term/GO:0030509">
+        <rdfs:label xml:lang="en">BMP signaling pathway</rdfs:label>
+      </rdf:Description>
+    </ns0:NCIT_C17828>
+
+    <ns0:NCIT_C17828>
+      <rdf:Description rdf:about="http://www.ebi.ac.uk/QuickGO/term/GO:0009838">
+        <rdfs:label xml:lang="en">abscission</rdfs:label>
+      </rdf:Description>
+    </ns0:NCIT_C17828>
+
+    <ns0:GO_0005575 rdf:resource="http://www.ebi.ac.uk/QuickGO/term/GO:0030496"/>
+    <ns0:GO_0005575 rdf:resource="http://www.ebi.ac.uk/QuickGO/term/GO:0005737"/>
+    <ns0:GO_0005575 rdf:resource="http://www.ebi.ac.uk/QuickGO/term/GO:0005829"/>
+    <ns0:GO_0005575 rdf:resource="http://www.ebi.ac.uk/QuickGO/term/GO:0005886"/>
+    <ns0:GO_0005575>
+      <rdf:Description rdf:about="http://www.ebi.ac.uk/QuickGO/term/GO:0005811">
+        <rdfs:label xml:lang="en">lipid droplet</rdfs:label>
+      </rdf:Description>
+    </ns0:GO_0005575>
+
+    <ns0:GO_0005575>
+      <rdf:Description rdf:about="http://www.ebi.ac.uk/QuickGO/term/GO:0005741">
+        <rdfs:label xml:lang="en">mitochondrial outer membrane</rdfs:label>
+      </rdf:Description>
+    </ns0:GO_0005575>
+
+    <ns0:GO_0005575 rdf:resource="http://www.ebi.ac.uk/QuickGO/term/GO:0045202"/>
+    <ns0:NCIT_C123886 xml:lang="en">36301638-36370180</ns0:NCIT_C123886>
+    <ns1:SIO_000136 xml:lang="en">Spartin</ns1:SIO_000136>
+    <ns1:SIO_000128 rdf:resource="https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&amp;ns=ncit&amp;code=C13208"/>
+    <rdfs:label xml:lang="en">SPG20</rdfs:label>
+    <ns1:SIO_000115>
+      <rdf:Description rdf:about="https://www.uniprot.org/uniprotkb/Q8N0X7">
+        <rdfs:label xml:lang="en">Q8N0X7</rdfs:label>
+      </rdf:Description>
+    </ns1:SIO_000115>
+
+    <ns1:SIO_000115>
+      <rdf:Description rdf:about="https://grch37.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000133104">
+        <rdfs:label xml:lang="en">ENSG00000133104</rdfs:label>
+      </rdf:Description>
+    </ns1:SIO_000115>
+
+    <ns0:GO_0003674>
+      <rdf:Description rdf:about="http://www.ebi.ac.uk/QuickGO/term/GO:0031625">
+        <rdfs:label xml:lang="en">ubiquitin protein ligase binding</rdfs:label>
+      </rdf:Description>
+    </ns0:GO_0003674>
+
+    <ns0:SO_1000002 xml:lang="en">chr13:g.36312430G&gt;A</ns0:SO_1000002>
+    <ns2:C47902>
+      <rdf:Description rdf:about="http://pubmed.ncbi.nlm.nih.gov/35627246">
+        <ns0:MI_0886 xml:lang="en">2022</ns0:MI_0886>
+        <rdfs:label xml:lang="en">Methylation Heterogeneity and Gene Expression of SPG20 in Solid Tumors</rdfs:label>
+      </rdf:Description>
+    </ns2:C47902>
+
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://purl.obolibrary.org/obo/OGG_3000003223">
+    <ns0:GO_0005575 rdf:resource="http://www.ebi.ac.uk/QuickGO/term/GO:0005654"/>
+    <ns0:GO_0005575 rdf:resource="http://www.ebi.ac.uk/QuickGO/term/GO:0005634"/>
+    <ns0:GO_0005575 rdf:resource="http://www.ebi.ac.uk/QuickGO/term/GO:0005829"/>
+    <ns0:GO_0005575 rdf:resource="http://www.ebi.ac.uk/QuickGO/term/GO:0000785"/>
+    <ns1:SIO_000128 rdf:resource="https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&amp;ns=ncit&amp;code=C13207"/>
+    <ns1:SIO_000115>
+      <rdf:Description rdf:about="https://grch37.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000197757">
+        <rdfs:label xml:lang="en">ENSG00000197757</rdfs:label>
+      </rdf:Description>
+    </ns1:SIO_000115>
+
+    <ns1:SIO_000115>
+      <rdf:Description rdf:about="https://www.uniprot.org/uniprotkb/P09630">
+        <rdfs:label xml:lang="en">P09630</rdfs:label>
+      </rdf:Description>
+    </ns1:SIO_000115>
+
+    <ns2:C47902>
+      <rdf:Description rdf:about="http://pubmed.ncbi.nlm.nih.gov/36765747">
+        <rdfs:label xml:lang="en">Gene-Transcript Expression in Urine Supernatant and Urine Cell-Sediment Are Different but Equally Useful for Detecting Prostate Cancer</rdfs:label>
+        <ns0:MI_0886 xml:lang="en">2023</ns0:MI_0886>
+      </rdf:Description>
+    </ns2:C47902>
+
+    <ns0:NCIT_C17828 rdf:resource="http://www.ebi.ac.uk/QuickGO/term/GO:0006357"/>
+    <ns0:NCIT_C17828>
+      <rdf:Description rdf:about="http://www.ebi.ac.uk/QuickGO/term/GO:0048706">
+        <rdfs:label xml:lang="en">embryonic skeletal system development</rdfs:label>
+      </rdf:Description>
+    </ns0:NCIT_C17828>
+
+    <ns0:NCIT_C17828 rdf:resource="http://www.ebi.ac.uk/QuickGO/term/GO:0009952"/>
+    <ns1:SIO_000136 xml:lang="en">Homeobox C6</ns1:SIO_000136>
+    <ns0:NCIT_C123886 xml:lang="en">53990624-54030823</ns0:NCIT_C123886>
+    <ns0:GO_0003674 rdf:resource="http://www.ebi.ac.uk/QuickGO/term/GO:0000981"/>
+    <ns0:GO_0003674 rdf:resource="http://www.ebi.ac.uk/QuickGO/term/GO:0000978"/>
+    <rdfs:label xml:lang="en">HOXC6</rdfs:label>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="https://www.uniprot.org/uniprotkb/Q9UHK6">
+    <rdfs:label xml:lang="en">Q9UHK6</rdfs:label>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://www.ebi.ac.uk/QuickGO/term/GO:0019901">
+    <rdfs:label xml:lang="en">protein kinase binding</rdfs:label>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://www.ebi.ac.uk/QuickGO/term/GO:0008111">
+    <rdfs:label xml:lang="en">alpha-methylacyl-CoA racemase activity</rdfs:label>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://purl.obolibrary.org/obo/OGG_3000004638">
+    <ns1:SIO_000115>
+      <rdf:Description rdf:about="https://grch37.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000065534">
+        <rdfs:label xml:lang="en">ENSG00000065534</rdfs:label>
+      </rdf:Description>
+    </ns1:SIO_000115>
+
+    <ns1:SIO_000115>
+      <rdf:Description rdf:about="https://www.uniprot.org/uniprotkb/Q15746">
+        <rdfs:label xml:lang="en">Q15746</rdfs:label>
+      </rdf:Description>
+    </ns1:SIO_000115>
+
+    <ns0:TXPO_0000039>
+      <rdf:Description rdf:about="https://reactome.org/content/detail/R-HSA-445764">
+        <ns0:FMA_223408 rdf:resource="http://www.ebi.ac.uk/QuickGO/term/GO:0005829"/>
+        <rdfs:label xml:lang="en"> MYLK:Ca2+:CALM1</rdfs:label>
+      </rdf:Description>
+    </ns0:TXPO_0000039>
+
+    <ns0:GO_0003674 rdf:resource="http://www.ebi.ac.uk/QuickGO/term/GO:0005516"/>
+    <ns0:GO_0003674 rdf:resource="http://www.ebi.ac.uk/QuickGO/term/GO:0046872"/>
+    <ns0:GO_0003674 rdf:resource="http://www.ebi.ac.uk/QuickGO/term/GO:0005524"/>
+    <ns0:GO_0003674>
+      <rdf:Description rdf:about="http://www.ebi.ac.uk/QuickGO/term/GO:0003779 ">
+        <rdfs:label xml:lang="en">actin binding</rdfs:label>
+      </rdf:Description>
+    </ns0:GO_0003674>
+
+    <ns0:GO_0003674 rdf:resource="http://www.ebi.ac.uk/QuickGO/term/GO:0004672"/>
+    <ns0:GO_0003674>
+      <rdf:Description rdf:about="http://www.ebi.ac.uk/QuickGO/term/GO:0004687">
+        <rdfs:label xml:lang="en">myosin light chain kinase activity</rdfs:label>
+      </rdf:Description>
+    </ns0:GO_0003674>
+
+    <ns0:SO_1000002 xml:lang="en">chr3:g.123738960T&gt;C</ns0:SO_1000002>
+    <ns0:SO_1000002 xml:lang="en">chr3:g.123737472G&gt;T</ns0:SO_1000002>
+    <ns0:SO_1000002 xml:lang="en">chr3:g.123682256T&gt;A</ns0:SO_1000002>
+    <ns0:SO_1000002 xml:lang="en">chr3:g.123707918G&gt;A</ns0:SO_1000002>
+    <ns0:SO_1000002 xml:lang="en">chr3:g.123733055G&gt;C</ns0:SO_1000002>
+    <ns0:SO_1000002 xml:lang="en">chr3:g.123700258G&gt;A</ns0:SO_1000002>
+    <ns0:SO_1000002 xml:lang="en">chr3:g.123733854G&gt;A</ns0:SO_1000002>
+    <ns0:SO_1000002 xml:lang="en">chr3:g.123664190C&gt;T</ns0:SO_1000002>
+    <ns0:GO_0005575 rdf:resource="http://www.ebi.ac.uk/QuickGO/term/GO:0005737"/>
+    <ns0:GO_0005575 rdf:resource="http://www.ebi.ac.uk/QuickGO/term/GO:0032154"/>
+    <ns0:GO_0005575 rdf:resource="http://www.ebi.ac.uk/QuickGO/term/GO:0015629"/>
+    <ns0:GO_0005575 rdf:resource="http://www.ebi.ac.uk/QuickGO/term/GO:0005829"/>
+    <ns0:GO_0005575 rdf:resource="http://www.ebi.ac.uk/QuickGO/term/GO:0030027"/>
+    <ns0:GO_0005575>
+      <rdf:Description rdf:about="http://www.ebi.ac.uk/QuickGO/term/GO:0001725">
+        <rdfs:label xml:lang="en">stress fiber</rdfs:label>
+      </rdf:Description>
+    </ns0:GO_0005575>
+
+    <ns0:GO_0005575 rdf:resource="http://www.ebi.ac.uk/QuickGO/term/GO:0005886"/>
+    <ns2:C47902>
+      <rdf:Description rdf:about="http://pubmed.ncbi.nlm.nih.gov/35799671">
+        <ns0:MI_0886 xml:lang="en">2022</ns0:MI_0886>
+        <rdfs:label xml:lang="en">Discovering Gene Signature Shared by Prostate Cancer and Neurodegenerative Diseases Based on the Bioinformatics Approach</rdfs:label>
+      </rdf:Description>
+    </ns2:C47902>
+
+    <ns2:C47902>
+      <rdf:Description rdf:about="http://pubmed.ncbi.nlm.nih.gov/35701309">
+        <ns0:MI_0886 xml:lang="en">2022</ns0:MI_0886>
+        <rdfs:label xml:lang="en">Circular RNA MYLK as a prognostic biomarker in patients with cancers: A systematic review and meta‐analysis</rdfs:label>
+      </rdf:Description>
+    </ns2:C47902>
+
+    <ns0:NCIT_C17828>
+      <rdf:Description rdf:about="http://www.ebi.ac.uk/QuickGO/term/GO:0006939">
+        <rdfs:label xml:lang="en">smooth muscle contraction</rdfs:label>
+      </rdf:Description>
+    </ns0:NCIT_C17828>
+
+    <ns0:NCIT_C17828>
+      <rdf:Description rdf:about="http://www.ebi.ac.uk/QuickGO/term/GO:0090303">
+        <rdfs:label xml:lang="en">positive regulation of wound healing</rdfs:label>
+      </rdf:Description>
+    </ns0:NCIT_C17828>
+
+    <ns0:NCIT_C17828>
+      <rdf:Description rdf:about="http://www.ebi.ac.uk/QuickGO/term/GO:0051928">
+        <rdfs:label xml:lang="en">positive regulation of calcium ion transport</rdfs:label>
+      </rdf:Description>
+    </ns0:NCIT_C17828>
+
+    <ns0:NCIT_C17828>
+      <rdf:Description rdf:about="http://www.ebi.ac.uk/QuickGO/term/GO:0060414">
+        <rdfs:label xml:lang="en">aorta smooth muscle tissue morphogenesis</rdfs:label>
+      </rdf:Description>
+    </ns0:NCIT_C17828>
+
+    <ns0:NCIT_C17828 rdf:resource="http://www.ebi.ac.uk/QuickGO/term/GO:0006468"/>
+    <ns0:NCIT_C17828>
+      <rdf:Description rdf:about="http://www.ebi.ac.uk/QuickGO/term/GO:0071476">
+        <rdfs:label xml:lang="en">cellular hypotonic response</rdfs:label>
+      </rdf:Description>
+    </ns0:NCIT_C17828>
+
+    <ns0:NCIT_C17828 rdf:resource="http://www.ebi.ac.uk/QuickGO/term/GO:0032060"/>
+    <ns0:NCIT_C17828>
+      <rdf:Description rdf:about="http://www.ebi.ac.uk/QuickGO/term/GO:0014820">
+        <rdfs:label xml:lang="en">tonic smooth muscle contraction</rdfs:label>
+      </rdf:Description>
+    </ns0:NCIT_C17828>
+
+    <ns0:NCIT_C17828>
+      <rdf:Description rdf:about="http://www.ebi.ac.uk/QuickGO/term/GO:0030335">
+        <rdfs:label xml:lang="en">positive regulation of cell migration</rdfs:label>
+      </rdf:Description>
+    </ns0:NCIT_C17828>
+
+    <ns0:RO_0002352>
+      <rdf:Description rdf:about="https://reactome.org/content/detail/R-HSA-445797">
+        <rdfs:label xml:lang="en">MYLK (MLCK) Active Calmodulin Binding</rdfs:label>
+        <ns0:FMA_223408 rdf:resource="http://www.ebi.ac.uk/QuickGO/term/GO:0005829"/>
+      </rdf:Description>
+    </ns0:RO_0002352>
+
+    <ns0:RO_0002352>
+      <rdf:Description rdf:about="https://reactome.org/content/detail/R-HSA-5668984">
+        <rdfs:label xml:lang="en">PAK1 or PAK2 phosphorylates MYLK</rdfs:label>
+        <ns0:FMA_223408 rdf:resource="http://www.ebi.ac.uk/QuickGO/term/GO:0005829"/>
+      </rdf:Description>
+    </ns0:RO_0002352>
+
+    <rdfs:label xml:lang="en">MYLK</rdfs:label>
+    <ns0:NCIT_C123886 xml:lang="en">123610049-123884332</ns0:NCIT_C123886>
+    <ns1:SIO_000136 xml:lang="en">Myosin light chain kinase</ns1:SIO_000136>
+    <ns1:SIO_000128 rdf:resource="https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&amp;ns=ncit&amp;code=C13219"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://pubmed.ncbi.nlm.nih.gov/17369131">
+    <ns0:MI_0886 xml:lang="en">2007</ns0:MI_0886>
+    <rdfs:label xml:lang="en">alpha-methylacyl coenzyme A racemase is immunoreactive in extramammary Paget disease</rdfs:label>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://purl.obolibrary.org/obo/OGG_3000003708">
+    <ns0:GO_0005575>
+      <rdf:Description rdf:about="http://www.ebi.ac.uk/QuickGO/term/GO:0048471">
+        <rdfs:label xml:lang="en">perinuclear region of cytoplasm</rdfs:label>
+      </rdf:Description>
+    </ns0:GO_0005575>
+
+    <ns0:GO_0005575>
+      <rdf:Description rdf:about="http://www.ebi.ac.uk/QuickGO/term/GO:0031088">
+        <rdfs:label xml:lang="en">platelet dense granule membrane</rdfs:label>
+      </rdf:Description>
+    </ns0:GO_0005575>
+
+    <ns0:GO_0005575>
+      <rdf:Description rdf:about="http://www.ebi.ac.uk/QuickGO/term/GO:0098685">
+        <rdfs:label xml:lang="en">Schaffer collateral - CA1 synapse</rdfs:label>
+      </rdf:Description>
+    </ns0:GO_0005575>
+
+    <ns0:GO_0005575>
+      <rdf:Description rdf:about="http://www.ebi.ac.uk/QuickGO/term/GO:0031095 ">
+        <rdfs:label xml:lang="en">platelet dense tubular network membrane</rdfs:label>
+      </rdf:Description>
+    </ns0:GO_0005575>
+
+    <ns0:GO_0005575>
+      <rdf:Description rdf:about="http://www.ebi.ac.uk/QuickGO/term/GO:0030659">
+        <rdfs:label xml:lang="en">cytoplasmic vesicle membrane</rdfs:label>
+      </rdf:Description>
+    </ns0:GO_0005575>
+
+    <ns0:GO_0005575>
+      <rdf:Description rdf:about="http://www.ebi.ac.uk/QuickGO/term/GO:0030658">
+        <rdfs:label xml:lang="en">transport vesicle membrane</rdfs:label>
+      </rdf:Description>
+    </ns0:GO_0005575>
+
+    <ns0:GO_0005575>
+      <rdf:Description rdf:about="http://www.ebi.ac.uk/QuickGO/term/GO:0014069 ">
+        <rdfs:label xml:lang="en">postsynaptic density</rdfs:label>
+      </rdf:Description>
+    </ns0:GO_0005575>
+
+    <ns0:GO_0005575>
+      <rdf:Description rdf:about="http://www.ebi.ac.uk/QuickGO/term/GO:0031094">
+        <rdfs:label xml:lang="en">platelet dense tubular network</rdfs:label>
+      </rdf:Description>
+    </ns0:GO_0005575>
+
+    <ns0:GO_0005575 rdf:resource="http://www.ebi.ac.uk/QuickGO/term/GO:0005886 "/>
+    <ns0:GO_0005575>
+      <rdf:Description rdf:about="http://www.ebi.ac.uk/QuickGO/term/GO:0030667">
+        <rdfs:label xml:lang="en">secretory granule membrane</rdfs:label>
+      </rdf:Description>
+    </ns0:GO_0005575>
+
+    <ns0:GO_0005575 rdf:resource="http://www.ebi.ac.uk/QuickGO/term/GO:0016020"/>
+    <ns0:GO_0005575>
+      <rdf:Description rdf:about="http://www.ebi.ac.uk/QuickGO/term/GO:0016529">
+        <rdfs:label xml:lang="en">sarcoplasmic reticulum</rdfs:label>
+      </rdf:Description>
+    </ns0:GO_0005575>
+
+    <ns0:GO_0005575>
+      <rdf:Description rdf:about="http://www.ebi.ac.uk/QuickGO/term/GO:0005955">
+        <rdfs:label xml:lang="en">calcineurin complex</rdfs:label>
+      </rdf:Description>
+    </ns0:GO_0005575>
+
+    <ns0:GO_0005575 rdf:resource="http://www.ebi.ac.uk/QuickGO/term/GO:0005730"/>
+    <ns0:GO_0005575 rdf:resource="http://www.ebi.ac.uk/QuickGO/term/GO:0005783"/>
+    <ns0:GO_0005575>
+      <rdf:Description rdf:about="http://www.ebi.ac.uk/QuickGO/term/GO:0005637">
+        <rdfs:label xml:lang="en">nuclear inner membrane</rdfs:label>
+      </rdf:Description>
+    </ns0:GO_0005575>
+
+    <ns0:GO_0005575 rdf:resource="http://www.ebi.ac.uk/QuickGO/term/GO:0005789"/>
+    <ns0:NCIT_C17828>
+      <rdf:Description rdf:about="http://www.ebi.ac.uk/QuickGO/term/GO:0010506">
+        <rdfs:label xml:lang="en">regulation of autophagy</rdfs:label>
+      </rdf:Description>
+    </ns0:NCIT_C17828>
+
+    <ns0:NCIT_C17828>
+      <rdf:Description rdf:about="http://www.ebi.ac.uk/QuickGO/term/GO:0032469">
+        <rdfs:label xml:lang="en">endoplasmic reticulum calcium ion homeostasis</rdfs:label>
+      </rdf:Description>
+    </ns0:NCIT_C17828>
+
+    <ns0:NCIT_C17828>
+      <rdf:Description rdf:about="http://www.ebi.ac.uk/QuickGO/term/GO:0009791">
+        <rdfs:label xml:lang="en">post-embryonic development</rdfs:label>
+      </rdf:Description>
+    </ns0:NCIT_C17828>
+
+    <ns0:NCIT_C17828>
+      <rdf:Description rdf:about="http://www.ebi.ac.uk/QuickGO/term/GO:0050849">
+        <rdfs:label xml:lang="en">negative regulation of calcium-mediated signaling</rdfs:label>
+      </rdf:Description>
+    </ns0:NCIT_C17828>
+
+    <ns0:NCIT_C17828>
+      <rdf:Description rdf:about="http://www.ebi.ac.uk/QuickGO/term/GO:0000902">
+        <rdfs:label xml:lang="en">cell morphogenesis</rdfs:label>
+      </rdf:Description>
+    </ns0:NCIT_C17828>
+
+    <ns0:NCIT_C17828>
+      <rdf:Description rdf:about="http://www.ebi.ac.uk/QuickGO/term/GO:0007207">
+        <rdfs:label xml:lang="en">phospholipase C-activating G protein-coupled acetylcholine receptor signaling pathway</rdfs:label>
+      </rdf:Description>
+    </ns0:NCIT_C17828>
+
+    <ns0:NCIT_C17828>
+      <rdf:Description rdf:about="http://www.ebi.ac.uk/QuickGO/term/GO:0070059">
+        <rdfs:label xml:lang="en">intrinsic apoptotic signaling pathway in response to endoplasmic reticulum stress</rdfs:label>
+      </rdf:Description>
+    </ns0:NCIT_C17828>
+
+    <ns0:NCIT_C17828>
+      <rdf:Description rdf:about="http://www.ebi.ac.uk/QuickGO/term/GO:0050882">
+        <rdfs:label xml:lang="en">voluntary musculoskeletal movement</rdfs:label>
+      </rdf:Description>
+    </ns0:NCIT_C17828>
+
+    <ns0:NCIT_C17828>
+      <rdf:Description rdf:about="http://www.ebi.ac.uk/QuickGO/term/GO:0032024">
+        <rdfs:label xml:lang="en">positive regulation of insulin secretion</rdfs:label>
+      </rdf:Description>
+    </ns0:NCIT_C17828>
+
+    <ns0:NCIT_C17828>
+      <rdf:Description rdf:about="http://www.ebi.ac.uk/QuickGO/term/GO:1990806">
+        <rdfs:label xml:lang="en">ligand-gated ion channel signaling pathway</rdfs:label>
+      </rdf:Description>
+    </ns0:NCIT_C17828>
+
+    <ns0:NCIT_C17828>
+      <rdf:Description rdf:about="http://www.ebi.ac.uk/QuickGO/term/GO:0006816">
+        <rdfs:label xml:lang="en">calcium ion transport</rdfs:label>
+      </rdf:Description>
+    </ns0:NCIT_C17828>
+
+    <ns0:NCIT_C17828>
+      <rdf:Description rdf:about="http://www.ebi.ac.uk/QuickGO/term/GO:0042045">
+        <rdfs:label xml:lang="en">epithelial fluid transport</rdfs:label>
+      </rdf:Description>
+    </ns0:NCIT_C17828>
+
+    <ns0:NCIT_C17828>
+      <rdf:Description rdf:about="http://www.ebi.ac.uk/QuickGO/term/GO:0051209">
+        <rdfs:label xml:lang="en">release of sequestered calcium ion into cytosol</rdfs:label>
+      </rdf:Description>
+    </ns0:NCIT_C17828>
+
+    <ns0:NCIT_C17828>
+      <rdf:Description rdf:about="http://www.ebi.ac.uk/QuickGO/term/GO:0099105">
+        <rdfs:label xml:lang="en">ion channel modulating, G protein-coupled receptor signaling pathway</rdfs:label>
+      </rdf:Description>
+    </ns0:NCIT_C17828>
+
+    <ns0:NCIT_C17828>
+      <rdf:Description rdf:about="http://www.ebi.ac.uk/QuickGO/term/GO:0001666">
+        <rdfs:label xml:lang="en">response to hypoxia</rdfs:label>
+      </rdf:Description>
+    </ns0:NCIT_C17828>
+
+    <ns0:NCIT_C17828 rdf:resource="http://www.ebi.ac.uk/QuickGO/term/GO:0007165"/>
+    <ns0:GO_0003674>
+      <rdf:Description rdf:about="http://www.ebi.ac.uk/QuickGO/term/GO:0099103">
+        <rdfs:label xml:lang="en">channel activator activity</rdfs:label>
+      </rdf:Description>
+    </ns0:GO_0003674>
+
+    <ns0:GO_0003674>
+      <rdf:Description rdf:about="http://www.ebi.ac.uk/QuickGO/term/GO:0070679">
+        <rdfs:label xml:lang="en">inositol 1,4,5 trisphosphate binding</rdfs:label>
+      </rdf:Description>
+    </ns0:GO_0003674>
+
+    <ns0:GO_0003674>
+      <rdf:Description rdf:about="http://www.ebi.ac.uk/QuickGO/term/GO:0035091">
+        <rdfs:label xml:lang="en">phosphatidylinositol binding</rdfs:label>
+      </rdf:Description>
+    </ns0:GO_0003674>
+
+    <ns0:GO_0003674>
+      <rdf:Description rdf:about="http://www.ebi.ac.uk/QuickGO/term/GO:0099107">
+        <rdfs:label xml:lang="en">ion channel regulator activity involved in G protein-coupled receptor signaling pathway</rdfs:label>
+      </rdf:Description>
+    </ns0:GO_0003674>
+
+    <ns0:GO_0003674>
+      <rdf:Description rdf:about="http://www.ebi.ac.uk/QuickGO/term/GO:0005509">
+        <rdfs:label xml:lang="en">calcium ion binding</rdfs:label>
+      </rdf:Description>
+    </ns0:GO_0003674>
+
+    <ns0:GO_0003674>
+      <rdf:Description rdf:about="http://www.ebi.ac.uk/QuickGO/term/GO:0015085">
+        <rdfs:label xml:lang="en">calcium ion transmembrane transporter activity</rdfs:label>
+      </rdf:Description>
+    </ns0:GO_0003674>
+
+    <ns0:GO_0003674>
+      <rdf:Description rdf:about="http://www.ebi.ac.uk/QuickGO/term/GO:0098695">
+        <rdfs:label xml:lang="en">inositol 1,4,5-trisphosphate receptor activity involved in regulation of postsynaptic cytosolic calcium levels</rdfs:label>
+      </rdf:Description>
+    </ns0:GO_0003674>
+
+    <ns0:GO_0003674>
+      <rdf:Description rdf:about="http://www.ebi.ac.uk/QuickGO/term/GO:0015278">
+        <rdfs:label xml:lang="en">calcium-release channel activity</rdfs:label>
+      </rdf:Description>
+    </ns0:GO_0003674>
+
+    <ns0:GO_0003674>
+      <rdf:Description rdf:about="http://www.ebi.ac.uk/QuickGO/term/GO:0005220 ">
+        <rdfs:label xml:lang="en">inositol 1,4,5-trisphosphate-sensitive calcium-release channel activity</rdfs:label>
+      </rdf:Description>
+    </ns0:GO_0003674>
+
+    <ns0:GO_0003674>
+      <rdf:Description rdf:about="http://www.ebi.ac.uk/QuickGO/term/GO:0019904">
+        <rdfs:label xml:lang="en">protein domain specific binding</rdfs:label>
+      </rdf:Description>
+    </ns0:GO_0003674>
+
+    <ns0:GO_0003674>
+      <rdf:Description rdf:about="http://www.ebi.ac.uk/QuickGO/term/GO:0019855">
+        <rdfs:label xml:lang="en">calcium channel inhibitor activity</rdfs:label>
+      </rdf:Description>
+    </ns0:GO_0003674>
+
+    <ns0:TXPO_0000039>
+      <rdf:Description rdf:about="https://reactome.org/content/detail/R-HSA-112287">
+        <rdfs:label xml:lang="en">IP3-gated Ca-channel type 1 (open) </rdfs:label>
+        <ns0:FMA_223408 rdf:resource="http://www.ebi.ac.uk/QuickGO/term/GO:0005789"/>
+      </rdf:Description>
+    </ns0:TXPO_0000039>
+
+    <ns0:TXPO_0000039>
+      <rdf:Description rdf:about="https://reactome.org/content/detail/R-HSA-5622012">
+        <rdfs:label xml:lang="en">ITPR1 tetramer </rdfs:label>
+        <ns0:FMA_223408 rdf:resource="http://www.ebi.ac.uk/QuickGO/term/GO:0005789"/>
+      </rdf:Description>
+    </ns0:TXPO_0000039>
+
+    <ns0:TXPO_0000039>
+      <rdf:Description rdf:about="https://reactome.org/content/detail/R-HSA-112288">
+        <ns0:FMA_223408 rdf:resource="http://www.ebi.ac.uk/QuickGO/term/GO:0005789"/>
+        <rdfs:label xml:lang="en">ITPR1 tetramer </rdfs:label>
+      </rdf:Description>
+    </ns0:TXPO_0000039>
+
+    <ns1:SIO_000136 xml:lang="en">Inositol 1,4,5-trisphosphate receptor type 1</ns1:SIO_000136>
+    <ns0:SO_1000002 xml:lang="en">chr3:g.4782712G&gt;A</ns0:SO_1000002>
+    <ns0:SO_1000002 xml:lang="en">chr3:g.4806224G&gt;A</ns0:SO_1000002>
+    <ns0:SO_1000002 xml:lang="en">chr3:g.4667452G&gt;A</ns0:SO_1000002>
+    <ns0:SO_1000002 xml:lang="en">chr3:g.4735168A&gt;G</ns0:SO_1000002>
+    <ns1:SIO_000115>
+      <rdf:Description rdf:about="https://www.uniprot.org/uniprotkb/Q14643">
+        <rdfs:label xml:lang="en">Q14643</rdfs:label>
+      </rdf:Description>
+    </ns1:SIO_000115>
+
+    <ns1:SIO_000115>
+      <rdf:Description rdf:about="https://grch37.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000150995">
+        <rdfs:label xml:lang="en">ENSG00000150995</rdfs:label>
+      </rdf:Description>
+    </ns1:SIO_000115>
+
+    <ns2:C47902>
+      <rdf:Description rdf:about="http://pubmed.ncbi.nlm.nih.gov/36741322">
+        <rdfs:label xml:lang="en">Urinary extracellular vesicles miRNA—A new era of prostate cancer biomarkers</rdfs:label>
+        <ns0:MI_0886 xml:lang="en">2023</ns0:MI_0886>
+      </rdf:Description>
+    </ns2:C47902>
+
+    <ns0:RO_0002350>
+      <rdf:Description rdf:about="https://reactome.org/content/detail/R-HSA-169685">
+        <rdfs:label xml:lang="en">IP3 receptors </rdfs:label>
+        <ns0:FMA_223408 rdf:resource="http://www.ebi.ac.uk/QuickGO/term/GO:0005789"/>
+      </rdf:Description>
+    </ns0:RO_0002350>
+
+    <ns1:SIO_000128 rdf:resource="https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&amp;ns=ncit&amp;code=C13219"/>
+    <rdfs:label xml:lang="en">ITPR1</rdfs:label>
+    <ns0:SO_0000159 xml:lang="en">chr3:g.4766704delA</ns0:SO_0000159>
+    <ns0:NCIT_C123886 xml:lang="en">4493345-4847840</ns0:NCIT_C123886>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://pubmed.ncbi.nlm.nih.gov/15832080">
+    <ns0:MI_0886 xml:lang="en">2005</ns0:MI_0886>
+    <rdfs:label xml:lang="en">Immunohistochemical stains for p63 and alpha-methylacyl-CoA racemase, versus a cocktail comprising both, in the diagnosis of prostatic carcinoma: a comparison of the immunohistochemical staining of 430 foci in radical prostatectomy and needle biopsy tissues</rdfs:label>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://purl.obolibrary.org/obo/OGG_3000023600">
+    <ns2:C47902>
+      <rdf:Description rdf:about="http://pubmed.ncbi.nlm.nih.gov/12917210">
+        <rdfs:label xml:lang="en">Branched fatty acids in dairy and beef products markedly enhance alpha-methylacyl-CoA racemase expression in prostate cancer cells in vitro</rdfs:label>
+        <ns0:MI_0886 xml:lang="en">2003</ns0:MI_0886>
+      </rdf:Description>
+    </ns2:C47902>
+
+    <ns2:C47902>
+      <rdf:Description rdf:about="http://pubmed.ncbi.nlm.nih.gov/18257370">
+        <ns0:MI_0886 xml:lang="en">2007</ns0:MI_0886>
+        <rdfs:label xml:lang="en">New markers in prostate biopsies</rdfs:label>
+      </rdf:Description>
+    </ns2:C47902>
+
+    <ns2:C47902>
+      <rdf:Description rdf:about="http://pubmed.ncbi.nlm.nih.gov/15755877">
+        <rdfs:label xml:lang="en">A nonclassic CCAAT enhancer element binding protein binding site contributes to alpha-methylacyl-CoA racemase expression in prostate cancer</rdfs:label>
+        <ns0:MI_0886 xml:lang="en">2005</ns0:MI_0886>
+      </rdf:Description>
+    </ns2:C47902>
+
+    <ns2:C47902>
+      <rdf:Description rdf:about="http://pubmed.ncbi.nlm.nih.gov/12766580">
+        <rdfs:label xml:lang="en">Expression and diagnostic utility of alpha-methylacyl-CoA-racemase (P504S) in foamy gland and pseudohyperplastic prostate cancer</rdfs:label>
+        <ns0:MI_0886 xml:lang="en">2003</ns0:MI_0886>
+      </rdf:Description>
+    </ns2:C47902>
+
+    <ns2:C47902>
+      <rdf:Description rdf:about="http://pubmed.ncbi.nlm.nih.gov/11956072">
+        <ns0:MI_0886 xml:lang="en">2002</ns0:MI_0886>
+        <rdfs:label xml:lang="en">Alpha-methylacyl-CoA racemase: a new molecular marker for prostate cancer</rdfs:label>
+      </rdf:Description>
+    </ns2:C47902>
+
+    <ns2:C47902>
+      <rdf:Description rdf:about="http://pubmed.ncbi.nlm.nih.gov/17597019">
+        <rdfs:label xml:lang="en">Basal cell subpopulation as putative human prostate carcinoma stem cells</rdfs:label>
+        <ns0:MI_0886 xml:lang="en">2007</ns0:MI_0886>
+      </rdf:Description>
+    </ns2:C47902>
+
+    <ns2:C47902>
+      <rdf:Description rdf:about="http://pubmed.ncbi.nlm.nih.gov/19371911">
+        <ns0:MI_0886 xml:lang="en">2009</ns0:MI_0886>
+        <rdfs:label xml:lang="en">A duplex quantitative polymerase chain reaction assay based on quantification of alpha-methylacyl-CoA racemase transcripts and prostate cancer antigen 3 in urine sediments improved diagnostic accuracy for prostate cancer</rdfs:label>
+      </rdf:Description>
+    </ns2:C47902>
+
+    <ns2:C47902>
+      <rdf:Description rdf:about="http://pubmed.ncbi.nlm.nih.gov/17154657">
+        <ns0:MI_0886 xml:lang="en">2006</ns0:MI_0886>
+        <rdfs:label xml:lang="en">Detection of alpha-methylacyl-coenzyme-A racemase transcripts in blood and urine samples of prostate cancer patients</rdfs:label>
+      </rdf:Description>
+    </ns2:C47902>
+
+    <ns2:C47902>
+      <rdf:Description rdf:about="http://pubmed.ncbi.nlm.nih.gov/14506641">
+        <rdfs:label xml:lang="en">Expression of alpha-methylacyl-CoA racemase (P504s) in various malignant neoplasms and normal tissues: astudy of 761 cases</rdfs:label>
+        <ns0:MI_0886 xml:lang="en">2003</ns0:MI_0886>
+      </rdf:Description>
+    </ns2:C47902>
+
+    <ns2:C47902>
+      <rdf:Description rdf:about="http://pubmed.ncbi.nlm.nih.gov/11926890">
+        <ns0:MI_0886 xml:lang="en">2002</ns0:MI_0886>
+        <rdfs:label xml:lang="en">alpha-Methylacyl coenzyme A racemase as a tissue biomarker for prostate cancer</rdfs:label>
+      </rdf:Description>
+    </ns2:C47902>
+
+    <ns2:C47902>
+      <rdf:Description rdf:about="http://pubmed.ncbi.nlm.nih.gov/18194603">
+        <ns0:MI_0886 xml:lang="en">2007</ns0:MI_0886>
+        <rdfs:label xml:lang="en">Sensitivity and specificity of AMACR expression in diagnosis of prostatic carcinoma</rdfs:label>
+      </rdf:Description>
+    </ns2:C47902>
+
+    <ns2:C47902>
+      <rdf:Description rdf:about="http://pubmed.ncbi.nlm.nih.gov/12810662">
+        <ns0:MI_0886 xml:lang="en">2003</ns0:MI_0886>
+        <rdfs:label xml:lang="en">Expression profiling identifies a novel alpha-methylacyl-CoA racemase exon with fumarate hydratase homology</rdfs:label>
+      </rdf:Description>
+    </ns2:C47902>
+
+    <ns2:C47902>
+      <rdf:Description rdf:about="http://pubmed.ncbi.nlm.nih.gov/19368959">
+        <ns0:MI_0886 xml:lang="en">2009</ns0:MI_0886>
+        <rdfs:label xml:lang="en">Specific detection of prostate cancer cells in urine by multiplex immunofluorescence cytology</rdfs:label>
+      </rdf:Description>
+    </ns2:C47902>
+
+    <ns2:C47902>
+      <rdf:Description rdf:about="http://pubmed.ncbi.nlm.nih.gov/20025473">
+        <ns0:MI_0886 xml:lang="en">2010</ns0:MI_0886>
+        <rdfs:label xml:lang="en">Utility of racemase and other immunomarkers in the detection of adenocarcinoma in prostatic tissue damaged by high intensity focused ultrasound therapy</rdfs:label>
+      </rdf:Description>
+    </ns2:C47902>
+
+    <ns2:C47902>
+      <rdf:Description rdf:about="http://pubmed.ncbi.nlm.nih.gov/15941951">
+        <rdfs:label xml:lang="en">Decreased alpha-methylacyl CoA racemase expression in localized prostate cancer is associated with an increased rate of biochemical recurrence and cancer-specific death</rdfs:label>
+        <ns0:MI_0886 xml:lang="en">2005</ns0:MI_0886>
+      </rdf:Description>
+    </ns2:C47902>
+
+    <ns2:C47902>
+      <rdf:Description rdf:about="http://pubmed.ncbi.nlm.nih.gov/17680641">
+        <rdfs:label xml:lang="en">Polymorphic variants in alpha-methylacyl-CoA racemase and prostate cancer</rdfs:label>
+        <ns0:MI_0886 xml:lang="en">2007</ns0:MI_0886>
+      </rdf:Description>
+    </ns2:C47902>
+
+    <ns2:C47902>
+      <rdf:Description rdf:about="http://pubmed.ncbi.nlm.nih.gov/14982833">
+        <rdfs:label xml:lang="en">Elevated alpha-methylacyl-CoA racemase enzymatic activity in prostate cancer</rdfs:label>
+        <ns0:MI_0886 xml:lang="en">2004</ns0:MI_0886>
+      </rdf:Description>
+    </ns2:C47902>
+
+    <ns2:C47902>
+      <rdf:Description rdf:about="http://pubmed.ncbi.nlm.nih.gov/16491480">
+        <ns0:MI_0886 xml:lang="en">2006</ns0:MI_0886>
+        <rdfs:label xml:lang="en">The prostate-specific G-protein coupled receptors PSGR and PSGR2 are prostate cancer biomarkers that are complementary to alpha-methylacyl-CoA racemase</rdfs:label>
+      </rdf:Description>
+    </ns2:C47902>
+
+    <ns2:C47902>
+      <rdf:Description rdf:about="http://pubmed.ncbi.nlm.nih.gov/17683075">
+        <ns0:MI_0886 xml:lang="en">2007</ns0:MI_0886>
+        <rdfs:label xml:lang="en">Sequence variation in alpha-methylacyl-CoA racemase and risk of early-onset and familial prostate cancer</rdfs:label>
+      </rdf:Description>
+    </ns2:C47902>
+
+    <ns2:C47902>
+      <rdf:Description rdf:about="http://pubmed.ncbi.nlm.nih.gov/18343427">
+        <rdfs:label xml:lang="en">Prognostic significance of alpha-methylacyl-coA racemase among men with high grade prostatic intraepithelial neoplasia in prostate biopsies</rdfs:label>
+        <ns0:MI_0886 xml:lang="en">2008</ns0:MI_0886>
+      </rdf:Description>
+    </ns2:C47902>
+
+    <ns2:C47902>
+      <rdf:Description rdf:about="http://pubmed.ncbi.nlm.nih.gov/20003233">
+        <ns0:MI_0886 xml:lang="en">2009</ns0:MI_0886>
+        <rdfs:label xml:lang="en">Aberrant expression and potency as a cancer immunotherapy target of alpha-methylacyl-coenzyme A racemase in prostate cancer</rdfs:label>
+      </rdf:Description>
+    </ns2:C47902>
+
+    <ns2:C47902>
+      <rdf:Description rdf:about="http://pubmed.ncbi.nlm.nih.gov/15492996">
+        <ns0:MI_0886 xml:lang="en">2004</ns0:MI_0886>
+        <rdfs:label xml:lang="en">Utility of immunohistochemistry for alpha-methylacyl-CoA racemase in distinguishing atrophic prostate cancer from benign atrophy</rdfs:label>
+      </rdf:Description>
+    </ns2:C47902>
+
+    <ns2:C47902>
+      <rdf:Description rdf:about="http://pubmed.ncbi.nlm.nih.gov/15371879">
+        <rdfs:label xml:lang="en">Prostate cancer detection on urinalysis for alpha methylacyl coenzyme a racemase protein</rdfs:label>
+        <ns0:MI_0886 xml:lang="en">2004</ns0:MI_0886>
+      </rdf:Description>
+    </ns2:C47902>
+
+    <ns2:C47902 rdf:resource="http://pubmed.ncbi.nlm.nih.gov/15832080"/>
+    <ns2:C47902>
+      <rdf:Description rdf:about="http://pubmed.ncbi.nlm.nih.gov/17222253">
+        <rdfs:label xml:lang="en">Heterogeneous expression of alpha-methylacyl-CoA racemase in prostatic cancer correlates with Gleason score</rdfs:label>
+        <ns0:MI_0886 xml:lang="en">2007</ns0:MI_0886>
+      </rdf:Description>
+    </ns2:C47902>
+
+    <ns2:C47902>
+      <rdf:Description rdf:about="http://pubmed.ncbi.nlm.nih.gov/15880524">
+        <ns0:MI_0886 xml:lang="en">2005</ns0:MI_0886>
+        <rdfs:label xml:lang="en">A variant of the alpha-methyl-acyl-CoA racemase gene created by a deletion in exon 5 and its expression in prostate cancer</rdfs:label>
+      </rdf:Description>
+    </ns2:C47902>
+
+    <ns2:C47902>
+      <rdf:Description rdf:about="http://pubmed.ncbi.nlm.nih.gov/16932031">
+        <ns0:MI_0886 xml:lang="en">2006</ns0:MI_0886>
+        <rdfs:label xml:lang="en">Sensitivity of P504S/alpha-methylacyl-CoA racemase (AMACR) immunohistochemistry for the detection of prostate carcinoma on stored needle biopsies</rdfs:label>
+      </rdf:Description>
+    </ns2:C47902>
+
+    <ns2:C47902>
+      <rdf:Description rdf:about="http://pubmed.ncbi.nlm.nih.gov/16459672">
+        <ns0:MI_0886 xml:lang="en">2005</ns0:MI_0886>
+        <rdfs:label xml:lang="en">Value of new prostate cancer markers: alpha methylacyl CoA racemase (P504S) and p63</rdfs:label>
+      </rdf:Description>
+    </ns2:C47902>
+
+    <ns2:C47902>
+      <rdf:Description rdf:about="http://pubmed.ncbi.nlm.nih.gov/16224209">
+        <rdfs:label xml:lang="en">Age-associated changes in alpha-methyl CoA racemase (AMACR) expression in nonneoplastic prostatic tissues</rdfs:label>
+        <ns0:MI_0886 xml:lang="en">2005</ns0:MI_0886>
+      </rdf:Description>
+    </ns2:C47902>
+
+    <ns2:C47902>
+      <rdf:Description rdf:about="http://pubmed.ncbi.nlm.nih.gov/15599942">
+        <ns0:MI_0886 xml:lang="en">2005</ns0:MI_0886>
+        <rdfs:label xml:lang="en">Peroxisomal branched chain fatty acid beta-oxidation pathway is upregulated in prostate cancer</rdfs:label>
+      </rdf:Description>
+    </ns2:C47902>
+
+    <ns2:C47902>
+      <rdf:Description rdf:about="http://pubmed.ncbi.nlm.nih.gov/12883245">
+        <ns0:MI_0886 xml:lang="en">2003</ns0:MI_0886>
+        <rdfs:label xml:lang="en">Alpha-methylacyl-CoA racemase: a variably sensitive immunohistochemical marker for the diagnosis of small prostate cancer foci on needle biopsy</rdfs:label>
+      </rdf:Description>
+    </ns2:C47902>
+
+    <ns2:C47902>
+      <rdf:Description rdf:about="http://pubmed.ncbi.nlm.nih.gov/17442371">
+        <rdfs:label xml:lang="en">Differential expression of alpha-methylacyl-coenzyme A racemase in colorectal carcinoma bears clinical and pathologic significance</rdfs:label>
+        <ns0:MI_0886 xml:lang="en">2007</ns0:MI_0886>
+      </rdf:Description>
+    </ns2:C47902>
+
+    <ns2:C47902>
+      <rdf:Description rdf:about="http://pubmed.ncbi.nlm.nih.gov/19596919">
+        <rdfs:label xml:lang="en">Conversion of prostate cancer from hormone independency to dependency due to AMACR inhibition: involvement of increased AR expression and decreased IGF1 expression</rdfs:label>
+        <ns0:MI_0886 xml:lang="en">2009</ns0:MI_0886>
+      </rdf:Description>
+    </ns2:C47902>
+
+    <ns2:C47902>
+      <rdf:Description rdf:about="http://pubmed.ncbi.nlm.nih.gov/36358940">
+        <rdfs:label xml:lang="en">Druggable Metabolic Vulnerabilities Are Exposed and Masked during Progression to Castration Resistant Prostate Cancer</rdfs:label>
+        <ns0:MI_0886 xml:lang="en">2022</ns0:MI_0886>
+      </rdf:Description>
+    </ns2:C47902>
+
+    <ns2:C47902>
+      <rdf:Description rdf:about="http://pubmed.ncbi.nlm.nih.gov/15323145">
+        <ns0:MI_0886 xml:lang="en">2004</ns0:MI_0886>
+        <rdfs:label xml:lang="en">Discovery and clinical application of a novel prostate cancer marker: alpha-methylacyl CoA racemase (P504S)</rdfs:label>
+      </rdf:Description>
+    </ns2:C47902>
+
+    <ns2:C47902>
+      <rdf:Description rdf:about="http://pubmed.ncbi.nlm.nih.gov/15602744">
+        <rdfs:label xml:lang="en">Alpha-methylacyl-CoA racemase (AMACR) expression in normal prostatic glands and high-grade prostatic intraepithelial neoplasia (HGPIN): association with diagnosis of prostate cancer</rdfs:label>
+        <ns0:MI_0886 xml:lang="en">2005</ns0:MI_0886>
+      </rdf:Description>
+    </ns2:C47902>
+
+    <ns2:C47902>
+      <rdf:Description rdf:about="http://pubmed.ncbi.nlm.nih.gov/18537123">
+        <ns0:MI_0886 xml:lang="en">2008</ns0:MI_0886>
+        <rdfs:label xml:lang="en">Sequence variants of alpha-methylacyl-CoA racemase are associated with prostate cancer risk: a replication study in an ethnically homogeneous population</rdfs:label>
+      </rdf:Description>
+    </ns2:C47902>
+
+    <ns2:C47902>
+      <rdf:Description rdf:about="http://pubmed.ncbi.nlm.nih.gov/16563090">
+        <rdfs:label xml:lang="en">Phytanic acid, AMACR and prostate cancer risk</rdfs:label>
+        <ns0:MI_0886 xml:lang="en">2006</ns0:MI_0886>
+      </rdf:Description>
+    </ns2:C47902>
+
+    <ns2:C47902>
+      <rdf:Description rdf:about="http://pubmed.ncbi.nlm.nih.gov/16082251">
+        <rdfs:label xml:lang="en">Utility of alpha-methylacyl coenzyme A racemase (p504s antibody) as a diagnostic immunohistochemical marker for cancer</rdfs:label>
+        <ns0:MI_0886 xml:lang="en">2005</ns0:MI_0886>
+      </rdf:Description>
+    </ns2:C47902>
+
+    <ns2:C47902>
+      <rdf:Description rdf:about="http://pubmed.ncbi.nlm.nih.gov/15743746">
+        <ns0:MI_0886 xml:lang="en">2005</ns0:MI_0886>
+        <rdfs:label xml:lang="en">Altered expression of alpha-methylacyl-coenzyme A racemase in prostatic adenocarcinoma following hormone therapy</rdfs:label>
+      </rdf:Description>
+    </ns2:C47902>
+
+    <ns2:C47902>
+      <rdf:Description rdf:about="http://pubmed.ncbi.nlm.nih.gov/16324196">
+        <rdfs:label xml:lang="en">Comparison of monoclonal antibody (P504S) and polyclonal antibody to alpha methylacyl-CoA racemase (AMACR) in the work-up of prostate cancer</rdfs:label>
+        <ns0:MI_0886 xml:lang="en">2005</ns0:MI_0886>
+      </rdf:Description>
+    </ns2:C47902>
+
+    <ns2:C47902>
+      <rdf:Description rdf:about="http://pubmed.ncbi.nlm.nih.gov/19730362">
+        <ns0:MI_0886 xml:lang="en">2009</ns0:MI_0886>
+        <rdfs:label xml:lang="en">Revisiting the immunophenotype of nephrogenic adenoma</rdfs:label>
+      </rdf:Description>
+    </ns2:C47902>
+
+    <ns2:C47902>
+      <rdf:Description rdf:about="http://pubmed.ncbi.nlm.nih.gov/15330799">
+        <rdfs:label xml:lang="en">Alpha-methylacyl-CoA racemase: a multi-institutional study of a new prostate cancer marker</rdfs:label>
+        <ns0:MI_0886 xml:lang="en">2004</ns0:MI_0886>
+      </rdf:Description>
+    </ns2:C47902>
+
+    <ns2:C47902>
+      <rdf:Description rdf:about="http://pubmed.ncbi.nlm.nih.gov/17527076">
+        <rdfs:label xml:lang="en">Immunohistochemical antibody cocktail staining (p63/HMWCK/AMACR) of ductal adenocarcinoma and Gleason pattern 4 cribriform and noncribriform acinar adenocarcinomas of the prostate</rdfs:label>
+        <ns0:MI_0886 xml:lang="en">2007</ns0:MI_0886>
+      </rdf:Description>
+    </ns2:C47902>
+
+    <ns2:C47902>
+      <rdf:Description rdf:about="http://pubmed.ncbi.nlm.nih.gov/17067752">
+        <ns0:MI_0886 xml:lang="en">2006</ns0:MI_0886>
+        <rdfs:label xml:lang="en">Kinetic fluorescence reverse transcriptase-polymerase chain reaction for alpha-methylacyl CoA racemase distinguishes prostate cancer from benign lesions</rdfs:label>
+      </rdf:Description>
+    </ns2:C47902>
+
+    <ns2:C47902>
+      <rdf:Description rdf:about="http://pubmed.ncbi.nlm.nih.gov/17008281">
+        <rdfs:label xml:lang="en">Abundant expression of AMACR in many distinct tumour types</rdfs:label>
+        <ns0:MI_0886 xml:lang="en">2006</ns0:MI_0886>
+      </rdf:Description>
+    </ns2:C47902>
+
+    <ns2:C47902>
+      <rdf:Description rdf:about="http://pubmed.ncbi.nlm.nih.gov/17393784">
+        <rdfs:label xml:lang="en">Detection of AMACR (P504S), P63 and 34betaE12 cocktail in the early diagnosis of prostate cancer</rdfs:label>
+        <ns0:MI_0886 xml:lang="en">2007</ns0:MI_0886>
+      </rdf:Description>
+    </ns2:C47902>
+
+    <ns2:C47902>
+      <rdf:Description rdf:about="http://pubmed.ncbi.nlm.nih.gov/16681682">
+        <ns0:MI_0886 xml:lang="en">2006</ns0:MI_0886>
+        <rdfs:label xml:lang="en">Detection of prostate cancer by alpha-methylacyl CoA racemase (P504S) in needle biopsy specimens previously reported as negative for malignancy</rdfs:label>
+      </rdf:Description>
+    </ns2:C47902>
+
+    <ns2:C47902>
+      <rdf:Description rdf:about="http://pubmed.ncbi.nlm.nih.gov/17074684">
+        <rdfs:label xml:lang="en">Alpha-methylacyl coenzyme A racemase immunoreactivity in partial atrophy of the prostate</rdfs:label>
+        <ns0:MI_0886 xml:lang="en">2006</ns0:MI_0886>
+      </rdf:Description>
+    </ns2:C47902>
+
+    <ns2:C47902>
+      <rdf:Description rdf:about="http://pubmed.ncbi.nlm.nih.gov/14960364">
+        <rdfs:label xml:lang="en">Alternative spliced variants of the alpha-methylacyl-CoA racemase gene and their expression in prostate cancer</rdfs:label>
+        <ns0:MI_0886 xml:lang="en">2004</ns0:MI_0886>
+      </rdf:Description>
+    </ns2:C47902>
+
+    <ns2:C47902>
+      <rdf:Description rdf:about="http://pubmed.ncbi.nlm.nih.gov/15982318">
+        <ns0:MI_0886 xml:lang="en">2005</ns0:MI_0886>
+        <rdfs:label xml:lang="en">Diagnostic utility of immunohistochemistry in morphologically difficult prostate cancer: review of current literature</rdfs:label>
+      </rdf:Description>
+    </ns2:C47902>
+
+    <ns2:C47902 rdf:resource="http://pubmed.ncbi.nlm.nih.gov/17369131"/>
+    <ns2:C47902 rdf:resource="http://pubmed.ncbi.nlm.nih.gov/15842047"/>
+    <ns2:C47902>
+      <rdf:Description rdf:about="http://pubmed.ncbi.nlm.nih.gov/17134736">
+        <ns0:MI_0886 xml:lang="en">2007</ns0:MI_0886>
+        <rdfs:label xml:lang="en">Alpha-methylacyl-CoA racemase (P504S)/34betaE12/p63 triple cocktail stain in prostatic adenocarcinoma after hormonal therapy</rdfs:label>
+      </rdf:Description>
+    </ns2:C47902>
+
+    <ns2:C47902>
+      <rdf:Description rdf:about="http://pubmed.ncbi.nlm.nih.gov/17875519">
+        <rdfs:label xml:lang="en">alpha-Methylacyl coenzyme A racemase, Ki-67, and topoisomerase IIalpha in cystoprostatectomies with incidental prostate cancer</rdfs:label>
+        <ns0:MI_0886 xml:lang="en">2007</ns0:MI_0886>
+      </rdf:Description>
+    </ns2:C47902>
+
+    <ns2:C47902>
+      <rdf:Description rdf:about="http://pubmed.ncbi.nlm.nih.gov/14982837">
+        <rdfs:label xml:lang="en">Quantitative determination of expression of the prostate cancer protein alpha-methylacyl-CoA racemase using automated quantitative analysis (AQUA): a novel paradigm for automated and continuous biomarker measurements</rdfs:label>
+        <ns0:MI_0886 xml:lang="en">2004</ns0:MI_0886>
+      </rdf:Description>
+    </ns2:C47902>
+
+    <ns2:C47902>
+      <rdf:Description rdf:about="http://pubmed.ncbi.nlm.nih.gov/15173267">
+        <rdfs:label xml:lang="en">Humoral immune response to alpha-methylacyl-CoA racemase and prostate cancer</rdfs:label>
+        <ns0:MI_0886 xml:lang="en">2004</ns0:MI_0886>
+      </rdf:Description>
+    </ns2:C47902>
+
+    <ns2:C47902>
+      <rdf:Description rdf:about="http://pubmed.ncbi.nlm.nih.gov/16424894">
+        <ns0:MI_0886 xml:lang="en">2006</ns0:MI_0886>
+        <rdfs:label xml:lang="en">Alpha-methylacyl-CoA racemase as a marker in the differential diagnosis of metanephric adenoma</rdfs:label>
+      </rdf:Description>
+    </ns2:C47902>
+
+    <ns2:C47902>
+      <rdf:Description rdf:about="http://pubmed.ncbi.nlm.nih.gov/15505533">
+        <rdfs:label xml:lang="en">Diagnostic utility of alpha-methylacyl CoA racemase (P504S) on prostate needle biopsy</rdfs:label>
+        <ns0:MI_0886 xml:lang="en">2004</ns0:MI_0886>
+      </rdf:Description>
+    </ns2:C47902>
+
+    <ns0:SO_1000002 xml:lang="en">chr5:g.34005814G&gt;A</ns0:SO_1000002>
+    <ns0:GO_0005575 rdf:resource="http://www.ebi.ac.uk/QuickGO/term/GO:0005829"/>
+    <ns0:GO_0005575 rdf:resource="http://www.ebi.ac.uk/QuickGO/term/GO:0005886 "/>
+    <ns0:GO_0005575 rdf:resource="http://www.ebi.ac.uk/QuickGO/term/GO:0005737"/>
+    <ns0:GO_0005575>
+      <rdf:Description rdf:about="http://www.ebi.ac.uk/QuickGO/term/GO:0043231">
+        <rdfs:label xml:lang="en">intracellular membrane-bounded organelle</rdfs:label>
+      </rdf:Description>
+    </ns0:GO_0005575>
+
+    <ns0:GO_0005575>
+      <rdf:Description rdf:about="http://www.ebi.ac.uk/QuickGO/term/GO:0005739">
+        <rdfs:label xml:lang="en">mitochondrion</rdfs:label>
+      </rdf:Description>
+    </ns0:GO_0005575>
+
+    <ns0:GO_0005575>
+      <rdf:Description rdf:about="http://www.ebi.ac.uk/QuickGO/term/GO:0005777">
+        <rdfs:label xml:lang="en">peroxisome</rdfs:label>
+      </rdf:Description>
+    </ns0:GO_0005575>
+
+    <ns0:GO_0005575 rdf:resource="http://www.ebi.ac.uk/QuickGO/term/GO:0005782"/>
+    <ns0:GO_0003674>
+      <rdf:Description rdf:about="http://www.ebi.ac.uk/QuickGO/term/GO:0005102">
+        <rdfs:label xml:lang="en">signaling receptor binding</rdfs:label>
+      </rdf:Description>
+    </ns0:GO_0003674>
+
+    <ns0:GO_0003674 rdf:resource="http://www.ebi.ac.uk/QuickGO/term/GO:0008111"/>
+    <ns0:NCIT_C123886 xml:lang="en">33986165-34008104</ns0:NCIT_C123886>
+    <ns0:NCIT_C17828>
+      <rdf:Description rdf:about="http://www.ebi.ac.uk/QuickGO/term/GO:0033540">
+        <rdfs:label xml:lang="en">fatty acid beta-oxidation using acyl-CoA oxidase</rdfs:label>
+      </rdf:Description>
+    </ns0:NCIT_C17828>
+
+    <ns0:NCIT_C17828>
+      <rdf:Description rdf:about="http://www.ebi.ac.uk/QuickGO/term/GO:0006699">
+        <rdfs:label xml:lang="en">bile acid biosynthetic process</rdfs:label>
+      </rdf:Description>
+    </ns0:NCIT_C17828>
+
+    <ns0:NCIT_C17828>
+      <rdf:Description rdf:about="http://www.ebi.ac.uk/QuickGO/term/GO:0008206">
+        <rdfs:label xml:lang="en">bile acid metabolic process</rdfs:label>
+      </rdf:Description>
+    </ns0:NCIT_C17828>
+
+    <ns1:SIO_000115 rdf:resource="https://www.uniprot.org/uniprotkb/Q9UHK6"/>
+    <ns1:SIO_000115>
+      <rdf:Description rdf:about="https://grch37.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000242110">
+        <rdfs:label xml:lang="en">ENSG00000242110</rdfs:label>
+      </rdf:Description>
+    </ns1:SIO_000115>
+
+    <ns1:SIO_000136 xml:lang="en">Alpha-methylacyl-CoA racemase</ns1:SIO_000136>
+    <ns1:SIO_000128 rdf:resource="https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&amp;ns=ncit&amp;code=C13221"/>
+    <ns0:RO_0002350>
+      <rdf:Description rdf:about="https://reactome.org/content/detail/R-HSA-9033148">
+        <rdfs:label xml:lang="en">Cargo proteins containing PTS1</rdfs:label>
+        <ns0:FMA_223408 rdf:resource="http://www.ebi.ac.uk/QuickGO/term/GO:0005782"/>
+      </rdf:Description>
+    </ns0:RO_0002350>
+
+    <rdfs:label xml:lang="en">AMACR</rdfs:label>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://purl.obolibrary.org/obo/OGG_3000006840">
+    <ns1:SIO_000115>
+      <rdf:Description rdf:about="https://grch37.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000197321">
+        <rdfs:label xml:lang="en">ENSG00000197321</rdfs:label>
+      </rdf:Description>
+    </ns1:SIO_000115>
+
+    <ns1:SIO_000115>
+      <rdf:Description rdf:about="https://www.uniprot.org/uniprotkb/O95425">
+        <rdfs:label xml:lang="en">O95425</rdfs:label>
+      </rdf:Description>
+    </ns1:SIO_000115>
+
+    <ns0:GO_0003674>
+      <rdf:Description rdf:about="http://www.ebi.ac.uk/QuickGO/term/GO:0005546">
+        <rdfs:label xml:lang="en">phosphatidylinositol-4,5-bisphosphate binding</rdfs:label>
+      </rdf:Description>
+    </ns0:GO_0003674>
+
+    <ns0:GO_0003674>
+      <rdf:Description rdf:about="http://www.ebi.ac.uk/QuickGO/term/GO:0051015">
+        <rdfs:label xml:lang="en">actin filament binding</rdfs:label>
+      </rdf:Description>
+    </ns0:GO_0003674>
+
+    <ns0:NCIT_C17828>
+      <rdf:Description rdf:about="http://www.ebi.ac.uk/QuickGO/term/GO:0051016">
+        <rdfs:label xml:lang="en">barbed-end actin filament capping</rdfs:label>
+      </rdf:Description>
+    </ns0:NCIT_C17828>
+
+    <ns0:NCIT_C17828>
+      <rdf:Description rdf:about="http://www.ebi.ac.uk/QuickGO/term/GO:0032467">
+        <rdfs:label xml:lang="en">positive regulation of cytokinesis</rdfs:label>
+      </rdf:Description>
+    </ns0:NCIT_C17828>
+
+    <ns0:NCIT_C17828>
+      <rdf:Description rdf:about="http://www.ebi.ac.uk/QuickGO/term/GO:0007519">
+        <rdfs:label xml:lang="en">skeletal muscle tissue development</rdfs:label>
+      </rdf:Description>
+    </ns0:NCIT_C17828>
+
+    <ns0:NCIT_C17828>
+      <rdf:Description rdf:about="http://www.ebi.ac.uk/QuickGO/term/GO:0051014">
+        <rdfs:label xml:lang="en">actin filament severing</rdfs:label>
+      </rdf:Description>
+    </ns0:NCIT_C17828>
+
+    <ns0:NCIT_C17828>
+      <rdf:Description rdf:about="http://www.ebi.ac.uk/QuickGO/term/GO:0008154">
+        <rdfs:label xml:lang="en">actin polymerization or depolymerization</rdfs:label>
+      </rdf:Description>
+    </ns0:NCIT_C17828>
+
+    <ns1:SIO_000136 xml:lang="en">Supervillin</ns1:SIO_000136>
+    <ns0:GO_0005575 rdf:resource="http://www.ebi.ac.uk/QuickGO/term/GO:0005737"/>
+    <ns0:GO_0005575>
+      <rdf:Description rdf:about="http://www.ebi.ac.uk/QuickGO/term/GO:0005925 ">
+        <rdfs:label xml:lang="en">focal adhesion</rdfs:label>
+      </rdf:Description>
+    </ns0:GO_0005575>
+
+    <ns0:GO_0005575>
+      <rdf:Description rdf:about="http://www.ebi.ac.uk/QuickGO/term/GO:0002102">
+        <rdfs:label xml:lang="en">podosome</rdfs:label>
+      </rdf:Description>
+    </ns0:GO_0005575>
+
+    <ns0:GO_0005575>
+      <rdf:Description rdf:about="http://www.ebi.ac.uk/QuickGO/term/GO:0036449">
+        <rdfs:label xml:lang="en">microtubule minus-end</rdfs:label>
+      </rdf:Description>
+    </ns0:GO_0005575>
+
+    <ns0:GO_0005575 rdf:resource="http://www.ebi.ac.uk/QuickGO/term/GO:0005829"/>
+    <ns0:GO_0005575 rdf:resource="http://www.ebi.ac.uk/QuickGO/term/GO:0032154"/>
+    <ns0:GO_0005575 rdf:resource="http://www.ebi.ac.uk/QuickGO/term/GO:0005886"/>
+    <ns0:GO_0005575>
+      <rdf:Description rdf:about="http://www.ebi.ac.uk/QuickGO/term/GO:0042995">
+        <rdfs:label xml:lang="en">cell projection</rdfs:label>
+      </rdf:Description>
+    </ns0:GO_0005575>
+
+    <ns0:GO_0005575 rdf:resource="http://www.ebi.ac.uk/QuickGO/term/GO:0005634"/>
+    <ns0:GO_0005575 rdf:resource="http://www.ebi.ac.uk/QuickGO/term/GO:0015629"/>
+    <ns0:GO_0005575 rdf:resource="http://www.ebi.ac.uk/QuickGO/term/GO:0030496"/>
+    <ns0:GO_0005575>
+      <rdf:Description rdf:about="http://www.ebi.ac.uk/QuickGO/term/GO:0043034">
+        <rdfs:label xml:lang="en">costamere</rdfs:label>
+      </rdf:Description>
+    </ns0:GO_0005575>
+
+    <ns1:SIO_000128 rdf:resource="https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&amp;ns=ncit&amp;code=C13205"/>
+    <ns2:C47902>
+      <rdf:Description rdf:about="http://pubmed.ncbi.nlm.nih.gov/36408130">
+        <rdfs:label xml:lang="en">Identification of immuno-infiltrating MAP1A as a prognosis-related biomarker for bladder cancer and its ceRNA network construction</rdfs:label>
+        <ns0:MI_0886 xml:lang="en">2022</ns0:MI_0886>
+      </rdf:Description>
+    </ns2:C47902>
+
+    <rdfs:label xml:lang="en">SVIL</rdfs:label>
+    <ns0:NCIT_C123886 xml:lang="en">29457338-29736959</ns0:NCIT_C123886>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="https://prostatecancer.es/data/">
+    <ns1:SIO_000987 rdf:resource="http://purl.obolibrary.org/obo/OGG_3000000800"/>
+    <ns1:SIO_000987 rdf:resource="http://purl.obolibrary.org/obo/OGG_3000004638"/>
+    <ns1:SIO_000987>
+      <rdf:Description rdf:about="http://purl.obolibrary.org/obo/OGG_3000003221">
+        <ns0:GO_0003674 rdf:resource="http://www.ebi.ac.uk/QuickGO/term/GO:0000978"/>
+        <ns0:GO_0003674>
+          <rdf:Description rdf:about="http://www.ebi.ac.uk/QuickGO/term/GO:1990837">
+            <rdfs:label xml:lang="en">sequence-specific double-stranded DNA binding</rdfs:label>
+          </rdf:Description>
+        </ns0:GO_0003674>
+
+        <ns0:GO_0003674 rdf:resource="http://www.ebi.ac.uk/QuickGO/term/GO:0000981"/>
+        <ns0:GO_0003674>
+          <rdf:Description rdf:about="http://www.ebi.ac.uk/QuickGO/term/GO:0001228">
+            <rdfs:label xml:lang="en">DNA-binding transcription activator activity</rdfs:label>
+          </rdf:Description>
+        </ns0:GO_0003674>
+
+        <ns0:GO_0003674>
+          <rdf:Description rdf:about="http://www.ebi.ac.uk/QuickGO/term/GO:0071837">
+            <rdfs:label xml:lang="en">HMG box domain binding</rdfs:label>
+          </rdf:Description>
+        </ns0:GO_0003674>
+
+        <ns1:SIO_000136 xml:lang="en">Homeobox C4</ns1:SIO_000136>
+        <ns0:NCIT_C17828>
+          <rdf:Description rdf:about="http://www.ebi.ac.uk/QuickGO/term/GO:0048704">
+            <rdfs:label xml:lang="en">embryonic skeletal system morphogenesis</rdfs:label>
+          </rdf:Description>
+        </ns0:NCIT_C17828>
+
+        <ns0:NCIT_C17828 rdf:resource="http://www.ebi.ac.uk/QuickGO/term/GO:0006357"/>
+        <ns0:NCIT_C17828>
+          <rdf:Description rdf:about="http://www.ebi.ac.uk/QuickGO/term/GO:0051216 ">
+            <rdfs:label xml:lang="en">cartilage development</rdfs:label>
+          </rdf:Description>
+        </ns0:NCIT_C17828>
+
+        <ns0:NCIT_C17828 rdf:resource="http://www.ebi.ac.uk/QuickGO/term/GO:0045944"/>
+        <ns0:NCIT_C17828 rdf:resource="http://www.ebi.ac.uk/QuickGO/term/GO:0009952"/>
+        <ns0:GO_0005575 rdf:resource="http://www.ebi.ac.uk/QuickGO/term/GO:0000785"/>
+        <ns0:GO_0005575 rdf:resource="http://www.ebi.ac.uk/QuickGO/term/GO:0005634"/>
+        <ns0:GO_0005575 rdf:resource="http://www.ebi.ac.uk/QuickGO/term/GO:0005654"/>
+        <ns0:SO_1000002 xml:lang="en">chr12:g.54054894G&gt;C</ns0:SO_1000002>
+        <ns0:SO_1000002 xml:lang="en">chr12:g.54054882C&gt;T</ns0:SO_1000002>
+        <ns0:SO_1000002 xml:lang="en">chr12:g.54055033G&gt;A</ns0:SO_1000002>
+        <ns0:SO_1000002 xml:lang="en">chr12:g.54055056C&gt;T</ns0:SO_1000002>
+        <ns0:NCIT_C123886 xml:lang="en">54016931-54056030</ns0:NCIT_C123886>
+        <ns1:SIO_000128 rdf:resource="https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&amp;ns=ncit&amp;code=C13207"/>
+        <ns1:SIO_000115>
+          <rdf:Description rdf:about="https://www.uniprot.org/uniprotkb/P09017">
+            <rdfs:label xml:lang="en">P09017</rdfs:label>
+          </rdf:Description>
+        </ns1:SIO_000115>
+
+        <ns1:SIO_000115>
+          <rdf:Description rdf:about="https://grch37.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000198353">
+            <rdfs:label xml:lang="en">ENSG00000198353</rdfs:label>
+          </rdf:Description>
+        </ns1:SIO_000115>
+
+        <rdfs:label xml:lang="en">HOXC4</rdfs:label>
+        <ns0:RO_0002353>
+          <rdf:Description rdf:about="https://reactome.org/content/detail/R-HSA-5617855">
+            <ns0:FMA_223408 rdf:resource="http://www.ebi.ac.uk/QuickGO/term/GO:0005829"/>
+            <ns0:FMA_223408 rdf:resource="http://www.ebi.ac.uk/QuickGO/term/GO:0005654"/>
+            <rdfs:label xml:lang="en">HOXC4 mRNA is translated</rdfs:label>
+          </rdf:Description>
+        </ns0:RO_0002353>
+
+        <ns2:C47902>
+          <rdf:Description rdf:about="http://pubmed.ncbi.nlm.nih.gov/35722463">
+            <ns0:MI_0886 xml:lang="en">2022</ns0:MI_0886>
+            <rdfs:label xml:lang="en">Developing a Multimodal Model for Detecting Higher-Grade Prostate Cancer Using Biomarkers and Risk Factors</rdfs:label>
+          </rdf:Description>
+        </ns2:C47902>
+
+      </rdf:Description>
+    </ns1:SIO_000987>
+
+    <ns1:SIO_000987>
+      <rdf:Description rdf:about="http://purl.obolibrary.org/obo/OGG_3000005592">
+        <ns0:TXPO_0000039>
+          <rdf:Description rdf:about="https://reactome.org/content/detail/R-HSA-4551458">
+            <ns0:FMA_223408 rdf:resource="http://www.ebi.ac.uk/QuickGO/term/GO:0005829"/>
+            <rdfs:label xml:lang="en">PRKG1 dimer</rdfs:label>
+          </rdf:Description>
+        </ns0:TXPO_0000039>
+
+        <ns0:NCIT_C17828 rdf:resource="http://www.ebi.ac.uk/QuickGO/term/GO:0007165"/>
+        <ns0:NCIT_C17828>
+          <rdf:Description rdf:about="http://www.ebi.ac.uk/QuickGO/term/GO:0043087 ">
+            <rdfs:label xml:lang="en">regulation of GTPase activity</rdfs:label>
+          </rdf:Description>
+        </ns0:NCIT_C17828>
+
+        <ns0:NCIT_C17828>
+          <rdf:Description rdf:about="http://www.ebi.ac.uk/QuickGO/term/GO:0090331">
+            <rdfs:label xml:lang="en">negative regulation of platelet aggregation</rdfs:label>
+          </rdf:Description>
+        </ns0:NCIT_C17828>
+
+        <ns0:NCIT_C17828>
+          <rdf:Description rdf:about="http://www.ebi.ac.uk/QuickGO/term/GO:1904706">
+            <rdfs:label xml:lang="en">negative regulation of vascular associated smooth muscle cell proliferation</rdfs:label>
+          </rdf:Description>
+        </ns0:NCIT_C17828>
+
+        <ns0:NCIT_C17828>
+          <rdf:Description rdf:about="http://www.ebi.ac.uk/QuickGO/term/GO:0019934">
+            <rdfs:label xml:lang="en">cGMP-mediated signaling</rdfs:label>
+          </rdf:Description>
+        </ns0:NCIT_C17828>
+
+        <ns0:NCIT_C17828>
+          <rdf:Description rdf:about="http://www.ebi.ac.uk/QuickGO/term/GO:1904753">
+            <rdfs:label xml:lang="en">negative regulation of vascular associated smooth muscle cell migration</rdfs:label>
+          </rdf:Description>
+        </ns0:NCIT_C17828>
+
+        <ns0:NCIT_C17828>
+          <rdf:Description rdf:about="http://www.ebi.ac.uk/QuickGO/term/GO:0060087">
+            <rdfs:label xml:lang="en">relaxation of vascular associated smooth muscle</rdfs:label>
+          </rdf:Description>
+        </ns0:NCIT_C17828>
+
+        <ns0:NCIT_C17828>
+          <rdf:Description rdf:about="http://www.ebi.ac.uk/QuickGO/term/GO:0030900">
+            <rdfs:label xml:lang="en">forebrain development</rdfs:label>
+          </rdf:Description>
+        </ns0:NCIT_C17828>
+
+        <ns0:NCIT_C17828 rdf:resource="http://www.ebi.ac.uk/QuickGO/term/GO:0006468"/>
+        <ns0:NCIT_C17828>
+          <rdf:Description rdf:about="http://www.ebi.ac.uk/QuickGO/term/GO:0030036">
+            <rdfs:label xml:lang="en">actin cytoskeleton organization</rdfs:label>
+          </rdf:Description>
+        </ns0:NCIT_C17828>
+
+        <ns0:NCIT_C17828>
+          <rdf:Description rdf:about="http://www.ebi.ac.uk/QuickGO/term/GO:0016358 ">
+            <rdfs:label xml:lang="en">dendrite development</rdfs:label>
+          </rdf:Description>
+        </ns0:NCIT_C17828>
+
+        <ns0:NCIT_C17828>
+          <rdf:Description rdf:about="http://www.ebi.ac.uk/QuickGO/term/GO:0048668">
+            <rdfs:label xml:lang="en">collateral sprouting</rdfs:label>
+          </rdf:Description>
+        </ns0:NCIT_C17828>
+
+        <ns0:NCIT_C17828>
+          <rdf:Description rdf:about="http://www.ebi.ac.uk/QuickGO/term/GO:0001764 ">
+            <rdfs:label xml:lang="en">neuron migration</rdfs:label>
+          </rdf:Description>
+        </ns0:NCIT_C17828>
+
+        <ns2:C47902 rdf:resource="http://pubmed.ncbi.nlm.nih.gov/36312753"/>
+        <ns0:NCIT_C123886 xml:lang="en">50990888-52298423</ns0:NCIT_C123886>
+        <ns1:SIO_000128 rdf:resource="https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&amp;ns=ncit&amp;code=C13205"/>
+        <ns0:GO_0003674>
+          <rdf:Description rdf:about="http://www.ebi.ac.uk/QuickGO/term/GO:0005246">
+            <rdfs:label xml:lang="en">calcium channel regulator activity</rdfs:label>
+          </rdf:Description>
+        </ns0:GO_0003674>
+
+        <ns0:GO_0003674>
+          <rdf:Description rdf:about="http://www.ebi.ac.uk/QuickGO/term/GO:0106310">
+            <rdfs:label xml:lang="en">protein serine kinase activity</rdfs:label>
+          </rdf:Description>
+        </ns0:GO_0003674>
+
+        <ns0:GO_0003674 rdf:resource="http://www.ebi.ac.uk/QuickGO/term/GO:0004672"/>
+        <ns0:GO_0003674>
+          <rdf:Description rdf:about="http://www.ebi.ac.uk/QuickGO/term/GO:0042802 ">
+            <rdfs:label xml:lang="en">identical protein binding</rdfs:label>
+          </rdf:Description>
+        </ns0:GO_0003674>
+
+        <ns0:GO_0003674 rdf:resource="http://www.ebi.ac.uk/QuickGO/term/GO:0005524"/>
+        <ns0:GO_0003674>
+          <rdf:Description rdf:about="http://www.ebi.ac.uk/QuickGO/term/GO:0030553">
+            <rdfs:label xml:lang="en">cGMP binding</rdfs:label>
+          </rdf:Description>
+        </ns0:GO_0003674>
+
+        <ns0:GO_0003674>
+          <rdf:Description rdf:about="http://www.ebi.ac.uk/QuickGO/term/GO:0004692">
+            <rdfs:label xml:lang="en">cGMP-dependent protein kinase activity</rdfs:label>
+          </rdf:Description>
+        </ns0:GO_0003674>
+
+        <rdfs:label xml:lang="en">PRKG1</rdfs:label>
+        <ns1:SIO_000115>
+          <rdf:Description rdf:about="https://grch37.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000185532">
+            <rdfs:label xml:lang="en">ENSG00000185532</rdfs:label>
+          </rdf:Description>
+        </ns1:SIO_000115>
+
+        <ns1:SIO_000115>
+          <rdf:Description rdf:about="https://www.uniprot.org/uniprotkb/Q13976">
+            <rdfs:label xml:lang="en">Q13976</rdfs:label>
+          </rdf:Description>
+        </ns1:SIO_000115>
+
+        <ns0:SO_0000159 xml:lang="en">chr10:g.51074854delC</ns0:SO_0000159>
+        <ns0:GO_0005575>
+          <rdf:Description rdf:about="http://www.ebi.ac.uk/QuickGO/term/GO:0005794">
+            <rdfs:label xml:lang="en">Golgi apparatus</rdfs:label>
+          </rdf:Description>
+        </ns0:GO_0005575>
+
+        <ns0:GO_0005575 rdf:resource="http://www.ebi.ac.uk/QuickGO/term/GO:0005886 "/>
+        <ns0:GO_0005575 rdf:resource="http://www.ebi.ac.uk/QuickGO/term/GO:0005829"/>
+        <ns0:GO_0005575 rdf:resource="http://www.ebi.ac.uk/QuickGO/term/GO:0005737"/>
+        <ns0:SO_1000002 xml:lang="en">chr10:g.52282280C&gt;T</ns0:SO_1000002>
+        <ns1:SIO_000136 xml:lang="en">Protein kinase cGMP-dependent 1</ns1:SIO_000136>
+      </rdf:Description>
+    </ns1:SIO_000987>
+
+    <ns1:SIO_000987>
+      <rdf:Description rdf:about="http://purl.obolibrary.org/obo/OGG_3000005376">
+        <ns0:NCIT_C17828 rdf:resource="http://www.ebi.ac.uk/QuickGO/term/GO:0010977"/>
+        <ns0:NCIT_C17828>
+          <rdf:Description rdf:about="http://www.ebi.ac.uk/QuickGO/term/GO:0032288">
+            <rdfs:label xml:lang="en">myelin assembly</rdfs:label>
+          </rdf:Description>
+        </ns0:NCIT_C17828>
+
+        <ns0:NCIT_C17828 rdf:resource="http://www.ebi.ac.uk/QuickGO/term/GO:0032060"/>
+        <ns0:NCIT_C17828>
+          <rdf:Description rdf:about="http://www.ebi.ac.uk/QuickGO/term/GO:0008285">
+            <rdfs:label xml:lang="en">negative regulation of cell population proliferation</rdfs:label>
+          </rdf:Description>
+        </ns0:NCIT_C17828>
+
+        <ns0:NCIT_C17828>
+          <rdf:Description rdf:about="http://www.ebi.ac.uk/QuickGO/term/GO:0007422">
+            <rdfs:label xml:lang="en">peripheral nervous system development</rdfs:label>
+          </rdf:Description>
+        </ns0:NCIT_C17828>
+
+        <ns0:NCIT_C17828>
+          <rdf:Description rdf:about="http://www.ebi.ac.uk/QuickGO/term/GO:0008219">
+            <rdfs:label xml:lang="en">cell death</rdfs:label>
+          </rdf:Description>
+        </ns0:NCIT_C17828>
+
+        <ns0:NCIT_C17828>
+          <rdf:Description rdf:about="http://www.ebi.ac.uk/QuickGO/term/GO:0007268">
+            <rdfs:label xml:lang="en">chemical synaptic transmission</rdfs:label>
+          </rdf:Description>
+        </ns0:NCIT_C17828>
+
+        <ns0:NCIT_C17828 rdf:resource="http://www.ebi.ac.uk/QuickGO/term/GO:0030154"/>
+        <ns0:RO_0002353>
+          <rdf:Description rdf:about="https://reactome.org/content/detail/R-HSA-9615626">
+            <rdfs:label xml:lang="en">PMP22 gene expression</rdfs:label>
+            <ns0:FMA_223408 rdf:resource="http://www.ebi.ac.uk/QuickGO/term/GO:0005654"/>
+            <ns0:FMA_223408 rdf:resource="http://www.ebi.ac.uk/QuickGO/term/GO:0005886"/>
+          </rdf:Description>
+        </ns0:RO_0002353>
+
+        <ns1:SIO_000136 xml:lang="en">Peripheral myelin protein 22</ns1:SIO_000136>
+        <rdfs:label xml:lang="en">PMP22</rdfs:label>
+        <ns0:GO_0005575>
+          <rdf:Description rdf:about="http://www.ebi.ac.uk/QuickGO/term/GO:0005923">
+            <rdfs:label xml:lang="en">bicellular tight junction</rdfs:label>
+          </rdf:Description>
+        </ns0:GO_0005575>
+
+        <ns0:GO_0005575 rdf:resource="http://www.ebi.ac.uk/QuickGO/term/GO:0005886 "/>
+        <ns0:GO_0005575 rdf:resource="http://www.ebi.ac.uk/QuickGO/term/GO:0045202"/>
+        <ns0:GO_0005575>
+          <rdf:Description rdf:about="http://www.ebi.ac.uk/QuickGO/term/GO:0043218">
+            <rdfs:label xml:lang="en">compact myelin</rdfs:label>
+          </rdf:Description>
+        </ns0:GO_0005575>
+
+        <ns1:SIO_000115>
+          <rdf:Description rdf:about="https://www.uniprot.org/uniprotkb/Q01453">
+            <rdfs:label xml:lang="en">Q01453</rdfs:label>
+          </rdf:Description>
+        </ns1:SIO_000115>
+
+        <ns1:SIO_000115>
+          <rdf:Description rdf:about="https://grch37.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000109099">
+            <rdfs:label xml:lang="en">ENSG00000109099</rdfs:label>
+          </rdf:Description>
+        </ns1:SIO_000115>
+
+        <ns0:NCIT_C123886 xml:lang="en">15229773-15272292</ns0:NCIT_C123886>
+        <ns2:C47902>
+          <rdf:Description rdf:about="http://pubmed.ncbi.nlm.nih.gov/36217151">
+            <rdfs:label xml:lang="en">Unraveling the structures, functions and mechanisms of epithelial membrane protein family in human cancers</rdfs:label>
+            <ns0:MI_0886 xml:lang="en">2022</ns0:MI_0886>
+          </rdf:Description>
+        </ns2:C47902>
+
+        <ns1:SIO_000128 rdf:resource="https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&amp;ns=ncit&amp;code=C13212"/>
+      </rdf:Description>
+    </ns1:SIO_000987>
+
+    <ns1:SIO_000987 rdf:resource="http://purl.obolibrary.org/obo/OGG_3000003708"/>
+    <ns1:SIO_000987 rdf:resource="http://purl.obolibrary.org/obo/OGG_3000007994"/>
+    <ns1:SIO_000987 rdf:resource="http://purl.obolibrary.org/obo/OGG_3000005355"/>
+    <ns1:SIO_000987 rdf:resource="http://purl.obolibrary.org/obo/OGG_3000023111"/>
+    <ns1:SIO_000987>
+      <rdf:Description rdf:about="http://purl.obolibrary.org/obo/OGG_3000057659">
+        <ns1:SIO_000136 xml:lang="en">Zinc finger and BTB domain containing 4</ns1:SIO_000136>
+        <ns0:GO_0005575 rdf:resource="http://www.ebi.ac.uk/QuickGO/term/GO:0005829"/>
+        <ns0:GO_0005575 rdf:resource="http://www.ebi.ac.uk/QuickGO/term/GO:0005654"/>
+        <ns0:GO_0005575>
+          <rdf:Description rdf:about="http://www.ebi.ac.uk/QuickGO/term/GO:0016604">
+            <rdfs:label xml:lang="en">nuclear body</rdfs:label>
+          </rdf:Description>
+        </ns0:GO_0005575>
+
+        <ns0:GO_0005575>
+          <rdf:Description rdf:about="http://www.ebi.ac.uk/QuickGO/term/GO:0005694">
+            <rdfs:label xml:lang="en">chromosome</rdfs:label>
+          </rdf:Description>
+        </ns0:GO_0005575>
+
+        <ns0:GO_0005575 rdf:resource="http://www.ebi.ac.uk/QuickGO/term/GO:0005634"/>
+        <ns0:GO_0003674 rdf:resource="http://www.ebi.ac.uk/QuickGO/term/GO:0000978"/>
+        <ns0:GO_0003674 rdf:resource="http://www.ebi.ac.uk/QuickGO/term/GO:0019901"/>
+        <ns0:GO_0003674 rdf:resource="http://www.ebi.ac.uk/QuickGO/term/GO:0000981"/>
+        <ns0:GO_0003674>
+          <rdf:Description rdf:about="http://www.ebi.ac.uk/QuickGO/term/GO:0042803">
+            <rdfs:label xml:lang="en">protein homodimerization activity</rdfs:label>
+          </rdf:Description>
+        </ns0:GO_0003674>
+
+        <ns0:GO_0003674 rdf:resource="http://www.ebi.ac.uk/QuickGO/term/GO:0000977"/>
+        <ns0:GO_0003674 rdf:resource="http://www.ebi.ac.uk/QuickGO/term/GO:0046872"/>
+        <ns0:GO_0003674>
+          <rdf:Description rdf:about="http://www.ebi.ac.uk/QuickGO/term/GO:0010428">
+            <rdfs:label xml:lang="en">methyl-CpNpG binding</rdfs:label>
+          </rdf:Description>
+        </ns0:GO_0003674>
+
+        <ns0:GO_0003674>
+          <rdf:Description rdf:about="http://www.ebi.ac.uk/QuickGO/term/GO:0001227">
+            <rdfs:label xml:lang="en">DNA-binding transcription repressor activity, RNA polymerase II-specific</rdfs:label>
+          </rdf:Description>
+        </ns0:GO_0003674>
+
+        <ns0:GO_0003674>
+          <rdf:Description rdf:about="http://www.ebi.ac.uk/QuickGO/term/GO:0008327 ">
+            <rdfs:label xml:lang="en">methyl-CpG binding</rdfs:label>
+          </rdf:Description>
+        </ns0:GO_0003674>
+
+        <ns0:GO_0003674>
+          <rdf:Description rdf:about="http://www.ebi.ac.uk/QuickGO/term/GO:0043565 ">
+            <rdfs:label xml:lang="en">sequence-specific DNA binding</rdfs:label>
+          </rdf:Description>
+        </ns0:GO_0003674>
+
+        <ns1:SIO_000128 rdf:resource="https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&amp;ns=ncit&amp;code=C13212"/>
+        <ns0:NCIT_C17828 rdf:resource="http://www.ebi.ac.uk/QuickGO/term/GO:0006355"/>
+        <ns0:NCIT_C17828 rdf:resource="http://www.ebi.ac.uk/QuickGO/term/GO:0000122"/>
+        <ns0:NCIT_C17828>
+          <rdf:Description rdf:about="http://www.ebi.ac.uk/QuickGO/term/GO:0006974">
+            <rdfs:label xml:lang="en">DNA damage response</rdfs:label>
+          </rdf:Description>
+        </ns0:NCIT_C17828>
+
+        <ns0:NCIT_C17828 rdf:resource="http://www.ebi.ac.uk/QuickGO/term/GO:0045892"/>
+        <ns2:C47902>
+          <rdf:Description rdf:about="http://pubmed.ncbi.nlm.nih.gov/36949454">
+            <rdfs:label xml:lang="en">Identification of ZBTB4 as an immunological biomarker that can inhibit the proliferation and invasion of pancreatic cancer</rdfs:label>
+            <ns0:MI_0886 xml:lang="en">2023</ns0:MI_0886>
+          </rdf:Description>
+        </ns2:C47902>
+
+        <ns1:SIO_000115>
+          <rdf:Description rdf:about="https://www.uniprot.org/uniprotkb/Q9P1Z0">
+            <rdfs:label xml:lang="en">Q9P1Z0</rdfs:label>
+          </rdf:Description>
+        </ns1:SIO_000115>
+
+        <ns1:SIO_000115>
+          <rdf:Description rdf:about="https://grch37.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000174282">
+            <rdfs:label xml:lang="en">ENSG00000174282</rdfs:label>
+          </rdf:Description>
+        </ns1:SIO_000115>
+
+        <ns0:SO_1000002 xml:lang="en">chr17:g.7463806C&gt;T</ns0:SO_1000002>
+        <ns0:NCIT_C123886 xml:lang="en">7459366-7484263</ns0:NCIT_C123886>
+        <rdfs:label xml:lang="en">ZBTB4</rdfs:label>
+      </rdf:Description>
+    </ns1:SIO_000987>
+
+    <ns1:SIO_000987>
+      <rdf:Description rdf:about="http://purl.obolibrary.org/obo/OGG_3000010910">
+        <ns0:GO_0005575 rdf:resource="http://www.ebi.ac.uk/QuickGO/term/GO:0005829"/>
+        <ns0:GO_0005575>
+          <rdf:Description rdf:about="http://www.ebi.ac.uk/QuickGO/term/GO:0000151">
+            <rdfs:label xml:lang="en">ubiquitin ligase complex</rdfs:label>
+          </rdf:Description>
+        </ns0:GO_0005575>
+
+        <ns0:GO_0005575 rdf:resource="http://www.ebi.ac.uk/QuickGO/term/GO:0005634"/>
+        <ns0:GO_0005575>
+          <rdf:Description rdf:about="http://www.ebi.ac.uk/QuickGO/term/GO:0000776">
+            <rdfs:label xml:lang="en">kinetochore</rdfs:label>
+          </rdf:Description>
+        </ns0:GO_0005575>
+
+        <ns0:GO_0005575>
+          <rdf:Description rdf:about="http://www.ebi.ac.uk/QuickGO/term/GO:0032991">
+            <rdfs:label xml:lang="en">protein-containing complex</rdfs:label>
+          </rdf:Description>
+        </ns0:GO_0005575>
+
+        <ns1:SIO_000136 xml:lang="en">SGT1 homolog, MIS12 kinetochore complex assembly cochaperone</ns1:SIO_000136>
+        <ns0:GO_0003674>
+          <rdf:Description rdf:about="http://www.ebi.ac.uk/QuickGO/term/GO:0051087">
+            <rdfs:label xml:lang="en">protein-folding chaperone binding</rdfs:label>
+          </rdf:Description>
+        </ns0:GO_0003674>
+
+        <ns2:C47902>
+          <rdf:Description rdf:about="http://pubmed.ncbi.nlm.nih.gov/36983764">
+            <rdfs:label xml:lang="en">Alteration in Levels of Specific miRNAs and Their Potential Protein Targets between Human Pancreatic Cancer Samples, Adjacent Normal Tissue, and Xenografts Derived from These Tumors</rdfs:label>
+            <ns0:MI_0886 xml:lang="en">2023</ns0:MI_0886>
+          </rdf:Description>
+        </ns2:C47902>
+
+        <ns1:SIO_000115>
+          <rdf:Description rdf:about="https://grch37.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000165416">
+            <rdfs:label xml:lang="en">ENSG00000165416</rdfs:label>
+          </rdf:Description>
+        </ns1:SIO_000115>
+
+        <ns1:SIO_000115>
+          <rdf:Description rdf:about="https://www.uniprot.org/uniprotkb/Q9Y2Z0">
+            <rdfs:label xml:lang="en">Q9Y2Z0</rdfs:label>
+          </rdf:Description>
+        </ns1:SIO_000115>
+
+        <ns0:NCIT_C123886 xml:lang="en">52652709-52700909</ns0:NCIT_C123886>
+        <ns0:NCIT_C17828>
+          <rdf:Description rdf:about="http://www.ebi.ac.uk/QuickGO/term/GO:0031647">
+            <rdfs:label xml:lang="en">regulation of protein stability</rdfs:label>
+          </rdf:Description>
+        </ns0:NCIT_C17828>
+
+        <ns0:NCIT_C17828>
+          <rdf:Description rdf:about="http://www.ebi.ac.uk/QuickGO/term/GO:0000278">
+            <rdfs:label xml:lang="en">mitotic cell cycle</rdfs:label>
+          </rdf:Description>
+        </ns0:NCIT_C17828>
+
+        <ns0:NCIT_C17828>
+          <rdf:Description rdf:about="http://www.ebi.ac.uk/QuickGO/term/GO:0050821">
+            <rdfs:label xml:lang="en">protein stabilization</rdfs:label>
+          </rdf:Description>
+        </ns0:NCIT_C17828>
+
+        <ns0:TXPO_0000039>
+          <rdf:Description rdf:about="https://reactome.org/content/detail/R-HSA-874112">
+            <ns0:FMA_223408 rdf:resource="http://www.ebi.ac.uk/QuickGO/term/GO:0005829"/>
+            <rdfs:label xml:lang="en">SUGT1:HSP90</rdfs:label>
+          </rdf:Description>
+        </ns0:TXPO_0000039>
+
+        <ns0:RO_0002352>
+          <rdf:Description rdf:about="https://reactome.org/content/detail/R-HSA-874087">
+            <rdfs:label xml:lang="en">SGT1 binds HSP90</rdfs:label>
+            <ns0:FMA_223408 rdf:resource="http://www.ebi.ac.uk/QuickGO/term/GO:0005829"/>
+          </rdf:Description>
+        </ns0:RO_0002352>
+
+        <ns1:SIO_000128 rdf:resource="https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&amp;ns=ncit&amp;code=C13208"/>
+        <rdfs:label xml:lang="en">SUGT1</rdfs:label>
+      </rdf:Description>
+    </ns1:SIO_000987>
+
+    <ns1:SIO_000987 rdf:resource="http://purl.obolibrary.org/obo/OGG_3000003223"/>
+    <ns1:SIO_000987 rdf:resource="http://purl.obolibrary.org/obo/OGG_3000006840"/>
+    <ns1:SIO_000987 rdf:resource="http://purl.obolibrary.org/obo/OGG_3000023600"/>
+    <ns1:SIO_000987 rdf:resource="http://purl.obolibrary.org/obo/OGG_3000005933"/>
+    <ns1:SIO_000987>
+      <rdf:Description rdf:about="http://purl.obolibrary.org/obo/OGG_3000001809">
+        <ns0:GO_0005575>
+          <rdf:Description rdf:about="http://www.ebi.ac.uk/QuickGO/term/GO:0031941">
+            <rdfs:label xml:lang="en">filamentous actin</rdfs:label>
+          </rdf:Description>
+        </ns0:GO_0005575>
+
+        <ns0:GO_0005575 rdf:resource="http://www.ebi.ac.uk/QuickGO/term/GO:0030027"/>
+        <ns0:GO_0005575 rdf:resource="http://www.ebi.ac.uk/QuickGO/term/GO:0045202"/>
+        <ns0:GO_0005575>
+          <rdf:Description rdf:about="http://www.ebi.ac.uk/QuickGO/term/GO:0044297">
+            <rdfs:label xml:lang="en">cell body</rdfs:label>
+          </rdf:Description>
+        </ns0:GO_0005575>
+
+        <ns0:GO_0005575 rdf:resource="http://www.ebi.ac.uk/QuickGO/term/GO:0005615"/>
+        <ns0:GO_0005575>
+          <rdf:Description rdf:about="http://www.ebi.ac.uk/QuickGO/term/GO:0070382 ">
+            <rdfs:label xml:lang="en">exocytic vesicle</rdfs:label>
+          </rdf:Description>
+        </ns0:GO_0005575>
+
+        <ns0:GO_0005575 rdf:resource="http://www.ebi.ac.uk/QuickGO/term/GO:0005829"/>
+        <ns0:GO_0005575>
+          <rdf:Description rdf:about="http://www.ebi.ac.uk/QuickGO/term/GO:0030426">
+            <rdfs:label xml:lang="en">growth cone</rdfs:label>
+          </rdf:Description>
+        </ns0:GO_0005575>
+
+        <ns0:NCIT_C17828>
+          <rdf:Description rdf:about="http://www.ebi.ac.uk/QuickGO/term/GO:0010976">
+            <rdfs:label xml:lang="en">positive regulation of neuron projection development</rdfs:label>
+          </rdf:Description>
+        </ns0:NCIT_C17828>
+
+        <ns0:NCIT_C17828>
+          <rdf:Description rdf:about="http://www.ebi.ac.uk/QuickGO/term/GO:0048666">
+            <rdfs:label xml:lang="en">neuron development</rdfs:label>
+          </rdf:Description>
+        </ns0:NCIT_C17828>
+
+        <ns0:NCIT_C17828>
+          <rdf:Description rdf:about="http://www.ebi.ac.uk/QuickGO/term/GO:0051764">
+            <rdfs:label xml:lang="en">actin crosslink formation</rdfs:label>
+          </rdf:Description>
+        </ns0:NCIT_C17828>
+
+        <ns0:NCIT_C17828 rdf:resource="http://www.ebi.ac.uk/QuickGO/term/GO:0010977"/>
+        <ns0:NCIT_C17828 rdf:resource="http://www.ebi.ac.uk/QuickGO/term/GO:0051017"/>
+        <ns0:NCIT_C17828>
+          <rdf:Description rdf:about="http://www.ebi.ac.uk/QuickGO/term/GO:0071345">
+            <rdfs:label xml:lang="en">cellular response to cytokine stimulus</rdfs:label>
+          </rdf:Description>
+        </ns0:NCIT_C17828>
+
+        <ns0:NCIT_C17828>
+          <rdf:Description rdf:about="http://www.ebi.ac.uk/QuickGO/term/GO:0030336">
+            <rdfs:label xml:lang="en">negative regulation of cell migration</rdfs:label>
+          </rdf:Description>
+        </ns0:NCIT_C17828>
+
+        <ns0:NCIT_C17828>
+          <rdf:Description rdf:about="http://www.ebi.ac.uk/QuickGO/term/GO:0048678">
+            <rdfs:label xml:lang="en">response to axon injury</rdfs:label>
+          </rdf:Description>
+        </ns0:NCIT_C17828>
+
+        <ns0:NCIT_C17828>
+          <rdf:Description rdf:about="http://www.ebi.ac.uk/QuickGO/term/GO:0051491">
+            <rdfs:label xml:lang="en">positive regulation of filopodium assembly</rdfs:label>
+          </rdf:Description>
+        </ns0:NCIT_C17828>
+
+        <ns1:SIO_000128 rdf:resource="https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&amp;ns=ncit&amp;code=C13221"/>
+        <ns1:SIO_000115>
+          <rdf:Description rdf:about="https://www.uniprot.org/uniprotkb/Q14195">
+            <rdfs:label xml:lang="en">Q14195</rdfs:label>
+          </rdf:Description>
+        </ns1:SIO_000115>
+
+        <ns1:SIO_000115>
+          <rdf:Description rdf:about="https://grch37.ensembl.org/Homo_sapiens/Gene/Summary?g=ENSG00000113657">
+            <rdfs:label xml:lang="en">ENSG00000113657</rdfs:label>
+          </rdf:Description>
+        </ns1:SIO_000115>
+
+        <rdfs:label xml:lang="en">DPYSL3</rdfs:label>
+        <ns1:SIO_000136 xml:lang="en">Dihydropyrimidinase like 3</ns1:SIO_000136>
+        <ns0:GO_0003674>
+          <rdf:Description rdf:about="http://www.ebi.ac.uk/QuickGO/term/GO:0017124">
+            <rdfs:label xml:lang="en">SH3 domain binding</rdfs:label>
+          </rdf:Description>
+        </ns0:GO_0003674>
+
+        <ns0:GO_0003674>
+          <rdf:Description rdf:about="http://www.ebi.ac.uk/QuickGO/term/GO:0042802">
+            <rdfs:label xml:lang="en">identical protein binding</rdfs:label>
+          </rdf:Description>
+        </ns0:GO_0003674>
+
+        <ns0:GO_0003674>
+          <rdf:Description rdf:about="http://www.ebi.ac.uk/QuickGO/term/GO:0035374">
+            <rdfs:label xml:lang="en">chondroitin sulfate binding</rdfs:label>
+          </rdf:Description>
+        </ns0:GO_0003674>
+
+        <ns0:GO_0003674>
+          <rdf:Description rdf:about="http://www.ebi.ac.uk/QuickGO/term/GO:0016810">
+            <rdfs:label xml:lang="en">hydrolase activity</rdfs:label>
+          </rdf:Description>
+        </ns0:GO_0003674>
+
+        <ns0:GO_0003674>
+          <rdf:Description rdf:about="http://www.ebi.ac.uk/QuickGO/term/GO:0031005">
+            <rdfs:label xml:lang="en">filamin binding</rdfs:label>
+          </rdf:Description>
+        </ns0:GO_0003674>
+
+        <ns0:NCIT_C123886 xml:lang="en">147390808-147510068</ns0:NCIT_C123886>
+        <ns2:C47902>
+          <rdf:Description rdf:about="http://pubmed.ncbi.nlm.nih.gov/28639202">
+            <ns0:MI_0886 xml:lang="en">2017</ns0:MI_0886>
+            <rdfs:label xml:lang="en">Suppression of Prostate Cancer Metastasis by DPYSL3-Targeted saRNA</rdfs:label>
+          </rdf:Description>
+        </ns2:C47902>
+
+        <ns0:RO_0002350>
+          <rdf:Description rdf:about="https://reactome.org/content/detail/R-HSA-399825">
+            <ns0:FMA_223408 rdf:resource="http://www.ebi.ac.uk/QuickGO/term/GO:0005829"/>
+            <rdfs:label xml:lang="en">CRMP's 1-5</rdfs:label>
+          </rdf:Description>
+        </ns0:RO_0002350>
+
+      </rdf:Description>
+    </ns1:SIO_000987>
+
+    <ns1:SIO_000987 rdf:resource="http://purl.obolibrary.org/obo/OGG_3000007078"/>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://www.ebi.ac.uk/QuickGO/term/GO:0005782">
+    <rdfs:label xml:lang="en">peroxisomal matrix</rdfs:label>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://www.ebi.ac.uk/QuickGO/term/GO:0005654">
+    <rdfs:label xml:lang="en">nucleoplasm</rdfs:label>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://www.ebi.ac.uk/QuickGO/term/GO:0045944">
+    <rdfs:label xml:lang="en">positive regulation of transcription by RNA polymerase II</rdfs:label>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://www.ebi.ac.uk/QuickGO/term/GO:0006357">
+    <rdfs:label xml:lang="en">regulation of transcription by RNA polymerase II</rdfs:label>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://www.ebi.ac.uk/QuickGO/term/GO:0032154">
+    <rdfs:label xml:lang="en">cleavage furrow</rdfs:label>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&amp;ns=ncit&amp;code=C13212">
+    <rdfs:label xml:lang="en">17</rdfs:label>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://www.ebi.ac.uk/QuickGO/term/GO:0016020">
+    <rdfs:label xml:lang="en">membrane</rdfs:label>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&amp;ns=ncit&amp;code=C13205">
+    <rdfs:label xml:lang="en">10</rdfs:label>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://www.ebi.ac.uk/QuickGO/term/GO:0005516">
+    <rdfs:label xml:lang="en">calmodulin binding</rdfs:label>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://www.ebi.ac.uk/QuickGO/term/GO:0000981">
+    <rdfs:label xml:lang="en">DNA-binding transcription factor activity</rdfs:label>
+    <rdfs:label xml:lang="en">DNA-binding transcription factor activity, RNA polymerase II-specific</rdfs:label>
+    <rdfs:label xml:lang="en">RNA polymerase II-specific</rdfs:label>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&amp;ns=ncit&amp;code=C13208">
+    <rdfs:label xml:lang="en">13</rdfs:label>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&amp;ns=ncit&amp;code=C13221">
+    <rdfs:label xml:lang="en">5</rdfs:label>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://www.ebi.ac.uk/QuickGO/term/GO:0045202">
+    <rdfs:label xml:lang="en">synapse</rdfs:label>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://www.ebi.ac.uk/QuickGO/term/GO:0005634">
+    <rdfs:label xml:lang="en">nucleus</rdfs:label>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://www.ebi.ac.uk/QuickGO/term/GO:0000122">
+    <rdfs:label xml:lang="en">negative regulation of transcription by RNA polymerase II</rdfs:label>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://www.ebi.ac.uk/QuickGO/term/GO:0005737">
+    <rdfs:label xml:lang="en">cytoplasm</rdfs:label>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://www.ebi.ac.uk/QuickGO/term/GO:0000978">
+    <rdfs:label xml:lang="en">RNA polymerase II cis-regulatory region sequence-specific DNA binding</rdfs:label>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://www.ebi.ac.uk/QuickGO/term/GO:0045892">
+    <rdfs:label xml:lang="en">negative regulation of DNA-templated transcription</rdfs:label>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&amp;ns=ncit&amp;code=C13219">
+    <rdfs:label xml:lang="en">3</rdfs:label>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://www.ebi.ac.uk/QuickGO/term/GO:0005783">
+    <rdfs:label xml:lang="en">endoplasmic reticulum</rdfs:label>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://www.ebi.ac.uk/QuickGO/term/GO:0030027">
+    <rdfs:label xml:lang="en">lamellipodium</rdfs:label>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://www.ebi.ac.uk/QuickGO/term/GO:0006468">
+    <rdfs:label xml:lang="en">protein phosphorylation</rdfs:label>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://www.ebi.ac.uk/QuickGO/term/GO:0015629">
+    <rdfs:label xml:lang="en">actin cytoskeleton</rdfs:label>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://www.ebi.ac.uk/QuickGO/term/GO:0005730">
+    <rdfs:label xml:lang="en">nucleolus</rdfs:label>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="https://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&amp;ns=ncit&amp;code=C13207">
+    <rdfs:label xml:lang="en">12</rdfs:label>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://www.ebi.ac.uk/QuickGO/term/GO:0006355">
+    <rdfs:label xml:lang="en">regulation of DNA-templated transcription</rdfs:label>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://www.ebi.ac.uk/QuickGO/term/GO:0000977">
+    <rdfs:label xml:lang="en">RNA polymerase II transcription regulatory region sequence-specific DNA binding</rdfs:label>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://www.ebi.ac.uk/QuickGO/term/GO:0005789">
+    <rdfs:label xml:lang="en">endoplasmic reticulum membrane</rdfs:label>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://www.ebi.ac.uk/QuickGO/term/GO:0005886 ">
+    <rdfs:label xml:lang="en">plasma membrane</rdfs:label>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://pubmed.ncbi.nlm.nih.gov/36312753">
+    <rdfs:label xml:lang="en">GPX2 predicts recurrence-free survival and triggers the Wnt/β-catenin/EMT pathway in prostate cancer</rdfs:label>
+    <ns0:MI_0886 xml:lang="en">2022</ns0:MI_0886>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://www.ebi.ac.uk/QuickGO/term/GO:0051017">
+    <rdfs:label xml:lang="en">actin filament bundle assembly</rdfs:label>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://www.ebi.ac.uk/QuickGO/term/GO:0004672">
+    <rdfs:label xml:lang="en">protein kinase activity</rdfs:label>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://www.ebi.ac.uk/QuickGO/term/GO:0009952">
+    <rdfs:label xml:lang="en">anterior/posterior pattern specification</rdfs:label>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://www.ebi.ac.uk/QuickGO/term/GO:0005615">
+    <rdfs:label xml:lang="en">extracellular space</rdfs:label>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://www.ebi.ac.uk/QuickGO/term/GO:0030154">
+    <rdfs:label xml:lang="en">cell differentiation</rdfs:label>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://www.ebi.ac.uk/QuickGO/term/GO:0005829">
+    <rdfs:label xml:lang="en">cytosol</rdfs:label>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://www.ebi.ac.uk/QuickGO/term/GO:0005576">
+    <rdfs:label xml:lang="en">extracellular region</rdfs:label>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://www.ebi.ac.uk/QuickGO/term/GO:0030496">
+    <rdfs:label xml:lang="en">midbody</rdfs:label>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://www.ebi.ac.uk/QuickGO/term/GO:0007165">
+    <rdfs:label xml:lang="en">signal transduction</rdfs:label>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://www.ebi.ac.uk/QuickGO/term/GO:0005524">
+    <rdfs:label xml:lang="en">ATP binding</rdfs:label>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://www.ebi.ac.uk/QuickGO/term/GO:0005886">
+    <rdfs:label xml:lang="en">plasma membrane</rdfs:label>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://www.ebi.ac.uk/QuickGO/term/GO:0046872">
+    <rdfs:label xml:lang="en">metal ion binding</rdfs:label>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://www.ebi.ac.uk/QuickGO/term/GO:0010977">
+    <rdfs:label xml:lang="en">negative regulation of neuron projection development</rdfs:label>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://www.ebi.ac.uk/QuickGO/term/GO:0000785">
+    <rdfs:label xml:lang="en">chromatin</rdfs:label>
+  </rdf:Description>
+
+</rdf:RDF>
